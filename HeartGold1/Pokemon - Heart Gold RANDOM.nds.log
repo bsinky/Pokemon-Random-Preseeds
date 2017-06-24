@@ -1,0 +1,1514 @@
+﻿Pokemon base stats & type: unchanged
+
+--Removing Trade Evolutions--
+Made POLIWHIRL evolve into POLITOED by leveling up holding King’s Rock
+Made KADABRA evolve into ALAKAZAM at level 37
+Made MACHOKE evolve into MACHAMP at level 37
+Made GRAVELER evolve into GOLEM at level 37
+Made SLOWPOKE evolve into SLOWKING using a Water Stone
+Made MAGNETON evolve into MAGNEZONE at level 40
+Made HAUNTER evolve into GENGAR at level 37
+Made ONIX evolve into STEELIX by leveling up holding Metal Coat
+Made RHYDON evolve into RHYPERIOR by leveling up holding Protector
+Made SEADRA evolve into KINGDRA by leveling up holding Dragon Scale
+Made SCYTHER evolve into SCIZOR by leveling up holding Metal Coat
+Made ELECTABUZZ evolve into ELECTIVIRE by leveling up holding Electirizer
+Made MAGMAR evolve into MAGMORTAR by leveling up holding Magmarizer
+Made EEVEE evolve into LEAFEON using a Leaf Stone
+Made EEVEE evolve into GLACEON using a Dawn Stone
+Made PORYGON evolve into PORYGON2 by leveling up holding Up-Grade
+Made PORYGON2 evolve into PORYGON-Z by leveling up holding Dubious Disc
+Made NOSEPASS evolve into PROBOPASS at level 40
+Made FEEBAS evolve into MILOTIC at level 35
+Made DUSCLOPS evolve into DUSKNOIR by leveling up holding Reaper Cloth
+Made CLAMPERL evolve into HUNTAIL by leveling up holding DeepSeaTooth
+Made CLAMPERL evolve into GOREBYSS by leveling up holding DeepSeaScale
+
+--Condensed Level Evolutions--
+RHYHORN now evolves into RHYDON at minimum level 40
+DRAGONAIR now evolves into DRAGONITE at minimum level 40
+PUPITAR now evolves into TYRANITAR at minimum level 40
+ARON now evolves into LAIRON at minimum level 30
+LAIRON now evolves into AGGRON at minimum level 40
+TRAPINCH now evolves into VIBRAVA at minimum level 30
+VIBRAVA now evolves into FLYGON at minimum level 40
+SNORUNT now evolves into GLALIE at minimum level 40
+SPHEAL now evolves into SEALEO at minimum level 30
+SEALEO now evolves into WALREIN at minimum level 40
+SHELGON now evolves into SALAMENCE at minimum level 40
+METANG now evolves into METAGROSS at minimum level 40
+GABITE now evolves into GARCHOMP at minimum level 40
+
+--Random Starters--
+Set starter 1 to HERACROSS
+Set starter 2 to GENGAR
+Set starter 3 to LARVITAR
+
+Move Data: Unchanged.
+
+Pokemon Movesets: Unchanged.
+
+--Trainers Pokemon--
+#1 (Rival Marcellus) - SMOOCHUM Lv14, MEDITITE Lv16, HERACROSS Lv18
+#2 (Rival Marcellus) - SHROOMISH Lv5
+#3 (Rival Marcellus) - UNOWN Lv5
+#4 (Bug Catcher Mia) - POOCHYENA Lv2, POOCHYENA Lv2, POOCHYENA Lv3, POOCHYENA Lv2
+#5 (Beauty Forrest) - SWINUB Lv9, SWINUB Lv13, SWINUB Lv16
+#6 (Policeman Forrest) - VIBRAVA Lv17
+#7 (Juggler Scarlett) - DODUO Lv2, STARAVIA Lv6, SKIPLOOM Lv10, DRIFLOON Lv14
+#8 (Youngster Ann) - SPINARAK Lv4
+#9 (Swimmer♀ Joe) - SHIELDON Lv21
+#10 (Twins Stu & Nick) - MAREEP Lv10, MAREEP Lv10
+#11 (Kimono Girl Crystal) - SMOOCHUM Lv20, SNORUNT Lv20, SNOVER Lv18
+#12 (Team Rocket Esteban) - SHINX Lv7, MAREEP Lv9, SHINX Lv9
+#13 (Team Rocket Leo) - SHINX Lv9, SHINX Lv11
+#14 (Burglar Chloe) - MIME JR. Lv23, SLOWKING Lv25, UNOWN Lv23
+#15 (Firebreather Marcellus) - URSARING Lv43, EXPLOUD Lv40, TAUROS Lv47
+#16 (Swimmer♂ Mia) - ANORITH Lv20, SKORUPI Lv20
+#17 (Black Belt Tia) - NIDORINO Lv28
+#18 (Fisherman Jill) - TYROGUE Lv5, TYROGUE Lv5, TYROGUE Lv15, TYROGUE Lv5
+#19 (Biker Crystal) - MACHOP Lv20, CROAGUNK Lv20, MACHOP Lv20
+#20 (Leader Kristine) - PIDGEY Lv9, TEDDIURSA Lv13
+#21 (Leader Robin) - MAGNEZONE Lv17, PICHU Lv15, PICHU Lv15
+#22 (Lass Robin) - SPHEAL Lv17
+#23 (Poké Maniac Thomas) - SMOOCHUM Lv11
+#24 (School Kid Marshall) - METANG Lv17
+#25 (Hiker Dudley) - TOTODILE Lv4, PSYDUCK Lv6, SPHEAL Lv8
+#26 (Camper Wellington) - BUDEW Lv9
+#27 (Picnicker Marcellus) - PINECO Lv8
+#28 (Ace Trainer Joe) - SABLEYE Lv33, DUSKNOIR Lv35, MISMAGIUS Lv33
+#29 (Bird Keeper Rachel) - BIDOOF Lv7, TOGEPI Lv7
+#30 (Leader Pansy) - SMOOCHUM Lv17, LAPRAS Lv19
+#31 (Leader Kristine) - MEDITITE Lv21, MACHOKE Lv21, BLAZIKEN Lv25, COMBUSKEN Lv23
+#32 (Leader Lawrence) - BELLSPROUT Lv30, LUDICOLO Lv32, SUNFLORA Lv34
+#33 (Leader Cristiano) - MANTYKE Lv30, GOLDEEN Lv30, STARMIE Lv35
+#34 (Leader Max) - SHELGON Lv29, FLYGON Lv31
+#35 (Leader Scott) - HIPPOWDON Lv38, MARSHTOMP Lv38, QUAGSIRE Lv38, TORTERRA Lv41
+#36 (Ace Trainer Mallorie) - BELLSPROUT Lv36, SHIFTRY Lv36
+#37 (Gentleman Tia) - GIBLE Lv18, GIBLE Lv18
+#38 (Teacher Joey) - HORSEA Lv45
+#39 (Sailor Scarlett) - MURKROW Lv17, SNEASEL Lv17, CARVANHA Lv19
+#40 (Super Nerd Crystal) - TENTACOOL Lv20
+#41 (Guitarist Anne) - PURUGLY Lv42
+#42 (Psychic Mike) - BRONZONG Lv26
+#43 (Sage Dudley) - CHIMCHAR Lv3, CYNDAQUIL Lv3, CHARMANDER Lv3
+#44 (Pokéfan Ann) - GEODUDE Lv18
+#45 (Pokéfan Lillianna) - NUMEL Lv17
+#46 (Medium Lillianna) - MEDITITE Lv18, MACHOKE Lv20, MEDITITE Lv20
+#47 (Youngster Jessica) - WHISMUR Lv2, PIDGEY Lv4
+#48 (Bug Catcher Esteban) - MARSHTOMP Lv40, OMANYTE Lv39
+#49 (Youngster Alex) - SPINARAK Lv6, SPINARAK Lv8
+#50 (Bird Keeper Veronica) - SLAKOTH Lv9
+#51 (Sage Pi) - HOUNDOUR Lv3, VULPIX Lv3, CHARMANDER Lv3
+#52 (Sage Bob) - TORCHIC Lv3, CHARMANDER Lv3, HOUNDOUR Lv3
+#53 (Sage Jessica) - CYNDAQUIL Lv6
+#54 (Sage Kim) - CHARMANDER Lv7, SLUGMA Lv7
+#55 (Sage Ann) - CHARMANDER Lv6
+#56 (Youngster Jessica) - LOTAD Lv10
+#57 (Fisherman Thomas) - PINECO Lv10
+#58 (Fisherman Marshall) - CHINCHOU Lv44
+#59 (Fisherman Mike) - PIKACHU Lv39, LANTURN Lv35, ELECTRIKE Lv39
+#60 (Fisherman Veronica) - VENONAT Lv8, PARAS Lv8
+#61 (Hiker Jill) - JIGGLYPUFF Lv11, MEOWTH Lv11
+#62 (Youngster Marshall) - SWINUB Lv7, SNORUNT Lv10, SWINUB Lv8, SWINUB Lv8
+#63 (Team Rocket Crystal) - SABLEYE Lv14
+#64 (Youngster Esteban) - ELECTRIKE Lv10, SHINX Lv12
+#65 (Picnicker Jo) - DUSKULL Lv9, DUSKULL Lv9, SHUPPET Lv12
+#66 (Camper Joey) - VENONAT Lv14
+#67 (Bug Catcher Anne) - PICHU Lv7, PICHU Lv9, LUXIO Lv12
+#68 (Bug Catcher Mallorie) - PICHU Lv12, PICHU Lv12
+#69 (Bug Catcher Mark) - MAREEP Lv13
+#70 (Beauty Leo) - SPHEAL Lv16, SPHEAL Lv16
+#71 (Lass Malcolm) - SNORUNT Lv15, SNORUNT Lv15, SWINUB Lv15
+#72 (Bird Keeper Noelle) - LARVITAR Lv12, ARON Lv14
+#73 (Bird Keeper Cristiano) - COMBEE Lv17, NINCADA Lv15, SPINARAK Lv19, COMBEE Lv15, COMBEE Lv15
+#74 (Camper Lawrence) - HOPPIP Lv10, LOTAD Lv10, PARAS Lv14
+#75 (Camper Mia) - PHANPY Lv13, SWINUB Lv15
+#76 (Picnicker Pi) - SHUPPET Lv16
+#77 (Picnicker Lawrence) - BALTOY Lv15
+#78 (Bug Catcher Antoinette) - BONSLY Lv15
+#79 (Bug Catcher Tia) - MONFERNO Lv39, GALLADE Lv40
+#80 (Policeman Daniel) - OMANYTE Lv14, NOSEPASS Lv14
+#81 (Twins Zoe & Kim) - WYNAUT Lv16, MEDITITE Lv16
+#82 (Bird Keeper Cristiano) - MEDITITE Lv16, RIOLU Lv17, MACHOP Lv18
+#83 (Picnicker Zoey) - NINJASK Lv48
+#84 (Camper Esteban) - PINSIR Lv48
+#85 (Swimmer♀ Stacey) - CHINCHOU Lv19, ELECTRIKE Lv19
+#86 (Swimmer♂ Webster) - CHINCHOU Lv18, PLUSLE Lv20, CHINCHOU Lv18
+#87 (Sage Crystal) - MACHOKE Lv22
+#88 (Sage Crystal) - RIOLU Lv16, RIOLU Lv16, MEDITITE Lv16, CROAGUNK Lv16, RIOLU Lv16
+#89 (Medium Jo) - MACHOKE Lv20, COMBUSKEN Lv20
+#90 (Swimmer♀ Pi) - SHUPPET Lv18, DRIFLOON Lv20, DUSCLOPS Lv20
+#91 (Swimmer♀ Jacqueline) - VENONAT Lv20, VENONAT Lv22
+#92 (Swimmer♀ Kate) - CARVANHA Lv22
+#93 (Swimmer♀ Max) - CHIKORITA Lv20, TANGROWTH Lv20
+#94 (Swimmer♀ Chloe) - PARAS Lv21, ODDISH Lv21
+#95 (Swimmer♂ Lillianna) - RIOLU Lv21, MACHOP Lv19, MACHAMP Lv19
+#96 (Swimmer♂ Chloe) - ARON Lv16, SHIELDON Lv17, SHIELDON Lv16, ARON Lv19, MAGNEMITE Lv17, MAGNEMITE Lv19
+#97 (Swimmer♂ Chloe) - BRELOOM Lv23
+#98 (Swimmer♂ Pansy) - WALREIN Lv20, LAPRAS Lv20
+#99 (Swimmer♂ Cammie) - ANORITH Lv23
+#100 (Hiker Jill) - ARIADOS Lv33, KRICKETUNE Lv32
+#101 (Team Rocket Jill) - SHUPPET Lv9, DUSKULL Lv9
+#102 (Ace Trainer Marshall) - YANMEGA Lv32, SCYTHER Lv32, PINSIR Lv32
+#103 (Ace Trainer Jacqueline) - ALTARIA Lv33, SHELGON Lv31, DRATINI Lv31
+#104 (Ace Trainer Leo) - BARBOACH Lv35
+#105 (Ace Trainer Crystal) - SNUBBULL Lv10, GLAMEOW Lv10, MEOWTH Lv10
+#106 (Ace Trainer Crystal) - PINECO Lv10, PARAS Lv10, PINECO Lv10
+#107 (Ace Trainer Crystal) - DUSKULL Lv10, GASTLY Lv10, SHUPPET Lv10
+#108 (Ace Trainer Florentino) - SNEASEL Lv25, FROSLASS Lv27
+#109 (Ace Trainer Esteban) - DRAGONAIR Lv24, SHELGON Lv24, DRAGONAIR Lv24
+#110 (Ace Trainer Jimmy) - LARVITAR Lv35, PILOSWINE Lv35, GIBLE Lv35
+#111 (Ace Trainer Webster) - PILOSWINE Lv38
+#112 (Ace Trainer Jo) - NINCADA Lv35, PUPITAR Lv37
+#113 (Ace Trainer Landon) - JYNX Lv36, SNOVER Lv31
+#114 (Ace Trainer Joey) - STARAVIA Lv36, STARAVIA Lv33, AIPOM Lv36
+#115 (Ace Trainer Malcolm) - ELECTRIKE Lv32, MINUN Lv32, AMPHAROS Lv32
+#116 (Ace Trainer Veronica) - GULPIN Lv25, SWALOT Lv25
+#117 (Ace Trainer Cammie) - SANDSHREW Lv35, PUPITAR Lv37
+#118 (Ace Trainer Jasmine) - EXEGGCUTE Lv26, STARMIE Lv28
+#119 (Ace Trainer Cammie) - PILOSWINE Lv38
+#120 (Ace Trainer Kim) - BALTOY Lv22, GRUMPIG Lv24
+#121 (Ace Trainer Kate) - BRONZOR Lv27, MAWILE Lv24, MAWILE Lv24
+#122 (Fisherman Leo) - WOOPER Lv10, NIDOKING Lv20, WOOPER Lv15
+#123 (Fisherman Kimberley) - JYNX Lv19
+#124 (Fisherman Jessica) - BELLSPROUT Lv26, SKORUPI Lv26, WEEZING Lv28
+#125 (Fisherman Stacey) - PARAS Lv28, PINECO Lv28
+#126 (Fisherman Jacqueline) - FLYGON Lv27
+#127 (Fisherman Tristian) - CASCOON Lv22, SILCOON Lv22, METAPOD Lv22, METAPOD Lv22
+#128 (Fisherman Antoinette) - PINECO Lv33, SCYTHER Lv37, SHEDINJA Lv33, SCYTHER Lv37
+#129 (Poké Maniac Veronica) - CHINCHOU Lv17, CHINCHOU Lv17
+#130 (Poké Maniac Kristine) - BLAZIKEN Lv20
+#131 (Poké Maniac Daniel) - CHINCHOU Lv20, FLAAFFY Lv24
+#132 (Poké Maniac Florentino) - SNORLAX Lv20
+#133 (Poké Maniac Joey) - SKORUPI Lv39, ARBOK Lv39
+#134 (Hiker Thomas) - BAGON Lv15, GIBLE Lv15, DRAGONAIR Lv17
+#135 (School Kid Pansy) - MAGNEMITE Lv39, MINUN Lv40, JOLTEON Lv42
+#136 (Lass Jill) - PINECO Lv41, MASQUERAIN Lv43, SCIZOR Lv45
+#137 (Bird Keeper Pansy) - NINCADA Lv28, SKORUPI Lv28
+#138 (Camper Crystal) - BEAUTIFLY Lv15
+#139 (Picnicker Max) - FLOATZEL Lv41
+#140 (Bug Catcher Bob) - FARFETCH’D Lv39, FARFETCH’D Lv37
+#141 (Camper Crystal) - HOUNDOUR Lv15
+#142 (Picnicker Jo) - COMBEE Lv24, SPEAROW Lv24, TOGETIC Lv32
+#143 (Hiker Lawrence) - NIDORAN♀ Lv24, NIDORINA Lv27, BULBASAUR Lv27
+#144 (Hiker Thomas) - LARVITAR Lv25, OMANYTE Lv25, ARMALDO Lv25
+#145 (Hiker Chloe) - MAWILE Lv30
+#146 (Hiker Scarlett) - NIDORAN♀ Lv27, DUSTOX Lv27
+#147 (Camper Jimmy) - GEODUDE Lv17
+#148 (Camper Cristiano) - TOXICROAK Lv46
+#149 (Camper Jo) - HARIYAMA Lv44, HITMONCHAN Lv42
+#150 (Camper Marcellus) - MUNCHLAX Lv43, NOCTOWL Lv40, CHANSEY Lv40
+#151 (Picnicker Esteban) - TANGELA Lv17, LOMBRE Lv14
+#152 (Picnicker Forrest) - ONIX Lv44
+#153 (Picnicker Chloe) - MURKROW Lv41, CACTURNE Lv43
+#154 (Hiker Dudley) - CHINCHOU Lv13, POLIWAG Lv13, SPHEAL Lv13, PSYDUCK Lv13, KRABBY Lv13
+#155 (Hiker Jill) - MONFERNO Lv37, MONFERNO Lv38, MACHOKE Lv40
+#156 (Black Belt Crystal) - SHELGON Lv27
+#157 (Black Belt Dudley) - DRAGONAIR Lv27
+#158 (Black Belt Cristiano) - MASQUERAIN Lv34, ARMALDO Lv34
+#159 (Black Belt Lawrence) - GIBLE Lv23, DRATINI Lv23, GABITE Lv25
+#160 (Kimono Girl Marilyn) - HUNTAIL Lv38
+#161 (Kimono Girl Jacqueline) - RHYDON Lv38
+#162 (Kimono Girl Bob) - HERACROSS Lv38
+#163 (Kimono Girl Landon) - AMBIPOM Lv38
+#164 (Kimono Girl Marilyn) - STARAPTOR Lv38
+#165 (Swimmer♀ Crystal) - LAIRON Lv28
+#166 (Swimmer♀ Crystal) - CRADILY Lv29
+#167 (Swimmer♀ Crystal) - ABOMASNOW Lv20
+#168 (Swimmer♂ Crystal) - DRIFLOON Lv25, FROSLASS Lv26, GASTLY Lv25
+#169 (Swimmer♂ Crystal) - TROPIUS Lv27, ALTARIA Lv27
+#170 (Swimmer♂ Crystal) - CHINGLING Lv24, ESPEON Lv25, KIRLIA Lv24
+#171 (Swimmer♂ Crystal) - DRATINI Lv15, GIBLE Lv15, DRAGONAIR Lv20
+#172 (Poké Maniac Daniel) - SABLEYE Lv32, NUZLEAF Lv34, DRAPION Lv32
+#173 (Poké Maniac Daniel) - SHUCKLE Lv41, LILEEP Lv38, GRAVELER Lv38, GRAVELER Lv43
+#174 (Biker Crystal) - BAGON Lv20, VIBRAVA Lv20, BAGON Lv20
+#175 (Medium Wellington) - LUNATONE Lv25
+#176 (Medium Mark) - MAGCARGO Lv25
+#177 (Medium Lillianna) - ILLUMISE Lv25
+#178 (School Kid Alex) - EEVEE Lv12, STARAVIA Lv15
+#179 (School Kid Jill) - NATU Lv36, SLOWPOKE Lv36, SPOINK Lv40, XATU Lv40
+#180 (Beauty Crystal) - SILCOON Lv15
+#181 (Pokéfan Wayne) - WAILORD Lv16
+#182 (Pokéfan Crystal) - DROWZEE Lv16
+#183 (Lass Cristiano) - LEDIAN Lv41, PARASECT Lv45, SHUCKLE Lv41
+#184 (Lass Joey) - RHYHORN Lv14, SANDSHREW Lv17
+#185 (Team Rocket Veronica) - LEDIAN Lv24, MASQUERAIN Lv24
+#186 (Team Rocket Kimberley) - GROWLITHE Lv23, GROWLITHE Lv23, BLAZIKEN Lv25
+#187 (Team Rocket Landon) - MEDITITE Lv21, MEDITITE Lv21, KIRLIA Lv23, WYNAUT Lv23, MEDITITE Lv23
+#188 (Team Rocket Webster) - BRONZOR Lv26, BRONZOR Lv26
+#189 (Team Rocket Antoinette) - DRATINI Lv23, GIBLE Lv23, GIBLE Lv23, GIBLE Lv23
+#190 (Team Rocket Lillianna) - GENGAR Lv26
+#191 (Team Rocket Crystal) - SABLEYE Lv24, NUZLEAF Lv26
+#192 (Team Rocket Landon) - SLUGMA Lv22, TORKOAL Lv24, TORCHIC Lv22
+#193 (Team Rocket Lillianna) - DRAPION Lv23, HOUNDOUR Lv23, POOCHYENA Lv25
+#194 (Team Rocket Crystal) - VOLTORB Lv33
+#195 (Team Rocket Zoey) - DRATINI Lv27
+#196 (Team Rocket Jimmy) - MURKROW Lv24, SPIRITOMB Lv24
+#197 (Team Rocket Jill) - DRATINI Lv26, DRAGONAIR Lv23
+#198 (Team Rocket Tia) - PACHIRISU Lv26
+#199 (Team Rocket Chloe) - ELEKID Lv25, FLAAFFY Lv25
+#200 (Team Rocket Rachel) - BAGON Lv21, BAGON Lv23, DRATINI Lv21, GABITE Lv24
+#201 (Poké Maniac Pansy) - SEALEO Lv24, SEALEO Lv24
+#202 (Poké Maniac Marcellus) - BRELOOM Lv26
+#203 (Hiker Jessica) - GEODUDE Lv23, MARSHTOMP Lv25
+#204 (Hiker Kate) - BELDUM Lv23, SLOWPOKE Lv25
+#205 (Ace Trainer Florentino) - SMOOCHUM Lv26, CHINGLING Lv26, SMOOCHUM Lv26
+#206 (Ace Trainer Jimmy) - NUMEL Lv26, CHARIZARD Lv22, NINETALES Lv22, HOUNDOOM Lv22
+#207 (Beauty Crystal) - WOOPER Lv15
+#208 (Beauty Crystal) - WARTORTLE Lv16
+#209 (Beauty Cammie) - DRIFBLIM Lv36, TOGETIC Lv42
+#210 (Beauty Pi) - WYNAUT Lv38, ABRA Lv40, WYNAUT Lv38
+#211 (Sailor Veronica) - SWABLU Lv18, FARFETCH’D Lv20
+#212 (Sailor Ann) - MACHOKE Lv20
+#213 (Sailor Mike) - LARVITAR Lv18, VIBRAVA Lv20
+#214 (Sailor Antoinette) - NUMEL Lv18, VULPIX Lv18, COMBUSKEN Lv18
+#215 (Lass Scarlett) - SWINUB Lv21
+#216 (Team Rocket Jimmy) - NIDORAN♂ Lv16, SPINARAK Lv16, NIDORAN♀ Lv16, SPINARAK Lv16
+#217 (Bird Keeper Malcolm) - PIDGEY Lv18, PERSIAN Lv20, SKITTY Lv18
+#218 (Team Rocket Marilyn) - NIDOKING Lv18
+#219 (Team Rocket Kristine) - COMBEE Lv17, HOPPIP Lv17, HOPPIP Lv17
+#220 (Team Rocket Pansy) - ELECTRIKE Lv18, PIKACHU Lv18
+#221 (Team Rocket Crystal) - LOTAD Lv22
+#222 (Team Rocket Lawrence) - SANDSLASH Lv19
+#223 (Team Rocket Mark) - VENONAT Lv17, LEDYBA Lv19
+#224 (Team Rocket Thomas) - SURSKIT Lv16, ANORITH Lv17, SPINARAK Lv18
+#225 (Team Rocket Crystal) - ELECTABUZZ Lv36
+#226 (Team Rocket Crystal) - SHIELDON Lv30
+#227 (Team Rocket Mark) - CHINCHOU Lv25, LUXIO Lv25
+#228 (Team Rocket Zoey) - MAGNEMITE Lv24, RAICHU Lv24
+#229 (Team Rocket Crystal) - SEEDOT Lv15, CHERUBI Lv15
+#230 (Psychic Rachel) - NOSEPASS Lv44, RHYDON Lv47
+#231 (Gentleman Kimberley) - GABITE Lv41
+#232 (Guitarist Thomas) - DUSKNOIR Lv45, GASTLY Lv43, GASTLY Lv42
+#233 (Super Nerd Jimmy) - SKORUPI Lv11, SKORUPI Lv11
+#234 (Hiker Jo) - VOLBEAT Lv42, KRICKETUNE Lv42, BEEDRILL Lv42
+#235 (Hiker Lawrence) - GEODUDE Lv39, ARMALDO Lv42
+#236 (Ace Trainer Marilyn) - WEAVILE Lv43, SEALEO Lv43, DEWGONG Lv43
+#237 (Ace Trainer Mia) - STARAPTOR Lv43, STARAPTOR Lv43, GOLBAT Lv43
+#238 (Sailor Esteban) - DRATINI Lv39, GABITE Lv41, GIBLE Lv34
+#239 (Sailor Sonya) - RATTATA Lv40, FURRET Lv40
+#240 (Sailor Alex) - VESPIQUEN Lv42
+#241 (Sailor Marilyn) - SHEDINJA Lv36, SHUPPET Lv36, DRIFBLIM Lv36, GASTLY Lv36
+#242 (Juggler Alex) - ARMALDO Lv37, SCYTHER Lv37, MASQUERAIN Lv37
+#243 (Swimmer♀ Malcolm) - ALTARIA Lv41
+#244 (Champion Joey) - DRIFBLIM Lv46, DUSKNOIR Lv49, DUSKNOIR Lv49, FROSLASS Lv48, DRIFBLIM Lv48, DUSKNOIR Lv50
+#245 (Elite Four Kim) - MISDREAVUS Lv40, FROSLASS Lv41, SPIRITOMB Lv41, DUSKNOIR Lv41, FROSLASS Lv42
+#246 (Elite Four Donna) - ROSERADE Lv42, ROSERADE Lv42, NIDOQUEEN Lv45, NIDORINO Lv44, SEVIPER Lv47
+#247 (Elite Four Scott) - MONFERNO Lv40, COMBUSKEN Lv41, MACHAMP Lv43, HITMONTOP Lv42, MACHAMP Lv44
+#248 (Bug Catcher Pi) - POOCHYENA Lv43, MURKROW Lv43, MURKROW Lv43
+#249 (Bug Catcher Esteban) - WOOPER Lv3, WOOPER Lv3
+#250 (Black Belt Tia) - MARSHTOMP Lv27, LUMINEON Lv32, POLIWHIRL Lv27, WARTORTLE Lv32
+#251 (Black Belt Crystal) - DRATINI Lv25, DRAGONAIR Lv25
+#252 (Swimmer♂ Wellington) - SWABLU Lv42, MASQUERAIN Lv40
+#253 (Leader Antoinette) - METANG Lv51, ARON Lv51, MAGNETON Lv53, MAWILE Lv54, MAGNEZONE Lv52
+#254 (Leader Scarlett) - GARDEVOIR Lv49, JYNX Lv49, CLAYDOL Lv52, EXEGGUTOR Lv54
+#255 (Leader Webster) - DRIFBLIM Lv51, GENGAR Lv47, DRIFBLIM Lv47, SPIRITOMB Lv47, DRIFBLIM Lv53
+#256 (Leader Webster) - CHATOT Lv51, SKARMORY Lv52, DODRIO Lv56, MANTINE Lv56
+#257 (Leader Daniel) - HERACROSS Lv47, NINJASK Lv44, DUSTOX Lv47, MOTHIM Lv47, PARASECT Lv50
+#258 (Leader Daniel) - PROBOPASS Lv53, BASTIODON Lv53, BASTIODON Lv55
+#259 (Leader Mallorie) - SABLEYE Lv54, SHIFTRY Lv54, SHIFTRY Lv59
+#260 ([PK][MN] Trainer Mike) - BULBASAUR Lv88, MUK Lv80, CROBAT Lv82, TOXICROAK Lv84, DRAPION Lv84, DRAPION Lv84
+#261 (Leader Kimberley) - INFERNAPE Lv55, FLAREON Lv58, RAPIDASH Lv58, FLAREON Lv52, CAMERUPT Lv56, NINETALES Lv60
+#262 (Team Rocket Crystal) - NIDOQUEEN Lv25, PILOSWINE Lv25, MARSHTOMP Lv30
+#263 (Rival Marcellus) - MACHOP Lv20, CROAGUNK Lv18, MAKUHITA Lv20, HERACROSS Lv22
+#264 (Rival Marcellus) - MAGCARGO Lv36, PONYTA Lv38, MAGMAR Lv37, MAGBY Lv37, MAGBY Lv37, HERACROSS Lv40
+#265 (Rival Marcellus) - PIKACHU Lv5
+#266 (Rival Marcellus) - ODDISH Lv14, HOPPIP Lv16, GENGAR Lv18
+#267 (Rival Marcellus) - BAGON Lv20, VIBRAVA Lv18, BAGON Lv20, GENGAR Lv22
+#268 (Rival Marcellus) - SEALEO Lv36, LANTURN Lv38, GOLDUCK Lv37, SEALEO Lv37, QWILFISH Lv37, GENGAR Lv40
+#269 (Rival Marcellus) - GIBLE Lv14, DRATINI Lv16, PUPITAR Lv18
+#270 (Rival Marcellus) - HOUNDOUR Lv20, NUMEL Lv18, SLUGMA Lv20, PUPITAR Lv22
+#271 (Rival Marcellus) - VENOMOTH Lv30, GASTLY Lv28, QWILFISH Lv30, QWILFISH Lv32, PUPITAR Lv32
+#272 (Rival Marcellus) - SOLROCK Lv36, RHYDON Lv38, ARMALDO Lv37, LUNATONE Lv37, ONIX Lv37, TYRANITAR Lv40
+#273 (Swimmer♂ Crystal) - VIBRAVA Lv13, KINGDRA Lv18, GIBLE Lv16
+#274 (Camper Joey) - CROAGUNK Lv17, RIOLU Lv17, CROAGUNK Lv31
+#275 (Camper Joey) - NATU Lv23, MASQUERAIN Lv33, STARAPTOR Lv36, WINGULL Lv32
+#276 (Picnicker Marcellus) - MAGCARGO Lv35, GROWLITHE Lv38
+#277 (Picnicker Marcellus) - MEDICHAM Lv39, KADABRA Lv38, CLAYDOL Lv40
+#278 (Black Belt Tia) - PONYTA Lv30, CHARIZARD Lv37, QUILAVA Lv33, TORKOAL Lv41
+#279 (Youngster Ann) - MINUN Lv34
+#280 (Youngster Ann) - CHARMELEON Lv40
+#281 (Firebreather Webster) - MASQUERAIN Lv18
+#282 (Firebreather Cristiano) - RHYHORN Lv16, CRANIDOS Lv17, ARON Lv16
+#283 (Burglar Jimmy) - LILEEP Lv26, OMANYTE Lv24
+#284 (Burglar Jacqueline) - GASTLY Lv33, BANETTE Lv36, SHUPPET Lv33, SABLEYE Lv38
+#285 (Rival Marcellus) - LUNATONE Lv46, BASTIODON Lv47, SOLROCK Lv46, OMASTAR Lv48, RELICANTH Lv48, HERACROSS Lv50
+#286 (Rival Marcellus) - MAGNETON Lv46, MAGNETON Lv47, AMPHAROS Lv46, JOLTEON Lv48, JOLTEON Lv48, GENGAR Lv50
+#287 (Rival Marcellus) - DUSCLOPS Lv46, DUSCLOPS Lv47, DUSCLOPS Lv46, BANETTE Lv48, DUSCLOPS Lv48, TYRANITAR Lv50
+#288 (Rival Marcellus) - RAPIDASH Lv32, HOUNDOUR Lv30, MAGCARGO Lv32, CHARMELEON Lv34, HERACROSS Lv34
+#289 (Rival Marcellus) - MAGMAR Lv32, VULPIX Lv30, MAGBY Lv32, MONFERNO Lv34, GENGAR Lv34
+#290 (Elder Lillianna) - TORCHIC Lv7, CYNDAQUIL Lv7, SLUGMA Lv10
+#291 (Swimmer♀ Marshall) - GASTLY Lv46
+#292 (Swimmer♀ Crystal) - VESPIQUEN Lv20
+#293 (Swimmer♀ Joey) - WINGULL Lv39, MARILL Lv39, POLITOED Lv42
+#294 (Swimmer♀ Wellington) - TORKOAL Lv42, ARCANINE Lv42, TYPHLOSION Lv42
+#295 (Swimmer♀ Crystal) - MAGMAR Lv20
+#296 (Swimmer♀ Jessica) - POLIWAG Lv37, SLOWBRO Lv42
+#297 (Swimmer♀ Florentino) - BRONZONG Lv48
+#298 (Swimmer♀ Antoinette) - SLOWKING Lv46, SLOWBRO Lv46
+#299 (Bird Keeper Landon) - CHERUBI Lv13, CACTURNE Lv44
+#300 (Bird Keeper Antoinette) - PACHIRISU Lv38, PACHIRISU Lv44
+#301 (Bird Keeper Dudley) - ELECTRIKE Lv39, CHINCHOU Lv37, RAICHU Lv41
+#302 (Bird Keeper Jessica) - ELECTRODE Lv48
+#303 (Bird Keeper Crystal) - CROAGUNK Lv44
+#304 (Camper Crystal) - FARFETCH’D Lv33, BIBAREL Lv36, TAUROS Lv40, SNORLAX Lv42
+#305 (Camper Crystal) - QUILAVA Lv33, COMBUSKEN Lv36, TORKOAL Lv40, MAGMORTAR Lv42
+#306 (Camper Crystal) - POLIWHIRL Lv33, CORSOLA Lv36, GOREBYSS Lv40, DEWGONG Lv42
+#307 (Camper Crystal) - COMBUSKEN Lv33, COMBUSKEN Lv36, MAGCARGO Lv40, TYPHLOSION Lv42
+#308 (Camper Florentino) - FORRETRESS Lv50
+#309 (Biker Mia) - SLOWPOKE Lv38, UNOWN Lv39, SLOWPOKE Lv40, SLOWPOKE Lv41
+#310 (Biker Pi) - MAGMORTAR Lv45
+#311 (Biker Jonathan) - FLAAFFY Lv43, VOLTORB Lv43
+#312 (Biker Florentino) - MAGBY Lv41, MONFERNO Lv41, HOUNDOOM Lv42
+#313 (Biker Florentino) - FERALIGATR Lv45
+#314 (Biker Zoey) - TORTERRA Lv43, RHYPERIOR Lv43
+#315 (Biker Ann) - SHELLOS Lv39, CRAWDAUNT Lv41, OCTILLERY Lv43
+#316 (Psychic Mia) - BAGON Lv39, BAGON Lv39, KINGDRA Lv39
+#317 (Psychic Wayne) - SHIFTRY Lv43
+#318 (Firebreather Forrest) - VILEPLUME Lv42, ROSELIA Lv45
+#319 (Firebreather Mallorie) - DELIBIRD Lv6, NATU Lv6
+#320 (Fisherman Cristiano) - SLOWPOKE Lv36, SLOWKING Lv42
+#321 (Fisherman Pi) - FORRETRESS Lv43, METANG Lv38, PROBOPASS Lv38
+#322 (Fisherman Cammie) - CROBAT Lv40, MUK Lv37, TOXICROAK Lv37
+#323 (Fisherman Kimberley) - GABITE Lv33
+#324 (Fisherman Kimberley) - SANDSHREW Lv30, TRAPINCH Lv30, SANDSLASH Lv38
+#325 (Fisherman Jessica) - DODUO Lv32, DODUO Lv32, GOLBAT Lv36
+#326 (Twins Max&Joe) - JUMPLUFF Lv47, ALTARIA Lv47
+#327 (School Kid Mia) - SEVIPER Lv43, DRAPION Lv43, WEEZING Lv43
+#328 (School Kid Max) - SKUNTANK Lv41, CACTURNE Lv43
+#329 (School Kid Pi) - LOMBRE Lv45
+#330 (School Kid Anne) - DUSCLOPS Lv44, GENGAR Lv42
+#331 (School Kid Malcolm) - ARIADOS Lv39, HAUNTER Lv37, GULPIN Lv35
+#332 (Picnicker Alex) - CHIMCHAR Lv43, CHARMANDER Lv43
+#333 (Picnicker Veronica) - KABUTO Lv41, CRAWDAUNT Lv45
+#334 (Picnicker Jo) - SPOINK Lv26, SPOINK Lv26, LUNATONE Lv44
+#335 (Picnicker Esteban) - NIDORINO Lv32, TOXICROAK Lv41
+#336 (Picnicker Daniel) - DRIFBLIM Lv49
+#337 (Gentleman Mark) - SHUPPET Lv46, DRIFLOON Lv43, SHUPPET Lv42
+#338 (Gentleman Crystal) - SEADRA Lv20
+#339 (Black Belt Cristiano) - MAWILE Lv38, MAWILE Lv40, BRONZOR Lv42
+#340 (Beauty Crystal) - ZUBAT Lv15
+#341 (Beauty Crystal) - ZUBAT Lv15
+#342 (Beauty Crystal) - STARLY Lv15
+#343 (Beauty Crystal) - GIBLE Lv15
+#344 (Beauty Crystal) - POOCHYENA Lv15
+#345 (Beauty Crystal) - PICHU Lv15
+#346 (Beauty Webster) - WINGULL Lv44, DRIFBLIM Lv44, MURKROW Lv47
+#347 (Beauty Crystal) - TYROGUE Lv15
+#348 (Pokéfan Donna) - DUSCLOPS Lv43
+#349 (Pokéfan Jimmy) - PARAS Lv32, SHEDINJA Lv32, PARAS Lv32, VENONAT Lv32, PINECO Lv32, SHEDINJA Lv32
+#350 (Pokéfan Noelle) - LOMBRE Lv38, BELLSPROUT Lv38, SNOVER Lv38
+#351 (Pokéfan Tristian) - DELIBIRD Lv42
+#352 (Pokéfan Chloe) - STARLY Lv31, STARLY Lv31, STARLY Lv31, YANMA Lv36, STARLY Lv31
+#353 (Team Rocket Sonya) - VESPIQUEN Lv39
+#354 (Lass Dudley) - PUPITAR Lv38, VIBRAVA Lv41, RHYDON Lv41
+#355 (Lass Bob) - BARBOACH Lv38, BARBOACH Lv38, PELIPPER Lv42
+#356 (Lass Sonya) - SWABLU Lv44, ZUBAT Lv45, GLIGAR Lv46
+#357 (Hiker Jill) - ILLUMISE Lv43, ILLUMISE Lv45
+#358 (Hiker Tristian) - ALTARIA Lv27, GABITE Lv29, FLYGON Lv33
+#359 (Hiker Landon) - GENGAR Lv45
+#360 (Bug Catcher Antoinette) - CYNDAQUIL Lv36
+#361 (Ace Trainer Ann) - TOTODILE Lv48, CORSOLA Lv46, AZUMARILL Lv46
+#362 (Ace Trainer Marilyn) - DELCATTY Lv47, PORYGON-Z Lv47
+#363 (Ace Trainer Mia) - SNOVER Lv28
+#364 (Super Nerd Anne) - EXEGGCUTE Lv44, GRUMPIG Lv44
+#365 (Super Nerd Jo) - DELIBIRD Lv40, DELIBIRD Lv40, SNOVER Lv40
+#366 (Super Nerd Wayne) - CHATOT Lv47
+#367 (Super Nerd Donna) - BELDUM Lv39, FORRETRESS Lv41, MAGNEMITE Lv39
+#368 (Medium Lillianna) - LARVITAR Lv45, OMASTAR Lv45
+#369 (Medium Landon) - GEODUDE Lv44, CRADILY Lv46
+#370 (Swimmer♂ Bob) - MASQUERAIN Lv36, SKORUPI Lv38, SCYTHER Lv40, SKORUPI Lv38
+#371 (Swimmer♂ Mia) - SWABLU Lv40, TOGEKISS Lv44
+#372 (Swimmer♂ Crystal) - TEDDIURSA Lv13, MILTANK Lv18, TAILLOW Lv16
+#373 (Swimmer♂ Marshall) - GLOOM Lv44
+#374 (Swimmer♂ Donna) - DUNSPARCE Lv42, GRANBULL Lv42
+#375 (Swimmer♂ Crystal) - GROWLITHE Lv13, FLAREON Lv18, CYNDAQUIL Lv16
+#376 (Swimmer♂ Crystal) - DRIFLOON Lv13, HONCHKROW Lv18, NATU Lv16
+#377 (Swimmer♂ Donna) - JIGGLYPUFF Lv43, CASTFORM Lv43
+#378 (Youngster Joe) - PUPITAR Lv38, CORSOLA Lv42
+#379 (Youngster Robin) - LUNATONE Lv42, MEDICHAM Lv42, SOLROCK Lv42
+#380 (Youngster Wayne) - GRIMER Lv44
+#381 (Youngster Crystal) - MURKROW Lv42, GYARADOS Lv42
+#382 (Teacher Daniel) - AZURILL Lv41, SPINDA Lv31
+#383 (Bird Keeper Mia) - SPINARAK Lv6, NIDORAN♀ Lv6, SPINARAK Lv8
+#384 (Hiker Marilyn) - HAUNTER Lv11
+#385 (Twins Kim&Zoe) - TAILLOW Lv16, PIDGEY Lv16
+#386 (Psychic Ann) - GLAMEOW Lv17
+#387 (Twins Stu & Nick) - SWINUB Lv10, SWINUB Lv10
+#388 (Firebreather Veronica) - LUCARIO Lv11, BRELOOM Lv16
+#389 (Psychic Noelle) - GRIMER Lv17, EKANS Lv20
+#390 (Firebreather Pansy) - SWABLU Lv9
+#391 (Poké Maniac Pansy) - WEEPINBELL Lv12
+#392 (Poké Maniac Noelle) - MAGNEMITE Lv11, BRONZOR Lv11
+#393 (Super Nerd Florentino) - PIKACHU Lv7, CHINCHOU Lv11, CHINCHOU Lv7, VOLTORB Lv9
+#394 (Ace Trainer Crystal) - STARYU Lv14, GOLDEEN Lv14, CORPHISH Lv14
+#395 (Psychic Scarlett) - SNUBBULL Lv14, GLAMEOW Lv14, PERSIAN Lv16
+#396 (Juggler Landon) - DRIFBLIM Lv43, BANETTE Lv43, DRIFBLIM Lv43
+#397 (School Kid Marilyn) - HERACROSS Lv20
+#398 (Beauty Jimmy) - POOCHYENA Lv18, NUZLEAF Lv18
+#399 (Firebreather Jasmine) - SHIELDON Lv36, AGGRON Lv39, SHIELDON Lv36
+#400 (Lass Jessica) - TEDDIURSA Lv19, PIDGEOTTO Lv19
+#401 (Gentleman Tristian) - PUPITAR Lv22
+#402 (Picnicker Max) - SHUPPET Lv21
+#403 (Camper Tristian) - CYNDAQUIL Lv18, COMBUSKEN Lv18, SLUGMA Lv20
+#404 (Team Rocket Lawrence) - SPEAROW Lv18, PELIPPER Lv18
+#405 (Psychic Wellington) - SKIPLOOM Lv27, MURKROW Lv29
+#406 (Poké Maniac Marilyn) - TOTODILE Lv30
+#407 (Ace Trainer Jessica) - MIGHTYENA Lv29, STUNKY Lv29
+#408 (Ace Trainer Marcellus) - HOOTHOOT Lv29, VESPIQUEN Lv29
+#409 (Pokéfan Bob) - VULPIX Lv13, CHIMCHAR Lv13
+#410 (Sailor Jimmy) - SHEDINJA Lv20
+#411 (Psychic Jessica) - EMPOLEON Lv36
+#412 (Psychic Jasmine) - KABUTOPS Lv30, CLAMPERL Lv30, LUMINEON Lv34
+#413 (Fisherman Jimmy) - MAGCARGO Lv30, MONFERNO Lv30, MAGMAR Lv34
+#414 (Bird Keeper Crystal) - TENTACOOL Lv40
+#415 (Psychic Antoinette) - LAIRON Lv42, LILEEP Lv42, OMANYTE Lv45
+#416 (Twins Max&Joe) - RAMPARDOS Lv37, RELICANTH Lv37
+#417 (Ace Trainer Wellington) - SPOINK Lv24, GALLADE Lv26
+#418 (Elite Four Robin) - FORRETRESS Lv42, BRONZONG Lv42, BASTIODON Lv42, METANG Lv43, SKARMORY Lv46
+#419 (Lass Crystal) - HAUNTER Lv40, SPIRITOMB Lv44
+#420 (Bird Keeper Jasmine) - OMANYTE Lv42
+#421 (Bird Keeper Scott) - DRATINI Lv41, GABITE Lv41
+#422 (Psychic Esteban) - NINCADA Lv37, WHISCASH Lv41
+#423 (Pokéfan Max) - SPHEAL Lv36, SHELLDER Lv36, TOTODILE Lv36
+#424 (Pokéfan Mallorie) - HOUNDOUR Lv40
+#425 (Twins Zoe&Kim) - CLEFAIRY Lv39, SPINDA Lv39
+#426 (Twins Zoe&Kim) - MANTYKE Lv39, LUVDISC Lv39
+#427 (Teacher Kristine) - PARASECT Lv43, PARAS Lv43
+#428 (School Kid Robin) - WEEPINBELL Lv40, LUDICOLO Lv40
+#429 (School Kid Antoinette) - DELIBIRD Lv40, SNORUNT Lv40
+#430 (School Kid Alex) - SABLEYE Lv29, NUZLEAF Lv17
+#431 (School Kid Alex) - GLISCOR Lv38, FEAROW Lv31
+#432 (School Kid Marshall) - RAICHU Lv32, PLUSLE Lv30
+#433 (School Kid Marshall) - FLYGON Lv32, FLYGON Lv36, DRAGONAIR Lv32, KINGDRA Lv34
+#434 (School Kid Marilyn) - DUSCLOPS Lv29, GASTLY Lv30
+#435 (School Kid Marilyn) - MANECTRIC Lv39, ELECTABUZZ Lv38
+#436 (Pokéfan Crystal) - SHEDINJA Lv31
+#437 (Pokéfan Crystal) - GOLBAT Lv43
+#438 (Pokéfan Ann) - SPOINK Lv24, SMOOCHUM Lv30
+#439 (Pokéfan Ann) - WOOPER Lv13, PHANPY Lv15, NUMEL Lv37, VIBRAVA Lv29
+#440 (Sailor Veronica) - LUXIO Lv34, MINUN Lv36
+#441 (Sailor Veronica) - COMBUSKEN Lv38, HOUNDOOM Lv41
+#442 (Lass Crystal) - STARLY Lv21
+#443 (Lass Crystal) - POOCHYENA Lv21
+#444 (Ace Trainer Joey) - LUXIO Lv38, ELEKID Lv36, VOLTORB Lv38
+#445 (Ace Trainer Joey) - SWAMPERT Lv47, SWAMPERT Lv43, WHISCASH Lv47
+#446 (Bird Keeper Crystal) - ELEKID Lv38, LUXIO Lv45
+#447 (Bird Keeper Pansy) - BARBOACH Lv33, RHYHORN Lv32
+#448 (Bird Keeper Pansy) - SHIELDON Lv37, FORRETRESS Lv38, MAGNETON Lv42
+#449 (Bug Catcher Antoinette) - MAGCARGO Lv43
+#450 (Fisherman Jessica) - ODDISH Lv32, GOLBAT Lv36, TOXICROAK Lv40
+#451 (Hiker Chloe) - HAUNTER Lv38, HAUNTER Lv35
+#452 (Hiker Chloe) - EMPOLEON Lv41, POLIWHIRL Lv37
+#453 (Picnicker Esteban) - FROSLASS Lv46, HAUNTER Lv39, DUSKNOIR Lv48
+#454 (Juggler Scarlett) - CACNEA Lv22, BULBASAUR Lv26, NUZLEAF Lv28, ODDISH Lv34
+#455 (Juggler Scarlett) - HOUNDOUR Lv34, HOUNDOUR Lv36, HOUNDOUR Lv38, CRAWDAUNT Lv42
+#456 (Ace Trainer Marshall) - NINETALES Lv34, HOUNDOOM Lv34, BLAZIKEN Lv34
+#457 (Ace Trainer Marshall) - GLACEON Lv38, ABOMASNOW Lv39, WEAVILE Lv38
+#458 (Ace Trainer Landon) - OMASTAR Lv38, FERALIGATR Lv37
+#459 (Ace Trainer Landon) - EMPOLEON Lv42, SKARMORY Lv40
+#460 (Bug Catcher Mia) - MACHOKE Lv28, MONFERNO Lv40, MONFERNO Lv37, MONFERNO Lv28
+#461 (Bug Catcher Mia) - TYROGUE Lv18, MACHOKE Lv29, TYROGUE Lv22, TYROGUE Lv18
+#462 (Fisherman Thomas) - SKUNTANK Lv40
+#463 (Fisherman Thomas) - MURKROW Lv45, CACTURNE Lv42
+#464 (Lass Jessica) - HOUNDOUR Lv32, CHIMCHAR Lv31
+#465 (Lass Jessica) - CLOYSTER Lv36, PILOSWINE Lv38
+#466 (Picnicker Max) - DUSKULL Lv34
+#467 (Picnicker Max) - SPIRITOMB Lv41
+#468 (Scientist Esteban) - SKORUPI Lv22, NIDORINO Lv22
+#469 (Scientist Wellington) - SNORUNT Lv24
+#470 (Scientist Jill) - GRIMER Lv20, STUNKY Lv20, GASTLY Lv20
+#471 (Scientist Jonathan) - ANORITH Lv27, VENONAT Lv27, ANORITH Lv27
+#472 (Scientist Lawrence) - CORSOLA Lv30
+#473 (Super Nerd Crystal) - BULBASAUR Lv22, BULBASAUR Lv22
+#474 (Super Nerd Crystal) - SMOOCHUM Lv24
+#475 (Super Nerd Crystal) - VULPIX Lv20, HOUNDOUR Lv20, VULPIX Lv20
+#476 (Super Nerd Crystal) - CHIKORITA Lv27, SNOVER Lv27, SHROOMISH Lv27
+#477 (Super Nerd Crystal) - MISDREAVUS Lv30
+#478 (Executive Rachel) - SEADRA Lv32, TENTACRUEL Lv32, SEADRA Lv32
+#479 (Executive Rachel) - KINGLER Lv25, CROCONAW Lv25, WAILMER Lv27
+#480 (Skier Florentino) - ABOMASNOW Lv29
+#481 (Skier Florentino) - VILEPLUME Lv29
+#482 (Boarder Mike) - EXEGGCUTE Lv25, CHERRIM Lv26, CHIKORITA Lv25
+#483 (Boarder Anne) - CHERUBI Lv27, HOPPIP Lv27
+#484 (Boarder Joe) - ODDISH Lv25, LUDICOLO Lv26, EXEGGCUTE Lv25
+#485 (Executive Jessica) - SKIPLOOM Lv35, BULBASAUR Lv35, VILEPLUME Lv38
+#486 (Executive Jacqueline) - BAGON Lv8, VIBRAVA Lv12
+#487 (Executive Mallorie) - ANORITH Lv30, ANORITH Lv30, DUSTOX Lv30, ARMALDO Lv32, LEDIAN Lv30, BUTTERFREE Lv30
+#488 (Executive Mallorie) - COMBEE Lv22, WORMADAM Lv24, ANORITH Lv22
+#489 (Rival Marcellus) - SNEASEL Lv55, MAMOSWINE Lv58, GLALIE Lv55, CLOYSTER Lv56, MAMOSWINE Lv56, HERACROSS Lv60
+#490 (Rival Marcellus) - COMBUSKEN Lv55, GALLADE Lv58, HERACROSS Lv55, MACHAMP Lv56, INFERNAPE Lv56, GENGAR Lv60
+#491 (Rival Marcellus) - SKARMORY Lv55, CROBAT Lv58, STARAPTOR Lv55, TOGEKISS Lv56, DODRIO Lv56, TYRANITAR Lv60
+#492 (Pokéfan Ann) - PORYGON2 Lv29, GRANBULL Lv29, HAPPINY Lv65
+#493 (Medium Landon) - COMBUSKEN Lv22
+#494 (Medium Wellington) - ELECTRIKE Lv16, MAREEP Lv16, MAGNEMITE Lv16, PIKACHU Lv16, MAGNEMITE Lv16
+#495 (Passerby Florentino) - HERACROSS Lv5
+#496 (Passerby Florentino) - GENGAR Lv5
+#497 (Passerby Florentino) - LARVITAR Lv5
+#498 (Mystery Man Kim) - SPINDA Lv25, CHATOT Lv25, STARAPTOR Lv27
+#499 (Team Rocket Pi) - LOUDRED Lv18, SWABLU Lv20
+#500 (Ace Trainer Jasmine) - BANETTE Lv37
+#501 (Ace Trainer Tia) - LARVITAR Lv33, LARVITAR Lv33, SOLROCK Lv35
+#502 (Twins Kim&Zoe) - DUSKULL Lv35, GASTLY Lv35
+#503 (School Kid Alex) - GENGAR Lv43, DUSKNOIR Lv52, DUSKNOIR Lv52
+#504 (School Kid Crystal) - LANTURN Lv35, MAGNEMITE Lv35, MANECTRIC Lv37
+#505 (School Kid Marshall) - ROSERADE Lv47, ABOMASNOW Lv54, CARNIVINE Lv47, VILEPLUME Lv54
+#506 (School Kid Crystal) - PURUGLY Lv35, PIDGEOT Lv32, WIGGLYTUFF Lv32, VIGOROTH Lv35
+#507 (School Kid Marilyn) - CAMERUPT Lv46, HOUNDOOM Lv56
+#508 (School Kid Crystal) - FORRETRESS Lv34, LAIRON Lv38
+#509 (Sailor Veronica) - LUCARIO Lv48, POLIWRATH Lv52
+#510 (Youngster Ann) - PACHIRISU Lv54
+#511 (Youngster Crystal) - LAIRON Lv37
+#512 (Bug Catcher Mia) - HAUNTER Lv36, DRIFLOON Lv52, DRIFLOON Lv43, DRIFLOON Lv36
+#513 (Bug Catcher Antoinette) - SLUGMA Lv45, COMBUSKEN Lv56
+#514 (Bug Catcher Crystal) - MEDICHAM Lv40
+#515 (Fisherman Thomas) - MASQUERAIN Lv53, MOTHIM Lv56
+#516 (Fisherman Crystal) - ARIADOS Lv35, FORRETRESS Lv39
+#517 (Fisherman Kimberley) - MONFERNO Lv41, PONYTA Lv50, QUILAVA Lv53
+#518 (Picnicker Marcellus) - FROSLASS Lv47, FROSLASS Lv58, DUSKNOIR Lv60
+#519 (Picnicker Crystal) - ONIX Lv30, CAMERUPT Lv32, NIDOQUEEN Lv32
+#520 (Picnicker Jo) - CUBONE Lv30, WHISCASH Lv36, RHYPERIOR Lv55
+#521 (Picnicker Crystal) - FORRETRESS Lv33, VESPIQUEN Lv33, SCIZOR Lv38
+#522 (Picnicker Max) - RELICANTH Lv61
+#523 (Hiker Jill) - MOTHIM Lv41, ALTARIA Lv49, PIDGEOT Lv55
+#524 (Hiker Crystal) - FARFETCH’D Lv34, DRIFBLIM Lv36, BEAUTIFLY Lv34
+#525 (Camper Joey) - AZUMARILL Lv36, SEALEO Lv44, MARSHTOMP Lv54, GOLDUCK Lv56
+#526 (Camper Crystal) - DRAGONAIR Lv33, DRAGONAIR Lv33, DRAGONAIR Lv36, KINGDRA Lv34
+#527 (Juggler Scarlett) - VIBRAVA Lv40, DRATINI Lv40, SHELGON Lv46, FLYGON Lv51
+#528 (Lass Jessica) - SPIRITOMB Lv51, SHARPEDO Lv54
+#529 (Lass Crystal) - ROSERADE Lv36, WEEZING Lv36
+#530 (Poké Maniac Daniel) - TOXICROAK Lv48, MONFERNO Lv40, TOXICROAK Lv58, BRELOOM Lv58
+#531 (Twins Crystal) - GIBLE Lv38, HIPPOPOTAS Lv38
+#532 (Bug Catcher Crystal) - MIGHTYENA Lv30, MIGHTYENA Lv30, SABLEYE Lv32, SABLEYE Lv34
+#533 (Bug Catcher Chloe) - WYNAUT Lv8, MEDITITE Lv10
+#534 (Beauty Sonya) - MEDICHAM Lv19
+#535 (Pokéfan Malcolm) - BELDUM Lv16
+#536 (Camper Bob) - MOTHIM Lv30, VENOMOTH Lv30, VESPIQUEN Lv30
+#537 (Poké Maniac Daniel) - FLAREON Lv17, FLAREON Lv17
+#538 (Super Nerd Crystal) - MONFERNO Lv39
+#539 (Super Nerd Jacqueline) - ARON Lv19
+#540 (Pokéfan Antoinette) - SHIELDON Lv45
+#541 (Pokéfan Marilyn) - NUMEL Lv44
+#542 (Sage Crystal) - SPIRITOMB Lv32, FROSLASS Lv32
+#543 (Sage Crystal) - MISDREAVUS Lv32, FROSLASS Lv32
+#544 (Sage Crystal) - SWELLOW Lv32, LICKILICKY Lv32
+#545 (Ace Trainer Daniel) - MANTINE Lv47, LANTURN Lv47
+#546 (School Kid Mallorie) - KRICKETUNE Lv43, WORMADAM Lv43
+#547 (Hiker Kate) - DRAGONAIR Lv39, FLYGON Lv44, DRATINI Lv45
+#548 (Black Belt Sonya) - EMPOLEON Lv47
+#549 (Double Team Bob&Ann) - STARMIE Lv47, MEDICHAM Lv47
+#550 (Black Belt Daniel) - CAMERUPT Lv43, MAGBY Lv39, CHARMELEON Lv44
+#551 (Hiker Jasmine) - SLOWKING Lv44, ESPEON Lv44
+#552 (Youngster Florentino) - CACTURNE Lv40, HONCHKROW Lv40
+#553 (Young Couple Joe&Max) - SWINUB Lv43, SWINUB Lv43
+#554 (Gentleman Jasmine) - BUTTERFREE Lv45
+#555 (Bird Keeper Jill) - NINETALES Lv44, CAMERUPT Lv39
+#556 (Bird Keeper Thomas) - MOTHIM Lv42, PIDGEY Lv39
+#557 (Young Couple Ann & Bob) - ARMALDO Lv44, ARIADOS Lv43
+#558 (Fisherman Cammie) - SENTRET Lv18, HAPPINY Lv18, IGGLYBUFF Lv18
+#559 (Young Couple Max&Joe) - VOLBEAT Lv41, SKORUPI Lv46
+#560 (Camper Pi) - TREECKO Lv40
+#561 (Camper Esteban) - SNEASEL Lv38
+#562 (Picnicker Tia) - CLEFAIRY Lv40
+#563 (Picnicker Robin) - WYNAUT Lv41
+#564 (Teacher Jasmine) - WYNAUT Lv41, CHIMECHO Lv43
+#565 (Bird Keeper Mark) - LANTURN Lv37
+#566 (School Kid Veronica) - MARILL Lv42
+#567 (School Kid Robin) - VESPIQUEN Lv41, HERACROSS Lv39
+#568 (School Kid Kate) - SLUGMA Lv42
+#569 (Twins Emma & May) - HITMONCHAN Lv41, HITMONLEE Lv41
+#570 (Pokéfan Esteban) - MEDICHAM Lv43, MACHOKE Lv41
+#571 (Pokéfan Jimmy) - SKIPLOOM Lv43, BUTTERFREE Lv41
+#572 (Biker Marcellus) - CHINCHOU Lv47
+#573 (Biker Lillianna) - MUK Lv43, DRAPION Lv43
+#574 (Biker Scarlett) - GLACEON Lv45
+#575 (Biker Pansy) - GIBLE Lv39, DRAGONAIR Lv37, ALTARIA Lv37
+#576 (Biker Zoey) - NUMEL Lv45
+#577 (Biker Tia) - CHINCHOU Lv47
+#578 (Biker Crystal) - ZANGOOSE Lv46
+#579 (Biker Leo) - MANKEY Lv45, RIOLU Lv44
+#580 (Camper Donna) - SNEASEL Lv45
+#581 (Picnicker Dudley) - MANKEY Lv45
+#582 (Picnicker Tristian) - COMBEE Lv45
+#583 (Bird Keeper Donna) - LEDYBA Lv46, VESPIQUEN Lv43
+#584 (Bird Keeper Rachel) - SWINUB Lv48
+#585 (Swimmer♂ Tristian) - KADABRA Lv46, XATU Lv42
+#586 (Swimmer♂ Esteban) - LOPUNNY Lv46, FEAROW Lv42
+#587 (Swimmer♀ Cristiano) - NIDORAN♀ Lv44
+#588 (Swimmer♀ Kimberley) - RHYHORN Lv38, GEODUDE Lv39, ARON Lv41
+#589 (Fisherman Kate) - COMBUSKEN Lv32, MAGBY Lv34, MAGBY Lv36, MAGCARGO Lv38
+#590 (Fisherman Scott) - MASQUERAIN Lv42
+#591 (Fisherman Mia) - PINSIR Lv44, NINJASK Lv40
+#592 (Swimmer♀ Cammie) - NOSEPASS Lv40
+#593 (Swimmer♀ Jonathan) - PORYGON2 Lv43
+#594 (Swimmer♂ Malcolm) - GOLDUCK Lv38, KABUTO Lv38
+#595 (Swimmer♂ Florentino) - NINJASK Lv40, YANMEGA Lv40
+#596 (Bird Keeper Lawrence) - CHINCHOU Lv36, ELECTRODE Lv36, MAGNEMITE Lv37
+#597 (Bird Keeper Cammie) - SHEDINJA Lv35, GASTLY Lv35, DUSCLOPS Lv35, FROSLASS Lv36
+#598 (Twins Max & Joe) - MEDICHAM Lv41, WOBBUFFET Lv41
+#599 (Camper Thomas) - CROAGUNK Lv43
+#600 (Picnicker Lillianna) - CARVANHA Lv42
+#601 (Team Rocket Malcolm) - VOLTORB Lv12
+#602 (Bird Keeper Crystal) - GROWLITHE Lv50, GROWLITHE Lv52, GROWLITHE Lv53
+#603 (Picnicker Esteban) - GRUMPIG Lv42, WOBBUFFET Lv46, GARDEVOIR Lv49, SLOWKING Lv53
+#604 (Ace Trainer Marshall) - MISDREAVUS Lv52, MISMAGIUS Lv49, SPIRITOMB Lv50
+#605 (Black Belt Tia) - KABUTO Lv41, AGGRON Lv53, CORSOLA Lv49, LUNATONE Lv53
+#606 (Hiker Chloe) - GOLDUCK Lv56, LUDICOLO Lv52
+#607 (Ace Trainer Joey) - GLACEON Lv54, JYNX Lv53, ABOMASNOW Lv56
+#608 (Fisherman Jessica) - ALTARIA Lv42, ALTARIA Lv46, GABITE Lv63
+#609 (Ace Trainer Landon) - RHYPERIOR Lv56, GOLEM Lv59
+#610 (Pokéfan Ann) - SWINUB Lv18, DELIBIRD Lv22, SNORUNT Lv39, GLACEON Lv47
+#611 (Pokéfan Crystal) - LOPUNNY Lv53
+#612 (Bird Keeper Pansy) - EXPLOUD Lv56, CHANSEY Lv44, LOPUNNY Lv54
+#613 (Lass Joey) - MANKEY Lv21, CROAGUNK Lv31
+#614 (Lass Joey) - MACHOKE Lv32, COMBUSKEN Lv38
+#615 (Lass Joey) - SPIRITOMB Lv53, BANETTE Lv54
+#616 (Youngster Esteban) - DUSKULL Lv27, HAUNTER Lv33
+#617 (Youngster Esteban) - ALTARIA Lv38, MASQUERAIN Lv40
+#618 (Youngster Esteban) - CAMERUPT Lv47, DUGTRIO Lv58
+#619 (Firebreather Veronica) - LAPRAS Lv25, SLOWKING Lv32
+#620 (Firebreather Veronica) - DODRIO Lv34, STARAPTOR Lv37
+#621 (Firebreather Veronica) - DUSTOX Lv26, SCYTHER Lv49, PINSIR Lv58
+#622 (Bug Catcher Bob) - GABITE Lv40, DUGTRIO Lv40
+#623 (Bug Catcher Bob) - MONFERNO Lv47, QUILAVA Lv46
+#624 (Bug Catcher Bob) - PARASECT Lv52, ANORITH Lv50
+#625 (Bug Catcher Esteban) - DUSTOX Lv45, KRICKETUNE Lv42
+#626 (Bug Catcher Esteban) - MASQUERAIN Lv52, PIDGEOTTO Lv48
+#627 (Bug Catcher Esteban) - DELIBIRD Lv56, SNOVER Lv56
+#628 (Biker Florentino) - MIGHTYENA Lv42, SPIRITOMB Lv48
+#629 (Biker Florentino) - VOLBEAT Lv48, SCIZOR Lv50
+#630 (Biker Florentino) - MASQUERAIN Lv56, VESPIQUEN Lv55
+#631 (Biker Scarlett) - YANMEGA Lv50, HERACROSS Lv49
+#632 (Biker Scarlett) - JYNX Lv55, LAPRAS Lv55
+#633 (Biker Scarlett) - WAILORD Lv55, LANTURN Lv58, OCTILLERY Lv58
+#634 (Biker Leo) - SMOOCHUM Lv46, SOLROCK Lv47
+#635 (Biker Leo) - GEODUDE Lv48, NOSEPASS Lv49
+#636 (Biker Leo) - KINGDRA Lv58, DRAGONAIR Lv54
+#637 (Teacher Daniel) - MAGNETON Lv43, MAGNETON Lv43
+#638 (Teacher Daniel) - WEEZING Lv49, WEEPINBELL Lv49
+#639 (Teacher Daniel) - LUXRAY Lv55, MAGNETON Lv55
+#640 (School Kid Malcolm) - PLUSLE Lv42, PACHIRISU Lv43, MAREEP Lv40
+#641 (School Kid Malcolm) - SHELGON Lv46, GABITE Lv47, DRATINI Lv46
+#642 (School Kid Malcolm) - SHUCKLE Lv50, BEAUTIFLY Lv55, YANMEGA Lv53, SHEDINJA Lv51
+#643 (Twins Emma & May) - NINJASK Lv48, YANMA Lv48
+#644 (Twins Emma & May) - MAGNETON Lv53, LAIRON Lv53
+#645 (Twins Emma & May) - SHARPEDO Lv55, MURKROW Lv55
+#646 (Bird Keeper Mark) - CAMERUPT Lv47, RAPIDASH Lv44
+#647 (Bird Keeper Mark) - SHIFTRY Lv48, SKUNTANK Lv51
+#648 (Bird Keeper Mark) - CLAYDOL Lv55, JYNX Lv55
+#649 (School Kid Robin) - SHELGON Lv46, DRAGONAIR Lv45, BAGON Lv41
+#650 (School Kid Robin) - GABITE Lv48, ALTARIA Lv51, GIBLE Lv48
+#651 (School Kid Robin) - CAMERUPT Lv52, RAPIDASH Lv53, CYNDAQUIL Lv52
+#652 (Young Couple Max&Joe) - KADABRA Lv45, HYPNO Lv50
+#653 (Young Couple Max&Joe) - MAWILE Lv48, BRONZONG Lv52
+#654 (Young Couple Max&Joe) - CRADILY Lv54, OMASTAR Lv56
+#655 (Hiker Tristian) - ONIX Lv16, PUPITAR Lv33, WHISCASH Lv37, CAMERUPT Lv32
+#656 (Hiker Tristian) - SPIRITOMB Lv42, SABLEYE Lv37, SHARPEDO Lv44, MURKROW Lv46
+#657 (Hiker Tristian) - SNEASEL Lv46, MURKROW Lv44, SKUNTANK Lv49, DRAPION Lv54
+#658 (Camper Esteban) - PELIPPER Lv41, SKIPLOOM Lv41
+#659 (Camper Esteban) - PLUSLE Lv48, MAGNETON Lv47, FLAAFFY Lv44
+#660 (Camper Esteban) - MAGCARGO Lv52, CHARMELEON Lv52, TORKOAL Lv52
+#661 (Fisherman Mike) - QUILAVA Lv40, CAMERUPT Lv38, CAMERUPT Lv43
+#662 (Fisherman Mike) - DEWGONG Lv43, CROCONAW Lv41, KINGLER Lv47, SQUIRTLE Lv39
+#663 (Fisherman Mike) - STARAPTOR Lv48, GRANBULL Lv49, SWELLOW Lv52, PORYGON2 Lv51
+#664 (Fisherman Cammie) - SEEDOT Lv18, LOTAD Lv18, SUNKERN Lv18, SUNKERN Lv18
+#665 (Fisherman Cammie) - RALTS Lv18, RALTS Lv18, RALTS Lv18, RALTS Lv18, RALTS Lv18
+#666 (Fisherman Cammie) - BELDUM Lv18, BRONZOR Lv18, BRONZOR Lv18, BELDUM Lv18, BRONZOR Lv18, BRONZOR Lv18
+#667 ([PK][MN] Trainer Wellington) - SEALEO Lv61, FROSLASS Lv61, FROSLASS Lv62, JYNX Lv63, GLACEON Lv65
+#668 ([PK][MN] Trainer Cristiano) - MUK Lv61, ROSERADE Lv61, VENUSAUR Lv62, VILEPLUME Lv63, CROBAT Lv65
+#669 ([PK][MN] Trainer Cristiano) - CLOYSTER Lv61, WEAVILE Lv61, MAMOSWINE Lv62, MAMOSWINE Lv63, DEWGONG Lv65
+#670 ([PK][MN] Trainer Anne) - POLIWRATH Lv61, CLOYSTER Lv61, KINGDRA Lv62, MILOTIC Lv63, DEWGONG Lv65
+#671 ([PK][MN] Trainer Anne) - DEWGONG Lv61, GLACEON Lv62, SNEASEL Lv61, GLACEON Lv63, GLALIE Lv65
+#672 (Gentleman Tristian) - MAGCARGO Lv36
+#673 (Gentleman Tristian) - DUGTRIO Lv42
+#674 (Gentleman Tristian) - SPIRITOMB Lv58
+#675 ([PK][MN] Trainer Joey) - CROBAT Lv40
+#676 (Sailor Donna) - KIRLIA Lv43, JYNX Lv43
+#677 (Sailor Forrest) - CHIMECHO Lv48
+#678 (Swimmer♀ Scarlett) - EXEGGUTOR Lv48
+#679 (Beauty Crystal) - SHELGON Lv16, GABITE Lv16
+#680 (Beauty Mallorie) - SHELGON Lv16, KINGDRA Lv16
+#681 (Ace Trainer Daniel) - CAMERUPT Lv53, TORKOAL Lv52
+#682 (Ace Trainer Pi) - GROWLITHE Lv50, CHARMELEON Lv52
+#683 (Ace Trainer Max) - HOUNDOOM Lv50, RAPIDASH Lv53
+#684 (Double Team Max&Joe) - TORKOAL Lv52, MAGCARGO Lv50
+#685 (Hiker Donna) - FORRETRESS Lv50
+#686 (Boarder Joe) - SHIFTRY Lv55, CRADILY Lv50
+#687 (Boarder Max) - AGGRON Lv55, RHYDON Lv50
+#688 (Skier Jessica) - NUMEL Lv53
+#689 (Super Nerd Daniel) - CRAWDAUNT Lv53
+#690 (Super Nerd Forrest) - HOUNDOUR Lv53
+#691 (Super Nerd Kim) - SABLEYE Lv53
+#692 (Scientist Marilyn) - HONCHKROW Lv50
+#693 (Scientist Noelle) - CRAWDAUNT Lv50
+#694 (Scientist Marilyn) - WEAVILE Lv50
+#695 (Bug Catcher Crystal) - SABLEYE Lv44, SABLEYE Lv48
+#696 (Bug Catcher Rachel) - PARASECT Lv50
+#697 (Bug Catcher Stacey) - SHEDINJA Lv52, SHEDINJA Lv56, SHEDINJA Lv60
+#698 (Bug Catcher Rachel) - SUNKERN Lv28, LOTAD Lv38, WEEPINBELL Lv46
+#699 (Bug Catcher Jill) - KABUTO Lv44, CROCONAW Lv44, BUIZEL Lv44
+#700 (Rocket Boss Crystal) - SCYTHER Lv42, DRIFBLIM Lv40, VESPIQUEN Lv43, VESPIQUEN Lv46
+#701 (Champion Joey) - DUSKNOIR Lv72, GENGAR Lv68, DUSKNOIR Lv72, DUSKNOIR Lv73, DUSKNOIR Lv68, DUSKNOIR Lv75
+#702 (Elite Four Kim) - DUSCLOPS Lv58, GENGAR Lv60, GENGAR Lv59, FROSLASS Lv60, GENGAR Lv61, FROSLASS Lv62
+#703 (Elite Four Scott) - TOXICROAK Lv61, TOXICROAK Lv63, HITMONTOP Lv60, INFERNAPE Lv62, GALLADE Lv64, HITMONCHAN Lv62
+#704 (Elite Four Robin) - BRONZONG Lv62, FORRETRESS Lv61, SCIZOR Lv61, SKARMORY Lv62, MAGNEZONE Lv64, AGGRON Lv64
+#705 (Elite Four Donna) - DRAPION Lv62, TOXICROAK Lv62, SEVIPER Lv62, SKUNTANK Lv64, DRAPION Lv63, TENTACRUEL Lv64
+#706 (Executive Jacqueline) - SHELGON Lv28, FLYGON Lv33
+#707 (Tower Tycoon Webster) - HOPPIP Lv5
+#708 (Hall Matron Marcellus) - COMBEE Lv5
+#709 (Factory Head Daniel) - BAGON Lv5
+#710 (Arcade Star Veronica) - DRATINI Lv5
+#711 (Castle Valet Pansy) - DUSKULL Lv5
+#712 (Leader Kristine) - PIDGEOT Lv50, CHANSEY Lv52, CHANSEY Lv52, PIDGEOT Lv54, NOCTOWL Lv48, KANGASKHAN Lv56
+#713 (Leader Robin) - ELECTABUZZ Lv56, SHINX Lv48, MANECTRIC Lv52, MAGNETON Lv55, JOLTEON Lv54, ELECTRODE Lv52
+#714 (Leader Pansy) - SNEASEL Lv52, WEAVILE Lv50, PILOSWINE Lv54, DELIBIRD Lv54, FROSLASS Lv52, JYNX Lv58
+#715 (Leader Kristine) - GALLADE Lv52, HERACROSS Lv52, MACHOKE Lv52, PRIMEAPE Lv54, HITMONTOP Lv57, BLAZIKEN Lv57
+#716 (Leader Lawrence) - ROSERADE Lv56, CACTURNE Lv58, TORTERRA Lv52, TROPIUS Lv52, VICTREEBEL Lv54, VILEPLUME Lv60
+#717 (Leader Cristiano) - GYARADOS Lv52, WALREIN Lv56, POLIWRATH Lv52, WALREIN Lv50, KINGDRA Lv52, DEWGONG Lv62
+#718 (Leader Max) - DRAGONAIR Lv54, SHELGON Lv52, DRAGONAIR Lv55, ALTARIA Lv54, ALTARIA Lv56, KINGDRA Lv60
+#719 (Leader Scott) - NIDOQUEEN Lv56, GRAVELER Lv52, TORTERRA Lv52, NIDOKING Lv56, DONPHAN Lv52, SWAMPERT Lv60
+#720 (Leader Antoinette) - AGGRON Lv55, LUCARIO Lv54, EMPOLEON Lv56, MAWILE Lv61, AGGRON Lv55, MAGNEZONE Lv57
+#721 (Leader Scarlett) - STARMIE Lv60, JYNX Lv56, CLAYDOL Lv56, CLAYDOL Lv54, HYPNO Lv54, EXEGGUTOR Lv60
+#722 (Leader Webster) - DUSCLOPS Lv60, MISMAGIUS Lv52, MISMAGIUS Lv52, DUSKNOIR Lv52, HAUNTER Lv58, DUSKNOIR Lv56
+#723 (Leader Webster) - XATU Lv54, GLIGAR Lv53, STARAPTOR Lv56, SKARMORY Lv56, HONCHKROW Lv60, GLISCOR Lv55
+#724 (Leader Daniel) - PINSIR Lv52, HERACROSS Lv56, HERACROSS Lv52, LEDIAN Lv58, NINJASK Lv59, FORRETRESS Lv55
+#725 (Leader Daniel) - ARMALDO Lv60, AGGRON Lv58, OMASTAR Lv56, PUPITAR Lv54, LUNATONE Lv53, RHYDON Lv53
+#726 (Leader Mallorie) - HONCHKROW Lv54, CACTURNE Lv57, ABSOL Lv60, SNEASEL Lv58, CACTURNE Lv54, UMBREON Lv62
+#727 (Leader Kimberley) - INFERNAPE Lv67, CHARIZARD Lv69, ARCANINE Lv70, INFERNAPE Lv68, TYPHLOSION Lv70, MAGMAR Lv72
+#728 (Beauty Thomas) - DUSKNOIR Lv16
+#729 (Young Couple Ann & Bob) - SABLEYE Lv22, MISMAGIUS Lv22
+#730 (Double Team Emma&May) - WEAVILE Lv25, FROSLASS Lv25
+#731 (Hiker Donna) - BEEDRILL Lv19, VENOMOTH Lv19, QWILFISH Lv19
+#732 (Camper Jonathan) - GASTLY Lv21, SHEDINJA Lv21
+#733 (Champion Joey) - DUSKNOIR Lv68, DRIFBLIM Lv68, DUSKNOIR Lv75
+#734 (Leader Scott) - GABITE Lv52, NIDOQUEEN Lv56, SWAMPERT Lv60
+#735 (Rival Marcellus) - HERACROSS Lv60, NIDOQUEEN Lv58, PILOSWINE Lv56
+#736 (Rival Marcellus) - GENGAR Lv60, HOUNDOOM Lv58, HOUNDOOM Lv56
+#737 (Rival Marcellus) - TYRANITAR Lv60, GYARADOS Lv58, GOLBAT Lv56
+
+--Static Pokemon--
+LUGIA => RELICANTH
+HO-OH => NIDOQUEEN
+SUICUNE => STUNKY
+ARTICUNO => CORSOLA
+ZAPDOS => PSYDUCK
+MOLTRES => SKITTY
+MEWTWO => MISDREAVUS
+KYOGRE => DELCATTY
+GROUDON => VICTREEBEL
+RAYQUAZA => AMPHAROS
+DIALGA => ZIGZAGOON
+PALKIA => DITTO
+GIRATINA => PURUGLY
+LATIAS => BASTIODON
+LATIOS => ARTICUNO
+SUDOWOODO => MOTHIM
+LAPRAS => SKIPLOOM
+GYARADOS => MOLTRES
+SNORLAX => TYPHLOSION
+KOFFING => TOXICROAK
+VOLTORB => RAIKOU
+GEODUDE => PRIMEAPE
+ELECTRODE => VIBRAVA
+ELECTRODE(2) => CHERUBI
+ELECTRODE(3) => CASCOON
+EEVEE => CUBONE
+TYROGUE => TYRANITAR
+DRATINI => SHIFTRY
+BULBASAUR => BURMY
+SQUIRTLE => TOTODILE
+CHARMANDER => IVYSAUR
+TREECKO => PINSIR
+TORCHIC => MIME JR.
+MUDKIP => DELIBIRD
+MAREEP => GARDEVOIR
+WOOPER => GROWLITHE
+SLUGMA => MEW
+SHUCKLE => TRAPINCH
+SPEAROW => FLOATZEL
+TOGEPI => LEDYBA
+AERODACTYL => WORMADAM
+OMANYTE => SWAMPERT
+KABUTO => ELECTRIKE
+LILEEP => SPHEAL
+ANORITH => PIKACHU
+SHIELDON => BUIZEL
+CRANIDOS => BRELOOM
+
+--Wild Pokemon--
+Set #1 - New Bark Town Surfing (rate=15) - PIDGEOT Lvs 15-25, PIDGEOT Lvs 10-20, MACHAMP Lvs 15-25, MACHAMP Lvs 15-25, MACHAMP Lvs 15-25
+Set #2 - New Bark Town Old Rod (rate=25) - FORRETRESS Lv10, FORRETRESS Lv10, FORRETRESS Lv10, DODUO Lv10, DODUO Lv10
+Set #3 - New Bark Town Good Rod (rate=50) - POLIWAG Lv20, SLUGMA Lv20, LUCARIO Lv20, SHINX Lv20, LUCARIO Lv20
+Set #4 - New Bark Town Super Rod (rate=75) - SPINDA Lv40, FURRET Lv40, MACHOP Lv40, MISMAGIUS Lv40, MACHOP Lv40
+Set #5 - New Bark Town Swarms (rate=1) - DITTO Lv1, DARKRAI Lv1, GOREBYSS Lv1
+Set #6 - Route 29 Grass/Cave (rate=25) - BRONZONG Lv2, XATU Lv3, BRONZONG Lv2, XATU Lv3, BRONZONG Lv3, BRONZONG Lv3, XATU Lv2, XATU Lv2, COMBUSKEN Lv4, BRONZONG Lv4, COMBUSKEN Lv4, BRONZONG Lv4
+Set #7 - Route 29 Hoenn/Sinnoh Radio (rate=1) - MANECTRIC Lv1, STARAVIA Lv1, MILTANK Lv1, MILTANK Lv1
+Set #8 - Route 29 Swarms (rate=1) - WEEZING Lv1
+Set #9 - Cherrygrove City Surfing (rate=15) - LINOONE Lvs 15-25, LINOONE Lvs 10-20, KRICKETUNE Lvs 15-25, KRICKETUNE Lvs 15-25, KRICKETUNE Lvs 15-25
+Set #10 - Cherrygrove City Old Rod (rate=25) - GROWLITHE Lv10, GROWLITHE Lv10, GROWLITHE Lv10, PROBOPASS Lv10, PROBOPASS Lv10
+Set #11 - Cherrygrove City Good Rod (rate=50) - KIRLIA Lv20, GOLBAT Lv20, GOLBAT Lv20, MAGNEZONE Lv20, GOLBAT Lv20
+Set #12 - Cherrygrove City Super Rod (rate=75) - MAWILE Lv40, ELECTRIKE Lv40, MAWILE Lv40, CELEBI Lv40, MAWILE Lv40
+Set #13 - Cherrygrove City Swarms (rate=1) - CHINCHOU Lv1, SUNKERN Lv1, SMEARGLE Lv1
+Set #14 - Route 30 Grass/Cave (rate=25) - PORYGON-Z Lv2, NOSEPASS Lv3, PORYGON-Z Lv2, NOSEPASS Lv3, PORYGON-Z Lv4, PORYGON-Z Lv4, LUCARIO Lv4, LUCARIO Lv4, NOSEPASS Lv4, LUCARIO Lv4, NOSEPASS Lv4, LUCARIO Lv4
+Set #15 - Route 30 Hoenn/Sinnoh Radio (rate=1) - UNOWN Lv1, BAYLEEF Lv1, CHERRIM Lv1, MANAPHY Lv1
+Set #16 - Route 30 Surfing (rate=15) - POOCHYENA Lvs 15-25, POOCHYENA Lvs 10-20, WEEZING Lvs 15-25, WEEZING Lvs 15-25, WEEZING Lv32
+Set #17 - Route 30 Old Rod (rate=25) - RELICANTH Lv10, RELICANTH Lv10, RELICANTH Lv10, PERSIAN Lv10, PERSIAN Lv10
+Set #18 - Route 30 Good Rod (rate=50) - MONFERNO Lv20, LATIOS Lv20, LATIOS Lv20, LATIOS Lv20, LATIOS Lv20
+Set #19 - Route 30 Super Rod (rate=75) - TOXICROAK Lv40, TOXICROAK Lv40, KOFFING Lv40, TOXICROAK Lv40, KOFFING Lv40
+Set #20 - Route 30 Swarms (rate=1) - ARCEUS Lv1, STANTLER Lv1, STANTLER Lv1, TURTWIG Lv1
+Set #21 - Route 31 Grass/Cave (rate=25) - HITMONTOP Lv3, MUK Lv4, HITMONTOP Lv3, MUK Lv4, SEADRA Lv3, SEADRA Lv3, MILOTIC Lv5, MILOTIC Lv5, MUK Lv5, MILOTIC Lv5, MUK Lv5, MILOTIC Lv5
+Set #22 - Route 31 Hoenn/Sinnoh Radio (rate=1) - FINNEON Lv1, LUXIO Lv1, SANDSLASH Lv1, CRADILY Lv1
+Set #23 - Route 31 Surfing (rate=15) - MIME JR. Lvs 15-25, MIME JR. Lvs 10-20, ILLUMISE Lvs 15-25, ILLUMISE Lvs 15-25, ILLUMISE Lv32
+Set #24 - Route 31 Old Rod (rate=25) - TORCHIC Lv10, TORCHIC Lv10, TORCHIC Lv10, TOGEPI Lv10, TOGEPI Lv10
+Set #25 - Route 31 Good Rod (rate=50) - FLAREON Lv20, SEVIPER Lv20, SEVIPER Lv20, SEVIPER Lv20, SEVIPER Lv20
+Set #26 - Route 31 Super Rod (rate=75) - GEODUDE Lv40, GEODUDE Lv40, PORYGON-Z Lv40, GEODUDE Lv40, PORYGON-Z Lv40
+Set #27 - Route 31 Swarms (rate=1) - REMORAID Lv1, PROBOPASS Lv1, PROBOPASS Lv1, CASCOON Lv1
+Set #28 - Violet City Surfing (rate=15) - VULPIX Lvs 15-25, VULPIX Lvs 10-20, SKIPLOOM Lvs 15-25, SKIPLOOM Lvs 15-25, SKIPLOOM Lvs 15-25
+Set #29 - Violet City Old Rod (rate=25) - GASTLY Lv10, GASTLY Lv10, GASTLY Lv10, SEVIPER Lv10, SEVIPER Lv10
+Set #30 - Violet City Good Rod (rate=50) - HOUNDOOM Lv20, LAPRAS Lv20, LAPRAS Lv20, LAPRAS Lv20, LAPRAS Lv20
+Set #31 - Violet City Super Rod (rate=75) - TREECKO Lv40, TREECKO Lv40, SHUCKLE Lv40, TREECKO Lv40, SHUCKLE Lv40
+Set #32 - Violet City Swarms (rate=1) - REGICE Lv1, REGICE Lv1, MAGNEMITE Lv1
+Set #33 - Sprout Tower Grass/Cave (rate=5) - AZUMARILL Lv3, AZUMARILL Lv4, AZUMARILL Lv3, AZUMARILL Lv4, AZUMARILL Lv5, AZUMARILL Lv5, AZUMARILL Lv3, AZUMARILL Lv3, AZUMARILL Lv6, AZUMARILL Lv5, AZUMARILL Lv6, AZUMARILL Lv5
+Set #34 - Sprout Tower Hoenn/Sinnoh Radio (rate=1) - UNOWN Lv1, GENGAR Lv1, EXEGGCUTE Lv1, BEAUTIFLY Lv1
+Set #35 - Sprout Tower Swarms (rate=1) - BLAZIKEN Lv1
+Set #36 - Sprout Tower Grass/Cave (rate=5) - CYNDAQUIL Lv3, CYNDAQUIL Lv4, CYNDAQUIL Lv3, CYNDAQUIL Lv4, CYNDAQUIL Lv5, CYNDAQUIL Lv5, CYNDAQUIL Lv3, CYNDAQUIL Lv3, CYNDAQUIL Lv6, CYNDAQUIL Lv5, CYNDAQUIL Lv6, CYNDAQUIL Lv5
+Set #37 - Sprout Tower Hoenn/Sinnoh Radio (rate=1) - CHANSEY Lv1, SLOWPOKE Lv1, TENTACOOL Lv1, TYPHLOSION Lv1
+Set #38 - Sprout Tower Swarms (rate=1) - CLAMPERL Lv1
+Set #39 - Route 32 Grass/Cave (rate=25) - CROBAT Lv6, BURMY Lv4, CROBAT Lv6, BURMY Lv4, SUNFLORA Lv6, SUNFLORA Lv6, GRIMER Lv6, GRIMER Lv6, BURMY Lv6, BURMY Lv4, BURMY Lv6, BURMY Lv4
+Set #40 - Route 32 Hoenn/Sinnoh Radio (rate=1) - SKUNTANK Lv1, VOLTORB Lv1, RALTS Lv1, SHUCKLE Lv1
+Set #41 - Route 32 Surfing (rate=15) - HORSEA Lvs 10-20, ANORITH Lvs 15-25, DELIBIRD Lvs 15-25, DELIBIRD Lvs 15-25, DELIBIRD Lv36
+Set #42 - Route 32 Old Rod (rate=25) - PONYTA Lv10, PONYTA Lv10, PONYTA Lv10, SPOINK Lv10, SPOINK Lv10
+Set #43 - Route 32 Good Rod (rate=50) - GALLADE Lv20, ENTEI Lv20, ENTEI Lv20, ENTEI Lv20, UMBREON Lv20
+Set #44 - Route 32 Super Rod (rate=75) - SHUPPET Lv40, SHUPPET Lv40, SNORUNT Lv40, MACHOP Lv40, SNORUNT Lv40
+Set #45 - Route 32 Swarms (rate=1) - NOCTOWL Lv1, RELICANTH Lv1, RELICANTH Lv1, SMEARGLE Lv1
+Set #46 - Ruins of Alph Grass/Cave (rate=10) - TURTWIG Lv20, TURTWIG Lv22, TURTWIG Lv20, TURTWIG Lv22, TURTWIG Lv18, TURTWIG Lv18, TURTWIG Lv24, TURTWIG Lv24, GIBLE Lv20, GIBLE Lv22, GIBLE Lv20, GIBLE Lv22
+Set #47 - Ruins of Alph Hoenn/Sinnoh Radio (rate=1) - MEDICHAM Lv1, SKARMORY Lv1, DUGTRIO Lv1, SANDSHREW Lv1
+Set #48 - Ruins of Alph Surfing (rate=10) - GROUDON Lvs 10-20, MISDREAVUS Lvs 15-25, MISDREAVUS Lvs 10-20, MISDREAVUS Lvs 10-20, MISDREAVUS Lvs 10-20
+Set #49 - Ruins of Alph Rock Smash (rate=20) - FARFETCH’D Lvs 8-14, FARFETCH’D Lvs 3-6
+Set #50 - Ruins of Alph Old Rod (rate=25) - YANMA Lv10, YANMA Lv10, YANMA Lv10, KABUTOPS Lv10, KABUTOPS Lv10
+Set #51 - Ruins of Alph Good Rod (rate=50) - WURMPLE Lv20, HAPPINY Lv20, HAPPINY Lv20, HAPPINY Lv20, HAPPINY Lv20
+Set #52 - Ruins of Alph Super Rod (rate=75) - ABSOL Lv40, ABSOL Lv40, MISMAGIUS Lv40, ABSOL Lv40, MISMAGIUS Lv40
+Set #53 - Ruins of Alph Swarms (rate=1) - FLAAFFY Lv1, HIPPOWDON Lv1, LUCARIO Lv1, NUMEL Lv1
+Set #54 - Ruins of Alph Grass/Cave (rate=15) - VICTREEBEL Lv5, VICTREEBEL Lv5, VICTREEBEL Lv5, VICTREEBEL Lv5, VICTREEBEL Lv5, VICTREEBEL Lv5, VICTREEBEL Lv5, VICTREEBEL Lv5, VICTREEBEL Lv5, VICTREEBEL Lv5, VICTREEBEL Lv5, VICTREEBEL Lv5
+Set #55 - Ruins of Alph Hoenn/Sinnoh Radio (rate=1) - IGGLYBUFF Lv1, IGGLYBUFF Lv1, IGGLYBUFF Lv1, IGGLYBUFF Lv1
+Set #56 - Ruins of Alph Swarms (rate=1) - CHARMELEON Lv1
+Set #57 - Ruins of Alph Grass/Cave (rate=15) - GLACEON Lv5, GLACEON Lv5, GLACEON Lv5, GLACEON Lv5, GLACEON Lv5, GLACEON Lv5, GLACEON Lv5, GLACEON Lv5, GLACEON Lv5, GLACEON Lv5, GLACEON Lv5, GLACEON Lv5
+Set #58 - Ruins of Alph Hoenn/Sinnoh Radio (rate=1) - MAGNETON Lv1, MAGNETON Lv1, MAGNETON Lv1, MAGNETON Lv1
+Set #59 - Ruins of Alph Swarms (rate=1) - PHIONE Lv1
+Set #60 - Ruins of Alph Grass/Cave (rate=15) - MEDICHAM Lv5, MEDICHAM Lv5, MEDICHAM Lv5, MEDICHAM Lv5, MEDICHAM Lv5, MEDICHAM Lv5, MEDICHAM Lv5, MEDICHAM Lv5, MEDICHAM Lv5, MEDICHAM Lv5, MEDICHAM Lv5, MEDICHAM Lv5
+Set #61 - Ruins of Alph Hoenn/Sinnoh Radio (rate=1) - BLASTOISE Lv1, BLASTOISE Lv1, BLASTOISE Lv1, BLASTOISE Lv1
+Set #62 - Ruins of Alph Swarms (rate=1) - MAGNEMITE Lv1
+Set #63 - Ruins of Alph Grass/Cave (rate=15) - KADABRA Lv5, KADABRA Lv5, KADABRA Lv5, KADABRA Lv5, KADABRA Lv5, KADABRA Lv5, KADABRA Lv5, KADABRA Lv5, KADABRA Lv5, KADABRA Lv5, KADABRA Lv5, KADABRA Lv5
+Set #64 - Ruins of Alph Hoenn/Sinnoh Radio (rate=1) - AMPHAROS Lv1, AMPHAROS Lv1, AMPHAROS Lv1, AMPHAROS Lv1
+Set #65 - Ruins of Alph Swarms (rate=1) - QUILAVA Lv1
+Set #66 - Union Cave Grass/Cave (rate=10) - DUSTOX Lv6, RATTATA Lv6, DUSTOX Lv6, RATTATA Lv6, DUSCLOPS Lv5, DUSCLOPS Lv5, ZUBAT Lv4, ZUBAT Lv4, DUSCLOPS Lv7, RHYHORN Lv6, DUSCLOPS Lv7, RHYHORN Lv6
+Set #67 - Union Cave Hoenn/Sinnoh Radio (rate=1) - BULBASAUR Lv1, GROUDON Lv1, YANMA Lv1, CARNIVINE Lv1
+Set #68 - Union Cave Surfing (rate=15) - ODDISH Lvs 10-20, LAPRAS Lvs 15-25, LAPRAS Lvs 10-20, LAPRAS Lvs 10-20, LAPRAS Lvs 10-20
+Set #69 - Union Cave Old Rod (rate=25) - KABUTO Lv10, KABUTO Lv10, KABUTO Lv10, HARIYAMA Lv10, HARIYAMA Lv10
+Set #70 - Union Cave Good Rod (rate=50) - RALTS Lv20, CHINCHOU Lv20, CHINCHOU Lv20, CHINCHOU Lv20, CHINCHOU Lv20
+Set #71 - Union Cave Super Rod (rate=75) - MEW Lv40, MEW Lv40, KECLEON Lv40, ONIX Lv40, KECLEON Lv40
+Set #72 - Union Cave Swarms (rate=1) - NIDORAN♂ Lv1, LINOONE Lv1, FEAROW Lv1, GASTLY Lv1
+Set #73 - Union Cave Grass/Cave (rate=15) - GIRATINA Lv8, PRIMEAPE Lv8, GIRATINA Lv8, PRIMEAPE Lv8, SNORLAX Lv7, SNORLAX Lv7, ZIGZAGOON Lv8, ZIGZAGOON Lv8, SNORLAX Lv9, ODDISH Lv6, SNORLAX Lv9, ODDISH Lv6
+Set #74 - Union Cave Hoenn/Sinnoh Radio (rate=1) - SHEDINJA Lv1, METAGROSS Lv1, DUNSPARCE Lv1, WALREIN Lv1
+Set #75 - Union Cave Surfing (rate=15) - KABUTOPS Lvs 10-20, MEGANIUM Lvs 15-25, MEGANIUM Lvs 10-20, MEGANIUM Lvs 10-20, MEGANIUM Lvs 10-20
+Set #76 - Union Cave Old Rod (rate=25) - PIDGEY Lv10, PIDGEY Lv10, PIDGEY Lv10, HONCHKROW Lv10, HONCHKROW Lv10
+Set #77 - Union Cave Good Rod (rate=50) - PILOSWINE Lv20, BARBOACH Lv20, BARBOACH Lv20, BARBOACH Lv20, BARBOACH Lv20
+Set #78 - Union Cave Super Rod (rate=75) - GYARADOS Lv40, GYARADOS Lv40, MAKUHITA Lv40, VULPIX Lv40, MAKUHITA Lv40
+Set #79 - Union Cave Swarms (rate=1) - GENGAR Lv1, RHYPERIOR Lv1, WIGGLYTUFF Lv1, ELECTRODE Lv1
+Set #80 - Union Cave Grass/Cave (rate=15) - PIDGEOTTO Lv22, LOMBRE Lv22, PIDGEOTTO Lv22, LOMBRE Lv22, KRICKETUNE Lv22, KRICKETUNE Lv22, LEDIAN Lv21, LEDIAN Lv21, FEEBAS Lv20, MR. MIME Lv23, FEEBAS Lv20, MR. MIME Lv23
+Set #81 - Union Cave Hoenn/Sinnoh Radio (rate=1) - ROSERADE Lv1, VESPIQUEN Lv1, COMBEE Lv1, SKORUPI Lv1
+Set #82 - Union Cave Surfing (rate=15) - HIPPOWDON Lvs 10-20, PONYTA Lvs 15-25, URSARING Lvs 15-25, URSARING Lvs 15-25, URSARING Lvs 15-25
+Set #83 - Union Cave Old Rod (rate=25) - SUNFLORA Lv10, SUNFLORA Lv10, SUNFLORA Lv10, NINETALES Lv10, NINETALES Lv10
+Set #84 - Union Cave Good Rod (rate=50) - AERODACTYL Lv20, DRATINI Lv20, DRATINI Lv20, VOLBEAT Lv20, DRATINI Lv20
+Set #85 - Union Cave Super Rod (rate=75) - MINUN Lv40, LUXIO Lv40, MINUN Lv40, ESPEON Lv40, MINUN Lv40
+Set #86 - Union Cave Swarms (rate=1) - DRATINI Lv1, PIPLUP Lv1, SILCOON Lv1, COMBEE Lv1
+Set #87 - Route 33 Grass/Cave (rate=25) - MUDKIP Lv6, KADABRA Lv7, MUDKIP Lv6, KADABRA Lv7, CRAWDAUNT Lv6, CRAWDAUNT Lv6, KADABRA Lv6, KADABRA Lv6, MUDKIP Lv8, KADABRA Lv4, MUDKIP Lv8, KADABRA Lv4
+Set #88 - Route 33 Hoenn/Sinnoh Radio (rate=1) - SUNKERN Lv1, IGGLYBUFF Lv1, PRIMEAPE Lv1, PRIMEAPE Lv1
+Set #89 - Route 33 Swarms (rate=1) - MANECTRIC Lv1
+Set #90 - SLOWPOKE Well Grass/Cave (rate=5) - MACHOP Lv5, MACHOP Lv6, MACHOP Lv5, MACHOP Lv6, MACHOP Lv7, MACHOP Lv7, WHISCASH Lv6, WHISCASH Lv6, MACHOP Lv8, WHISCASH Lv8, MACHOP Lv8, WHISCASH Lv8
+Set #91 - SLOWPOKE Well Hoenn/Sinnoh Radio (rate=1) - HAPPINY Lv1, UMBREON Lv1, SQUIRTLE Lv1, REGIGIGAS Lv1
+Set #92 - SLOWPOKE Well Surfing (rate=10) - SNORLAX Lvs 10-20, SNORLAX Lvs 15-25, SNORLAX Lvs 5-15, SNORLAX Lvs 5-15, SNORLAX Lvs 5-15
+Set #93 - SLOWPOKE Well Old Rod (rate=25) - BRELOOM Lv10, BRELOOM Lv10, BRELOOM Lv10, GRUMPIG Lv10, GRUMPIG Lv10
+Set #94 - SLOWPOKE Well Good Rod (rate=50) - GABITE Lv20, CYNDAQUIL Lv20, CYNDAQUIL Lv20, CYNDAQUIL Lv20, CYNDAQUIL Lv20
+Set #95 - SLOWPOKE Well Super Rod (rate=75) - DROWZEE Lv40, DROWZEE Lv40, FROSLASS Lv40, SEAKING Lv40, FROSLASS Lv40
+Set #96 - SLOWPOKE Well Swarms (rate=1) - PIDGEY Lv1, TANGELA Lv1, SWELLOW Lv1, GASTRODON Lv1
+Set #97 - SLOWPOKE Well Grass/Cave (rate=15) - BELLSPROUT Lv21, BELLSPROUT Lv23, BELLSPROUT Lv21, BELLSPROUT Lv23, BELLSPROUT Lv19, BELLSPROUT Lv19, LAIRON Lv21, LAIRON Lv21, VULPIX Lv23, LAIRON Lv23, VULPIX Lv23, LAIRON Lv23
+Set #98 - SLOWPOKE Well Hoenn/Sinnoh Radio (rate=1) - ALAKAZAM Lv1, LOUDRED Lv1, GROWLITHE Lv1, BELDUM Lv1
+Set #99 - SLOWPOKE Well Surfing (rate=10) - SALAMENCE Lvs 10-20, SALAMENCE Lvs 15-25, BLASTOISE Lvs 15-25, BLASTOISE Lvs 15-25, BLASTOISE Lv30
+Set #100 - SLOWPOKE Well Old Rod (rate=25) - NIDORAN♀ Lv10, NIDORAN♀ Lv10, NIDORAN♀ Lv10, PORYGON-Z Lv10, PORYGON-Z Lv10
+Set #101 - SLOWPOKE Well Good Rod (rate=50) - TORCHIC Lv20, POLIWRATH Lv20, POLIWRATH Lv20, POLIWRATH Lv20, POLIWRATH Lv20
+Set #102 - SLOWPOKE Well Super Rod (rate=75) - SHROOMISH Lv40, SHROOMISH Lv40, STUNKY Lv40, BELLSPROUT Lv40, STUNKY Lv40
+Set #103 - SLOWPOKE Well Swarms (rate=1) - MIME JR. Lv1, JYNX Lv1, SEVIPER Lv1, VESPIQUEN Lv1
+Set #104 - Ilex Forest Grass/Cave (rate=5) - MEDITITE Lv5, MEDITITE Lv6, MEDITITE Lv5, MEDITITE Lv6, METANG Lv6, METANG Lv6, METANG Lv5, METANG Lv5, MAGIKARP Lv5, TAUROS Lv6, MAGIKARP Lv5, TAUROS Lv6
+Set #105 - Ilex Forest Hoenn/Sinnoh Radio (rate=1) - CARNIVINE Lv1, DODUO Lv1, GARDEVOIR Lv1, FERALIGATR Lv1
+Set #106 - Ilex Forest Surfing (rate=15) - LUXRAY Lvs 10-20, LUXRAY Lvs 5-15, PROBOPASS Lvs 10-20, PROBOPASS Lvs 10-20, PROBOPASS Lvs 10-20
+Set #107 - Ilex Forest Old Rod (rate=25) - MAGNEZONE Lv10, MAGNEZONE Lv10, MAGNEZONE Lv10, REMORAID Lv10, REMORAID Lv10
+Set #108 - Ilex Forest Good Rod (rate=50) - MEDITITE Lv20, MEGANIUM Lv20, MEGANIUM Lv20, MEGANIUM Lv20, MEGANIUM Lv20
+Set #109 - Ilex Forest Super Rod (rate=75) - KRICKETOT Lv40, KRICKETOT Lv40, LUGIA Lv40, KRICKETOT Lv40, LUGIA Lv40
+Set #110 - Ilex Forest Swarms (rate=1) - STANTLER Lv1, SNOVER Lv1, ROTOM Lv1, CROBAT Lv1
+Set #111 - Route 34 Grass/Cave (rate=25) - ARCEUS Lv10, MILTANK Lv11, ARCEUS Lv10, MILTANK Lv11, ARCEUS Lv12, ARCEUS Lv12, BRONZOR Lv10, BRONZOR Lv10, MILTANK Lv13, TANGROWTH Lv10, MILTANK Lv13, TANGROWTH Lv10
+Set #112 - Route 34 Hoenn/Sinnoh Radio (rate=1) - ELECTRIKE Lv1, HARIYAMA Lv1, TYRANITAR Lv1, TROPIUS Lv1
+Set #113 - Route 34 Surfing (rate=15) - TREECKO Lvs 15-25, TREECKO Lvs 10-20, KRABBY Lvs 15-25, KRABBY Lvs 15-25, KRABBY Lv29
+Set #114 - Route 34 Old Rod (rate=25) - GULPIN Lv10, GULPIN Lv10, GULPIN Lv10, DROWZEE Lv10, DROWZEE Lv10
+Set #115 - Route 34 Good Rod (rate=50) - CATERPIE Lv20, DUSKNOIR Lv20, DUSKNOIR Lv20, FURRET Lv20, DUSKNOIR Lv20
+Set #116 - Route 34 Super Rod (rate=75) - RHYHORN Lv40, GROVYLE Lv40, RHYHORN Lv40, SKITTY Lv40, RHYHORN Lv40
+Set #117 - Route 34 Swarms (rate=1) - CHIKORITA Lv1, GLISCOR Lv1, CLOYSTER Lv1, SOLROCK Lv1
+Set #118 - Route 35 Grass/Cave (rate=25) - STARAVIA Lv12, SPEAROW Lv12, STARAVIA Lv12, SPEAROW Lv12, RAPIDASH Lv14, RAPIDASH Lv14, LEDYBA Lv10, LEDYBA Lv10, MANKEY Lv14, KOFFING Lv10, MANKEY Lv14, PICHU Lv12
+Set #119 - Route 35 Hoenn/Sinnoh Radio (rate=1) - SKUNTANK Lv1, CLEFAIRY Lv1, MAMOSWINE Lv1, FINNEON Lv1
+Set #120 - Route 35 Surfing (rate=15) - IGGLYBUFF Lvs 15-25, IGGLYBUFF Lvs 10-20, CLEFABLE Lvs 15-25, CLEFABLE Lvs 15-25, CLEFABLE Lv31
+Set #121 - Route 35 Old Rod (rate=25) - VAPOREON Lv10, VAPOREON Lv10, VAPOREON Lv10, GEODUDE Lv10, GEODUDE Lv10
+Set #122 - Route 35 Good Rod (rate=50) - WAILMER Lv20, DUNSPARCE Lv20, DUNSPARCE Lv20, DUNSPARCE Lv20, DUNSPARCE Lv20
+Set #123 - Route 35 Super Rod (rate=75) - HIPPOPOTAS Lv40, HIPPOPOTAS Lv40, BAGON Lv40, HIPPOPOTAS Lv40, BAGON Lv40
+Set #124 - Route 35 Swarms (rate=1) - SABLEYE Lv1, PONYTA Lv1, MAROWAK Lv1, NUZLEAF Lv1
+Set #125 - National Park Grass/Cave (rate=25) - NIDORINA Lv10, NINETALES Lv10, NIDORINA Lv10, NINETALES Lv10, PELIPPER Lv12, PELIPPER Lv12, CHARMELEON Lv12, CHARMELEON Lv12, PELIPPER Lv10, CHARMELEON Lv14, PELIPPER Lv10, CHARMELEON Lv14
+Set #126 - National Park Hoenn/Sinnoh Radio (rate=1) - ELECTIVIRE Lv1, SWABLU Lv1, HIPPOWDON Lv1, HIPPOWDON Lv1
+Set #127 - National Park Swarms (rate=1) - LEDIAN Lv1
+Set #128 - National Park Grass/Cave (rate=25) - VIGOROTH Lv10, VIGOROTH Lv10, VIGOROTH Lv10, VIGOROTH Lv10, VIGOROTH Lv12, VIGOROTH Lv12, VIGOROTH Lv12, VIGOROTH Lv12, VIGOROTH Lv10, VIGOROTH Lv14, VIGOROTH Lv10, VIGOROTH Lv14
+Set #129 - National Park Hoenn/Sinnoh Radio (rate=1) - KYOGRE Lv1, KYOGRE Lv1, KYOGRE Lv1, KYOGRE Lv1
+Set #130 - National Park Swarms (rate=1) - BAYLEEF Lv1
+Set #131 - Route 36 Grass/Cave (rate=25) - UXIE Lv12, COMBUSKEN Lv12, UXIE Lv12, COMBUSKEN Lv12, GROVYLE Lv13, GROVYLE Lv13, GENGAR Lv13, GENGAR Lv13, EEVEE Lv13, GENGAR Lv15, EEVEE Lv13, GENGAR Lv15
+Set #132 - Route 36 Hoenn/Sinnoh Radio (rate=1) - BIBAREL Lv1, SANDSLASH Lv1, JUMPLUFF Lv1, JUMPLUFF Lv1
+Set #133 - Route 36 Swarms (rate=1) - TENTACOOL Lv1
+Set #134 - Route 37 Grass/Cave (rate=25) - UXIE Lv13, GLIGAR Lv15, UXIE Lv13, GLIGAR Lv15, UXIE Lv15, UXIE Lv15, NINJASK Lv14, NINJASK Lv14, MIGHTYENA Lv15, NINJASK Lv15, MIGHTYENA Lv15, NINJASK Lv15
+Set #135 - Route 37 Hoenn/Sinnoh Radio (rate=1) - EKANS Lv1, SHUPPET Lv1, SLOWKING Lv1, SLOWKING Lv1
+Set #136 - Route 37 Swarms (rate=1) - MAROWAK Lv1
+Set #137 - Ecruteak City Surfing (rate=15) - OMASTAR Lvs 15-25, OMASTAR Lvs 10-20, REGIGIGAS Lvs 15-25, REGIGIGAS Lvs 15-25, REGIGIGAS Lvs 15-25
+Set #138 - Ecruteak City Old Rod (rate=25) - PERSIAN Lv10, PERSIAN Lv10, PERSIAN Lv10, JIRACHI Lv10, JIRACHI Lv10
+Set #139 - Ecruteak City Good Rod (rate=50) - MEDITITE Lv20, SALAMENCE Lv20, SALAMENCE Lv20, SALAMENCE Lv20, SALAMENCE Lv20
+Set #140 - Ecruteak City Super Rod (rate=75) - HARIYAMA Lv40, HARIYAMA Lv40, AMPHAROS Lv40, HARIYAMA Lv40, AMPHAROS Lv40
+Set #141 - Ecruteak City Swarms (rate=1) - SUDOWOODO Lv1, SUDOWOODO Lv1, SMEARGLE Lv1
+Set #142 - Burned Tower Grass/Cave (rate=10) - CHIMECHO Lv13, SNUBBULL Lv14, CHIMECHO Lv13, SNUBBULL Lv14, CHIMECHO Lv15, CHIMECHO Lv15, FLOATZEL Lv14, FLOATZEL Lv14, SNUBBULL Lv16, GRUMPIG Lv15, SNUBBULL Lv16, GRUMPIG Lv15
+Set #143 - Burned Tower Hoenn/Sinnoh Radio (rate=1) - ESPEON Lv1, HEATRAN Lv1, ROTOM Lv1, JIRACHI Lv1
+Set #144 - Burned Tower Swarms (rate=1) - ILLUMISE Lv1
+Set #145 - Burned Tower Grass/Cave (rate=10) - MAGIKARP Lv14, MAGMAR Lv14, MAGIKARP Lv14, MAGMAR Lv14, MAGMAR Lv16, MAGMAR Lv16, MASQUERAIN Lv16, MASQUERAIN Lv16, SPHEAL Lv15, MAGIKARP Lv14, SPHEAL Lv15, MAGIKARP Lv14
+Set #146 - Burned Tower Hoenn/Sinnoh Radio (rate=1) - DRAPION Lv1, SLUGMA Lv1, SLAKING Lv1, WARTORTLE Lv1
+Set #147 - Burned Tower Swarms (rate=1) - GYARADOS Lv1
+Set #148 - Bell Tower Grass/Cave (rate=5) - POOCHYENA Lv20, POOCHYENA Lv21, POOCHYENA Lv20, POOCHYENA Lv21, POOCHYENA Lv22, POOCHYENA Lv22, POOCHYENA Lv22, POOCHYENA Lv22, POOCHYENA Lv23, POOCHYENA Lv24, POOCHYENA Lv23, POOCHYENA Lv24
+Set #149 - Bell Tower Hoenn/Sinnoh Radio (rate=1) - MANECTRIC Lv1, TRAPINCH Lv1, WEEDLE Lv1, TEDDIURSA Lv1
+Set #150 - Bell Tower Swarms (rate=1) - MARSHTOMP Lv1
+Set #151 - Bell Tower Grass/Cave (rate=5) - GLAMEOW Lv20, GLAMEOW Lv21, GLAMEOW Lv20, GLAMEOW Lv21, GLAMEOW Lv22, GLAMEOW Lv22, GLAMEOW Lv22, GLAMEOW Lv22, GLAMEOW Lv23, GLAMEOW Lv24, GLAMEOW Lv23, GLAMEOW Lv24
+Set #152 - Bell Tower Hoenn/Sinnoh Radio (rate=1) - SKUNTANK Lv1, SHIFTRY Lv1, GALLADE Lv1, BALTOY Lv1
+Set #153 - Bell Tower Swarms (rate=1) - HO-OH Lv1
+Set #154 - Bell Tower Grass/Cave (rate=5) - ARON Lv20, ARON Lv21, ARON Lv20, ARON Lv21, ARON Lv22, ARON Lv22, ARON Lv22, ARON Lv22, ARON Lv23, ARON Lv24, ARON Lv23, ARON Lv24
+Set #155 - Bell Tower Hoenn/Sinnoh Radio (rate=1) - CLAMPERL Lv1, HOUNDOUR Lv1, TOGEKISS Lv1, ENTEI Lv1
+Set #156 - Bell Tower Swarms (rate=1) - ARIADOS Lv1
+Set #157 - Bell Tower Grass/Cave (rate=5) - STARLY Lv20, STARLY Lv21, STARLY Lv20, STARLY Lv21, STARLY Lv22, STARLY Lv22, STARLY Lv22, STARLY Lv22, STARLY Lv23, STARLY Lv24, STARLY Lv23, STARLY Lv24
+Set #158 - Bell Tower Hoenn/Sinnoh Radio (rate=1) - CLEFFA Lv1, BUNEARY Lv1, SPOINK Lv1, PORYGON Lv1
+Set #159 - Bell Tower Swarms (rate=1) - PINSIR Lv1
+Set #160 - Bell Tower Grass/Cave (rate=5) - NIDOKING Lv20, NIDOKING Lv21, NIDOKING Lv20, NIDOKING Lv21, NIDOKING Lv22, NIDOKING Lv22, NIDOKING Lv22, NIDOKING Lv22, NIDOKING Lv23, NIDOKING Lv24, NIDOKING Lv23, NIDOKING Lv24
+Set #161 - Bell Tower Hoenn/Sinnoh Radio (rate=1) - ELECTRODE Lv1, CARVANHA Lv1, MAMOSWINE Lv1, EXEGGCUTE Lv1
+Set #162 - Bell Tower Swarms (rate=1) - SWINUB Lv1
+Set #163 - Bell Tower Grass/Cave (rate=5) - COMBEE Lv20, COMBEE Lv21, COMBEE Lv20, COMBEE Lv21, COMBEE Lv22, COMBEE Lv22, COMBEE Lv22, COMBEE Lv22, COMBEE Lv23, COMBEE Lv24, COMBEE Lv23, COMBEE Lv24
+Set #164 - Bell Tower Hoenn/Sinnoh Radio (rate=1) - HERACROSS Lv1, POLIWHIRL Lv1, BUNEARY Lv1, PHANPY Lv1
+Set #165 - Bell Tower Swarms (rate=1) - BONSLY Lv1
+Set #166 - Bell Tower Grass/Cave (rate=5) - MANAPHY Lv20, MANAPHY Lv21, MANAPHY Lv20, MANAPHY Lv21, MANAPHY Lv22, MANAPHY Lv22, MANAPHY Lv22, MANAPHY Lv22, MANAPHY Lv23, MANAPHY Lv24, MANAPHY Lv23, MANAPHY Lv24
+Set #167 - Bell Tower Hoenn/Sinnoh Radio (rate=1) - DEWGONG Lv1, ELECTABUZZ Lv1, CACTURNE Lv1, ZANGOOSE Lv1
+Set #168 - Bell Tower Swarms (rate=1) - BUIZEL Lv1
+Set #169 - Bell Tower Grass/Cave (rate=5) - AGGRON Lv20, AGGRON Lv21, AGGRON Lv20, AGGRON Lv21, AGGRON Lv22, AGGRON Lv22, AGGRON Lv22, AGGRON Lv22, AGGRON Lv23, AGGRON Lv24, AGGRON Lv23, AGGRON Lv24
+Set #170 - Bell Tower Hoenn/Sinnoh Radio (rate=1) - HOUNDOUR Lv1, PRINPLUP Lv1, DRAGONITE Lv1, EXEGGUTOR Lv1
+Set #171 - Bell Tower Swarms (rate=1) - VENUSAUR Lv1
+Set #172 - Route 38 Grass/Cave (rate=25) - CHIKORITA Lv16, SANDSLASH Lv16, CHIKORITA Lv16, SANDSLASH Lv16, BEEDRILL Lv16, BEEDRILL Lv16, FARFETCH’D Lv16, FARFETCH’D Lv16, MAREEP Lv13, GARCHOMP Lv13, MAREEP Lv13, SHELLOS Lv13
+Set #173 - Route 38 Hoenn/Sinnoh Radio (rate=1) - KINGDRA Lv1, HOUNDOOM Lv1, PIDGEOT Lv1, PIDGEOT Lv1
+Set #174 - Route 38 Swarms (rate=1) - METAGROSS Lv1
+Set #175 - Route 39 Grass/Cave (rate=25) - DRIFBLIM Lv16, GRANBULL Lv17, DRIFBLIM Lv16, GRANBULL Lv17, CUBONE Lv16, CUBONE Lv16, VENOMOTH Lv16, VENOMOTH Lv16, HIPPOWDON Lv15, SWELLOW Lv15, HIPPOWDON Lv15, SWELLOW Lv15
+Set #176 - Route 39 Hoenn/Sinnoh Radio (rate=1) - MUK Lv1, RHYPERIOR Lv1, LATIAS Lv1, LATIAS Lv1
+Set #177 - Route 39 Swarms (rate=1) - LOPUNNY Lv1
+Set #178 - Olivine City Surfing (rate=15) - DUSKULL Lvs 15-25, DUSKULL Lvs 10-20, RATTATA Lvs 15-25, RATTATA Lvs 15-25, RATTATA Lvs 15-25
+Set #179 - Olivine City Old Rod (rate=25) - NOCTOWL Lv10, NOCTOWL Lv10, NOCTOWL Lv10, DELIBIRD Lv10, DELIBIRD Lv10
+Set #180 - Olivine City Good Rod (rate=50) - TOGETIC Lv20, AERODACTYL Lv20, AERODACTYL Lv20, LOPUNNY Lv20, AERODACTYL Lv20
+Set #181 - Olivine City Super Rod (rate=75) - MANAPHY Lv40, WEEZING Lv40, MANAPHY Lv40, KABUTO Lv40, MANAPHY Lv40
+Set #182 - Olivine City Swarms (rate=1) - GIRAFARIG Lv1, PHANPY Lv1, DUGTRIO Lv1
+Set #183 - Route 40 Surfing (rate=10) - RAMPARDOS Lvs 15-25, RAMPARDOS Lvs 10-20, HITMONCHAN Lvs 15-25, HITMONCHAN Lvs 15-25, HITMONCHAN Lvs 15-25
+Set #184 - Route 40 Old Rod (rate=25) - ZIGZAGOON Lv10, ZIGZAGOON Lv10, ZIGZAGOON Lv10, HO-OH Lv10, HO-OH Lv10
+Set #185 - Route 40 Good Rod (rate=50) - PIDGEOT Lv20, BAYLEEF Lv20, BAYLEEF Lv20, SHELLDER Lv20, BAYLEEF Lv20
+Set #186 - Route 40 Super Rod (rate=75) - AIPOM Lv40, DUSCLOPS Lv40, AIPOM Lv40, GIBLE Lv40, AIPOM Lv40
+Set #187 - Route 40 Swarms (rate=1) - ELECTIVIRE Lv1, WEEPINBELL Lv1, FLAREON Lv1
+Set #188 - Route 41 Surfing (rate=10) - CRADILY Lvs 15-25, MEW Lvs 15-25, GROWLITHE Lvs 15-25, GROWLITHE Lvs 15-25, GROWLITHE Lvs 15-25
+Set #189 - Route 41 Old Rod (rate=25) - PHIONE Lv10, PHIONE Lv10, PHIONE Lv10, VOLBEAT Lv10, VOLBEAT Lv10
+Set #190 - Route 41 Good Rod (rate=50) - CLEFFA Lv20, SABLEYE Lv20, CLEFABLE Lv20, SCEPTILE Lv20, CLEFABLE Lv20
+Set #191 - Route 41 Super Rod (rate=75) - BANETTE Lv40, VILEPLUME Lv40, STARAPTOR Lv40, CHINCHOU Lv40, STARAPTOR Lv40
+Set #192 - Route 41 Swarms (rate=1) - LATIAS Lv1, NIDORINA Lv1, YANMEGA Lv1
+Set #193 - Whirl Islands Grass/Cave (rate=5) - HOOTHOOT Lv22, SCIZOR Lv23, HOOTHOOT Lv22, SCIZOR Lv23, HOOTHOOT Lv24, HOOTHOOT Lv24, MOTHIM Lv22, MOTHIM Lv22, DIGLETT Lv23, MOTHIM Lv24, DIGLETT Lv23, MOTHIM Lv24
+Set #194 - Whirl Islands Hoenn/Sinnoh Radio (rate=1) - PORYGON2 Lv1, MAGNETON Lv1, CORPHISH Lv1, ARMALDO Lv1
+Set #195 - Whirl Islands Surfing (rate=10) - REGIROCK Lvs 15-25, DUNSPARCE Lvs 10-20, MINUN Lvs 15-25, MINUN Lvs 15-25, MINUN Lvs 15-25
+Set #196 - Whirl Islands Old Rod (rate=25) - FEAROW Lv10, FEAROW Lv10, FEAROW Lv10, SMEARGLE Lv10, SMEARGLE Lv10
+Set #197 - Whirl Islands Good Rod (rate=50) - DITTO Lv20, BLAZIKEN Lv20, BLAZIKEN Lv20, SPIRITOMB Lv20, BLAZIKEN Lv20
+Set #198 - Whirl Islands Super Rod (rate=75) - GIBLE Lv40, BLASTOISE Lv40, ARCANINE Lv40, POLIWAG Lv40, ARCANINE Lv40
+Set #199 - Whirl Islands Swarms (rate=1) - GLAMEOW Lv1, PARAS Lv1, SUDOWOODO Lv1, GRANBULL Lv1
+Set #200 - Whirl Islands Grass/Cave (rate=5) - SPINARAK Lv22, ARTICUNO Lv23, SPINARAK Lv22, ARTICUNO Lv23, SPINARAK Lv24, SPINARAK Lv24, RAICHU Lv22, RAICHU Lv22, COMBUSKEN Lv23, RAICHU Lv24, COMBUSKEN Lv23, RAICHU Lv24
+Set #201 - Whirl Islands Hoenn/Sinnoh Radio (rate=1) - HYPNO Lv1, YANMEGA Lv1, GRAVELER Lv1, SQUIRTLE Lv1
+Set #202 - Whirl Islands Swarms (rate=1) - GARCHOMP Lv1
+Set #203 - Whirl Islands Grass/Cave (rate=5) - PIKACHU Lv22, ZUBAT Lv23, PIKACHU Lv22, ZUBAT Lv23, PIKACHU Lv24, PIKACHU Lv24, CARVANHA Lv22, CARVANHA Lv22, DRATINI Lv23, CARVANHA Lv24, DRATINI Lv23, CARVANHA Lv24
+Set #204 - Whirl Islands Hoenn/Sinnoh Radio (rate=1) - LILEEP Lv1, EXEGGUTOR Lv1, SWABLU Lv1, OMANYTE Lv1
+Set #205 - Whirl Islands Surfing (rate=10) - TANGROWTH Lvs 15-25, MACHAMP Lvs 15-25, STEELIX Lvs 15-25, STEELIX Lvs 15-25, STEELIX Lv30
+Set #206 - Whirl Islands Old Rod (rate=25) - NATU Lv10, NATU Lv10, NATU Lv10, PIKACHU Lv10, PIKACHU Lv10
+Set #207 - Whirl Islands Good Rod (rate=50) - CHARIZARD Lv20, MEWTWO Lv20, MEWTWO Lv20, HAUNTER Lv20, MEWTWO Lv20
+Set #208 - Whirl Islands Super Rod (rate=75) - PORYGON Lv40, WOBBUFFET Lv40, LICKILICKY Lv40, GOLDEEN Lv40, LICKILICKY Lv40
+Set #209 - Whirl Islands Swarms (rate=1) - MAREEP Lv1, PORYGON Lv1, PORYGON Lv1, SQUIRTLE Lv1
+Set #210 - Whirl Islands Grass/Cave (rate=5) - TANGELA Lv23, RAMPARDOS Lv24, TANGELA Lv23, RAMPARDOS Lv24, TANGELA Lv25, TANGELA Lv25, OMANYTE Lv23, OMANYTE Lv23, METANG Lv24, OMANYTE Lv25, METANG Lv24, OMANYTE Lv25
+Set #211 - Whirl Islands Hoenn/Sinnoh Radio (rate=1) - STANTLER Lv1, SEVIPER Lv1, SLOWBRO Lv1, SPIRITOMB Lv1
+Set #212 - Whirl Islands Swarms (rate=1) - CLAYDOL Lv1
+Set #213 - Cianwood City Surfing (rate=15) - PORYGON Lvs 15-25, PORYGON Lvs 10-20, DUSTOX Lvs 15-25, DUSTOX Lvs 15-25, DUSTOX Lvs 15-25
+Set #214 - Cianwood City Rock Smash (rate=30) - NIDORAN♀ Lvs 15-24, ESPEON Lvs 23-28
+Set #215 - Cianwood City Old Rod (rate=25) - KECLEON Lv10, KECLEON Lv10, KECLEON Lv10, WEEDLE Lv10, WEEDLE Lv10
+Set #216 - Cianwood City Good Rod (rate=50) - PHANPY Lv20, MEW Lv20, MEW Lv20, GEODUDE Lv20, MEW Lv20
+Set #217 - Cianwood City Super Rod (rate=75) - TAILLOW Lv40, TORTERRA Lv40, TAILLOW Lv40, NINCADA Lv40, TAILLOW Lv40
+Set #218 - Cianwood City Swarms (rate=1) - CACNEA Lv1, CAMERUPT Lv1, BELLOSSOM Lv1
+Set #219 - Route 42 Grass/Cave (rate=25) - HYPNO Lv15, ZAPDOS Lv13, HYPNO Lv15, ZAPDOS Lv13, CARNIVINE Lv14, CARNIVINE Lv14, CARNIVINE Lv16, CARNIVINE Lv16, DRIFLOON Lv15, DRIFLOON Lv17, DRIFLOON Lv15, DRIFLOON Lv17
+Set #220 - Route 42 Hoenn/Sinnoh Radio (rate=1) - WALREIN Lv1, ZANGOOSE Lv1, CHATOT Lv1, SKITTY Lv1
+Set #221 - Route 42 Surfing (rate=10) - GARDEVOIR Lvs 15-25, GARDEVOIR Lvs 10-20, VENUSAUR Lvs 15-25, VENUSAUR Lvs 15-25, VENUSAUR Lvs 15-25
+Set #222 - Route 42 Old Rod (rate=25) - WEAVILE Lv10, WEAVILE Lv10, WEAVILE Lv10, SCIZOR Lv10, SCIZOR Lv10
+Set #223 - Route 42 Good Rod (rate=50) - PINSIR Lv20, FEEBAS Lv20, FEEBAS Lv20, FEEBAS Lv20, FEEBAS Lv20
+Set #224 - Route 42 Super Rod (rate=75) - MAMOSWINE Lv40, MAMOSWINE Lv40, SPEAROW Lv40, BRONZONG Lv40, SPEAROW Lv40
+Set #225 - Route 42 Swarms (rate=1) - GOLEM Lv1, STARYU Lv1, STARYU Lv1, HONCHKROW Lv1
+Set #226 - Mt. Mortar Grass/Cave (rate=10) - WHISMUR Lv13, WHISMUR Lv15, WHISMUR Lv13, WHISMUR Lv15, BRONZOR Lv14, BRONZOR Lv14, RATICATE Lv14, RATICATE Lv14, TOXICROAK Lv14, RATICATE Lv16, TOXICROAK Lv14, OCTILLERY Lv15
+Set #227 - Mt. Mortar Hoenn/Sinnoh Radio (rate=1) - LUGIA Lv1, CLOYSTER Lv1, PIKACHU Lv1, OCTILLERY Lv1
+Set #228 - Mt. Mortar Surfing (rate=10) - TOTODILE Lvs 15-25, TOTODILE Lvs 10-20, SLOWPOKE Lvs 15-25, SLOWPOKE Lvs 15-25, SLOWPOKE Lvs 15-25
+Set #229 - Mt. Mortar Old Rod (rate=25) - CROAGUNK Lv10, CROAGUNK Lv10, CROAGUNK Lv10, CLOYSTER Lv10, CLOYSTER Lv10
+Set #230 - Mt. Mortar Good Rod (rate=50) - CHARIZARD Lv20, TOXICROAK Lv20, TOXICROAK Lv20, TOXICROAK Lv20, TOXICROAK Lv20
+Set #231 - Mt. Mortar Super Rod (rate=75) - SPINDA Lv40, SPINDA Lv40, VIBRAVA Lv40, NIDOKING Lv40, VIBRAVA Lv40
+Set #232 - Mt. Mortar Swarms (rate=1) - CHIKORITA Lv1, MANTYKE Lv1, MANTYKE Lv1, STUNKY Lv1
+Set #233 - Mt. Mortar Grass/Cave (rate=10) - PINSIR Lv13, KRABBY Lv13, PINSIR Lv13, KRABBY Lv13, PINSIR Lv15, PINSIR Lv15, LEDYBA Lv14, LEDYBA Lv14, KRABBY Lv15, LAIRON Lv14, KRABBY Lv15, LAIRON Lv14
+Set #234 - Mt. Mortar Hoenn/Sinnoh Radio (rate=1) - PERSIAN Lv1, SWINUB Lv1, KINGLER Lv1, LICKILICKY Lv1
+Set #235 - Mt. Mortar Swarms (rate=1) - BARBOACH Lv1
+Set #236 - Mt. Mortar Grass/Cave (rate=10) - SNUBBULL Lv31, BUIZEL Lv32, SNUBBULL Lv31, BUIZEL Lv32, SLAKING Lv31, SLAKING Lv31, POLIWRATH Lv30, POLIWRATH Lv30, BIBAREL Lv28, MILTANK Lv30, BIBAREL Lv28, MILTANK Lv30
+Set #237 - Mt. Mortar Hoenn/Sinnoh Radio (rate=1) - CHARMANDER Lv1, SHIELDON Lv1, BLISSEY Lv1, HUNTAIL Lv1
+Set #238 - Mt. Mortar Surfing (rate=10) - SEADRA Lvs 15-25, SEADRA Lvs 20-30, NOSEPASS Lvs 20-30, NOSEPASS Lvs 20-30, NOSEPASS Lvs 20-30
+Set #239 - Mt. Mortar Old Rod (rate=25) - BANETTE Lv10, BANETTE Lv10, BANETTE Lv10, QUAGSIRE Lv10, QUAGSIRE Lv10
+Set #240 - Mt. Mortar Good Rod (rate=50) - MOLTRES Lv20, TENTACOOL Lv20, TENTACOOL Lv20, TENTACOOL Lv20, TENTACOOL Lv20
+Set #241 - Mt. Mortar Super Rod (rate=75) - HONCHKROW Lv40, HONCHKROW Lv40, SHELLOS Lv40, SKORUPI Lv40, SHELLOS Lv40
+Set #242 - Mt. Mortar Swarms (rate=1) - HUNTAIL Lv1, DARKRAI Lv1, DARKRAI Lv1, KIRLIA Lv1
+Set #243 - Mt. Mortar Grass/Cave (rate=10) - MANTYKE Lv15, MANTYKE Lv17, MANTYKE Lv15, MANTYKE Lv17, DIGLETT Lv16, DIGLETT Lv16, RATICATE Lv16, RATICATE Lv16, SPHEAL Lv16, BIBAREL Lv16, SPHEAL Lv16, BIBAREL Lv16
+Set #244 - Mt. Mortar Hoenn/Sinnoh Radio (rate=1) - NIDOKING Lv1, SEEL Lv1, CORPHISH Lv1, MILTANK Lv1
+Set #245 - Mt. Mortar Surfing (rate=10) - MANTYKE Lvs 15-25, MANTYKE Lvs 10-20, HITMONLEE Lvs 15-25, HITMONLEE Lvs 15-25, HITMONLEE Lvs 15-25
+Set #246 - Mt. Mortar Old Rod (rate=25) - SCIZOR Lv10, SCIZOR Lv10, SCIZOR Lv10, LOMBRE Lv10, LOMBRE Lv10
+Set #247 - Mt. Mortar Good Rod (rate=50) - SHIFTRY Lv20, ABOMASNOW Lv20, ABOMASNOW Lv20, ABOMASNOW Lv20, ABOMASNOW Lv20
+Set #248 - Mt. Mortar Super Rod (rate=75) - SKIPLOOM Lv40, SKIPLOOM Lv40, MEOWTH Lv40, SCYTHER Lv40, MEOWTH Lv40
+Set #249 - Mt. Mortar Swarms (rate=1) - ARMALDO Lv1, TORKOAL Lv1, TORKOAL Lv1, TOGEKISS Lv1
+Set #250 - Route 43 Grass/Cave (rate=20) - SCIZOR Lv15, LEDIAN Lv15, SCIZOR Lv15, LEDIAN Lv15, MAGMAR Lv17, MAGMAR Lv17, HERACROSS Lv15, HERACROSS Lv15, SCIZOR Lv16, SCIZOR Lv17, SCIZOR Lv16, SCIZOR Lv17
+Set #251 - Route 43 Hoenn/Sinnoh Radio (rate=1) - SKORUPI Lv1, SUNFLORA Lv1, CUBONE Lv1, NUMEL Lv1
+Set #252 - Route 43 Surfing (rate=10) - MISMAGIUS Lvs 15-25, MISMAGIUS Lvs 10-20, MISMAGIUS Lvs 5-15, MISMAGIUS Lvs 5-15, MISMAGIUS Lv50
+Set #253 - Route 43 Old Rod (rate=25) - VENUSAUR Lv10, VENUSAUR Lv10, VENUSAUR Lv10, BRONZONG Lv10, BRONZONG Lv10
+Set #254 - Route 43 Good Rod (rate=50) - WOOPER Lv20, SPINARAK Lv20, SPINARAK Lv20, SPINARAK Lv20, SPINARAK Lv20
+Set #255 - Route 43 Super Rod (rate=75) - NIDORAN♂ Lv40, NIDORAN♂ Lv40, AZELF Lv40, NIDORAN♂ Lv40, AZELF Lv40
+Set #256 - Route 43 Swarms (rate=1) - METAPOD Lv1, RAIKOU Lv1, LANTURN Lv1, RAIKOU Lv1
+Set #257 - Lake of Rage Surfing (rate=10) - LOPUNNY Lvs 10-20, LOPUNNY Lvs 5-15, VESPIQUEN Lvs 10-20, VESPIQUEN Lvs 10-20, VESPIQUEN Lvs 10-20
+Set #258 - Lake of Rage Old Rod (rate=25) - MAGIKARP Lv10, MAGIKARP Lv10, MAGIKARP Lv10, MAGIKARP Lv10, MAGIKARP Lv10
+Set #259 - Lake of Rage Good Rod (rate=50) - MARILL Lv20, MARILL Lv20, MARILL Lv20, BLISSEY Lv20, MARILL Lv20
+Set #260 - Lake of Rage Super Rod (rate=75) - HOUNDOUR Lv40, CLAMPERL Lv40, HOUNDOUR Lv40, HOUNDOUR Lv40, HOUNDOUR Lv40
+Set #261 - Lake of Rage Swarms (rate=1) - WOOPER Lv1, BONSLY Lv1, WOOPER Lv1
+Set #262 - Route 44 Grass/Cave (rate=25) - CORSOLA Lv23, REGISTEEL Lv22, CORSOLA Lv23, REGISTEEL Lv22, LUXRAY Lv22, LUXRAY Lv22, TYRANITAR Lv24, TYRANITAR Lv24, REGISTEEL Lv24, TYRANITAR Lv26, REGISTEEL Lv24, TYRANITAR Lv26
+Set #263 - Route 44 Hoenn/Sinnoh Radio (rate=1) - ANORITH Lv1, BULBASAUR Lv1, MISDREAVUS Lv1, BIDOOF Lv1
+Set #264 - Route 44 Surfing (rate=10) - NIDORAN♀ Lvs 20-30, NIDORAN♀ Lvs 15-25, YANMA Lvs 20-30, YANMA Lvs 20-30, YANMA Lvs 20-30
+Set #265 - Route 44 Old Rod (rate=25) - CHERUBI Lv10, CHERUBI Lv10, CHERUBI Lv10, QUAGSIRE Lv10, QUAGSIRE Lv10
+Set #266 - Route 44 Good Rod (rate=50) - SCEPTILE Lv20, NUZLEAF Lv20, NUZLEAF Lv20, NUZLEAF Lv20, LARVITAR Lv20
+Set #267 - Route 44 Super Rod (rate=75) - HIPPOPOTAS Lv40, HIPPOPOTAS Lv40, MESPRIT Lv40, LICKILICKY Lv40, MESPRIT Lv40
+Set #268 - Route 44 Swarms (rate=1) - SNEASEL Lv1, CRADILY Lv1, CRADILY Lv1, KINGLER Lv1
+Set #269 - Ice Path Grass/Cave (rate=5) - SKARMORY Lv21, WALREIN Lv22, SKARMORY Lv21, WALREIN Lv22, SNEASEL Lv22, SNEASEL Lv22, SKARMORY Lv23, SKARMORY Lv23, PACHIRISU Lv22, PACHIRISU Lv22, PACHIRISU Lv22, PACHIRISU Lv22
+Set #270 - Ice Path Hoenn/Sinnoh Radio (rate=1) - WEEZING Lv1, GLALIE Lv1, KECLEON Lv1, PROBOPASS Lv1
+Set #271 - Ice Path Swarms (rate=1) - STARLY Lv1
+Set #272 - Ice Path Grass/Cave (rate=5) - SHARPEDO Lv21, POLITOED Lv22, SHARPEDO Lv21, POLITOED Lv22, CROAGUNK Lv22, CROAGUNK Lv22, SHARPEDO Lv23, SHARPEDO Lv23, SOLROCK Lv22, SOLROCK Lv22, SOLROCK Lv22, SOLROCK Lv22
+Set #273 - Ice Path Hoenn/Sinnoh Radio (rate=1) - BONSLY Lv1, EEVEE Lv1, POLIWRATH Lv1, LINOONE Lv1
+Set #274 - Ice Path Swarms (rate=1) - UNOWN Lv1
+Set #275 - Ice Path Grass/Cave (rate=5) - MAGBY Lv22, PINECO Lv23, MAGBY Lv22, PINECO Lv23, BANETTE Lv23, BANETTE Lv23, MAGBY Lv24, MAGBY Lv24, BLASTOISE Lv23, BLASTOISE Lv23, BLASTOISE Lv23, BLASTOISE Lv23
+Set #276 - Ice Path Hoenn/Sinnoh Radio (rate=1) - GIRATINA Lv1, MR. MIME Lv1, IVYSAUR Lv1, GALLADE Lv1
+Set #277 - Ice Path Swarms (rate=1) - VAPOREON Lv1
+Set #278 - Ice Path Grass/Cave (rate=5) - OCTILLERY Lv22, FORRETRESS Lv23, OCTILLERY Lv22, FORRETRESS Lv23, HORSEA Lv23, HORSEA Lv23, OCTILLERY Lv24, OCTILLERY Lv24, PSYDUCK Lv23, PSYDUCK Lv23, PSYDUCK Lv23, PSYDUCK Lv23
+Set #279 - Ice Path Hoenn/Sinnoh Radio (rate=1) - STEELIX Lv1, MARSHTOMP Lv1, MUNCHLAX Lv1, SCYTHER Lv1
+Set #280 - Ice Path Swarms (rate=1) - ONIX Lv1
+Set #281 - Blackthorn City Surfing (rate=10) - ABOMASNOW Lvs 10-20, ABOMASNOW Lvs 5-15, ABOMASNOW Lvs 2-10, ABOMASNOW Lvs 2-10, ABOMASNOW Lvs 2-10
+Set #282 - Blackthorn City Old Rod (rate=25) - EKANS Lv10, EKANS Lv10, EKANS Lv10, LICKITUNG Lv10, LICKITUNG Lv10
+Set #283 - Blackthorn City Good Rod (rate=50) - CATERPIE Lv20, DUGTRIO Lv20, DUGTRIO Lv20, DUGTRIO Lv20, DUGTRIO Lv20
+Set #284 - Blackthorn City Super Rod (rate=75) - RHYPERIOR Lv40, RHYPERIOR Lv40, KAKUNA Lv40, RHYPERIOR Lv40, KAKUNA Lv40
+Set #285 - Blackthorn City Swarms (rate=1) - ZAPDOS Lv1, REGIGIGAS Lv1, ZAPDOS Lv1
+Set #286 - Dragon’s Den Surfing (rate=10) - BUDEW Lvs 10-20, BUDEW Lvs 5-15, GYARADOS Lvs 5-15, GYARADOS Lvs 5-15, GYARADOS Lvs 5-15
+Set #287 - Dragon’s Den Old Rod (rate=25) - WHISMUR Lv10, WHISMUR Lv10, WHISMUR Lv10, WHISMUR Lv10, WHISMUR Lv10
+Set #288 - Dragon’s Den Good Rod (rate=50) - HITMONTOP Lv20, HITMONTOP Lv20, HITMONTOP Lv20, PSYDUCK Lv20, HITMONTOP Lv20
+Set #289 - Dragon’s Den Super Rod (rate=75) - CHINGLING Lv40, SLAKING Lv40, CHINGLING Lv40, WEEPINBELL Lv40, CHINGLING Lv40
+Set #290 - Dragon’s Den Swarms (rate=1) - GIRAFARIG Lv1, SEEDOT Lv1, GIRAFARIG Lv1
+Set #291 - Route 45 Grass/Cave (rate=25) - SUICUNE Lv23, CROAGUNK Lv23, SUICUNE Lv23, CROAGUNK Lv23, CRAWDAUNT Lv24, CRAWDAUNT Lv24, TOGETIC Lv20, TOGETIC Lv20, CROAGUNK Lv25, CROAGUNK Lv27, CROAGUNK Lv25, CROAGUNK Lv27
+Set #292 - Route 45 Hoenn/Sinnoh Radio (rate=1) - PILOSWINE Lv1, UXIE Lv1, RALTS Lv1, MARILL Lv1
+Set #293 - Route 45 Surfing (rate=10) - HEATRAN Lvs 15-25, HEATRAN Lvs 10-20, HEATRAN Lvs 2-10, HEATRAN Lvs 2-10, HEATRAN Lvs 2-10
+Set #294 - Route 45 Old Rod (rate=25) - MAGNEZONE Lv10, MAGNEZONE Lv10, MAGNEZONE Lv10, ABOMASNOW Lv10, ABOMASNOW Lv10
+Set #295 - Route 45 Good Rod (rate=50) - BALTOY Lv20, PACHIRISU Lv20, PACHIRISU Lv20, PACHIRISU Lv20, PACHIRISU Lv20
+Set #296 - Route 45 Super Rod (rate=75) - SALAMENCE Lv40, SALAMENCE Lv40, BRONZOR Lv40, SALAMENCE Lv40, BRONZOR Lv40
+Set #297 - Route 45 Swarms (rate=1) - CASCOON Lv1, PIDGEOT Lv1, STANTLER Lv1, PIDGEOT Lv1
+Set #298 - Route 46 Grass/Cave (rate=25) - VENOMOTH Lv3, GLACEON Lv2, VENOMOTH Lv3, GLACEON Lv2, BAGON Lv2, BAGON Lv2, VENOMOTH Lv2, VENOMOTH Lv2, GLACEON Lv3, BAGON Lv4, GLACEON Lv3, BAGON Lv4
+Set #299 - Route 46 Hoenn/Sinnoh Radio (rate=1) - WYNAUT Lv1, MAROWAK Lv1, MEGANIUM Lv1, MEGANIUM Lv1
+Set #300 - Route 46 Swarms (rate=1) - POLIWAG Lv1
+Set #301 - Dark Cave Grass/Cave (rate=10) - KRICKETOT Lv3, MAGMAR Lv2, KRICKETOT Lv3, MAGMAR Lv2, KRICKETOT Lv2, KRICKETOT Lv2, KRICKETOT Lv4, KRICKETOT Lv4, MAGMAR Lv3, MAGMAR Lv4, MAGMAR Lv3, KABUTOPS Lv4
+Set #302 - Dark Cave Hoenn/Sinnoh Radio (rate=1) - MESPRIT Lv1, STARAPTOR Lv1, DIALGA Lv1, PIPLUP Lv1
+Set #303 - Dark Cave Surfing (rate=10) - PSYDUCK Lvs 10-20, PSYDUCK Lvs 5-15, PSYDUCK Lvs 2-10, PSYDUCK Lvs 2-10, PSYDUCK Lvs 2-10
+Set #304 - Dark Cave Rock Smash (rate=50) - DRAGONAIR Lvs 4-8, PUPITAR Lvs 8-14
+Set #305 - Dark Cave Old Rod (rate=25) - TYPHLOSION Lv10, TYPHLOSION Lv10, TYPHLOSION Lv10, IVYSAUR Lv10, IVYSAUR Lv10
+Set #306 - Dark Cave Good Rod (rate=50) - AMBIPOM Lv20, SLAKING Lv20, SLAKING Lv20, SLAKING Lv20, SLAKING Lv20
+Set #307 - Dark Cave Super Rod (rate=75) - CORSOLA Lv40, CORSOLA Lv40, GROTLE Lv40, SEALEO Lv40, GROTLE Lv40
+Set #308 - Dark Cave Swarms (rate=1) - VIBRAVA Lv1, MAWILE Lv1, GLAMEOW Lv1, MAWILE Lv1
+Set #309 - Dark Cave Grass/Cave (rate=10) - CLEFAIRY Lv23, HIPPOPOTAS Lv23, CLEFAIRY Lv23, HIPPOPOTAS Lv23, CHINGLING Lv25, CHINGLING Lv25, CLAMPERL Lv20, CLAMPERL Lv20, CLAMPERL Lv25, GULPIN Lv23, CLAMPERL Lv25, GULPIN Lv23
+Set #310 - Dark Cave Hoenn/Sinnoh Radio (rate=1) - HOPPIP Lv1, SNORLAX Lv1, MACHOKE Lv1, GOLEM Lv1
+Set #311 - Dark Cave Surfing (rate=10) - KOFFING Lvs 10-20, KOFFING Lvs 5-15, KOFFING Lvs 2-10, KOFFING Lvs 2-10, KOFFING Lvs 2-10
+Set #312 - Dark Cave Old Rod (rate=25) - STARLY Lv10, STARLY Lv10, STARLY Lv10, FURRET Lv10, FURRET Lv10
+Set #313 - Dark Cave Good Rod (rate=50) - TENTACRUEL Lv20, SPINARAK Lv20, SPINARAK Lv20, SPINARAK Lv20, SPINARAK Lv20
+Set #314 - Dark Cave Super Rod (rate=75) - PSYDUCK Lv40, PSYDUCK Lv40, LAPRAS Lv40, TAUROS Lv40, LAPRAS Lv40
+Set #315 - Dark Cave Swarms (rate=1) - VIGOROTH Lv1, KANGASKHAN Lv1, WHISMUR Lv1, KANGASKHAN Lv1
+Set #316 - Route 47 Grass/Cave (rate=25) - CHARIZARD Lv35, POOCHYENA Lv35, DONPHAN Lv34, DONPHAN Lv33, DONPHAN Lv32, DONPHAN Lv31, WHISCASH Lv32, TEDDIURSA Lv31, GOLDEEN Lv34, POLIWRATH Lv31, POLIWRATH Lv33, DONPHAN Lv40
+Set #317 - Route 47 Hoenn/Sinnoh Radio (rate=1) - PALKIA Lv1, DEOXYS Lv1, REGICE Lv1, GLISCOR Lv1
+Set #318 - Route 47 Surfing (rate=15) - FLYGON Lvs 15-25, KINGDRA Lvs 10-20, NIDORINO Lvs 15-25, NIDORINO Lvs 15-25, NIDORINO Lvs 15-25
+Set #319 - Route 47 Old Rod (rate=25) - DUSTOX Lv10, DUSTOX Lv10, DUSTOX Lv10, ARTICUNO Lv10, ARTICUNO Lv10
+Set #320 - Route 47 Good Rod (rate=50) - SLOWBRO Lv20, SABLEYE Lv20, MARILL Lv20, CHARMELEON Lv20, MARILL Lv20
+Set #321 - Route 47 Super Rod (rate=75) - MEOWTH Lv40, MOLTRES Lv40, WOBBUFFET Lv40, HOPPIP Lv40, WOBBUFFET Lv40
+Set #322 - Route 47 Swarms (rate=1) - NIDORINO Lv1, NINCADA Lv1, DUSKULL Lv1, AMBIPOM Lv1
+Set #323 - Mt. Moon Surfing (rate=15) - RHYDON Lv35, VENONAT Lv30, VENONAT Lv35, VENONAT Lv35, VENONAT Lv35
+Set #324 - Mt. Moon Old Rod (rate=25) - LUXRAY Lv10, LUXRAY Lv10, LUXRAY Lv10, LUXRAY Lv10, LUXRAY Lv10
+Set #325 - Mt. Moon Good Rod (rate=50) - YANMEGA Lv20, YANMEGA Lv20, CORSOLA Lv20, CORSOLA Lv20, CORSOLA Lv20
+Set #326 - Mt. Moon Super Rod (rate=75) - GULPIN Lv40, GULPIN Lv40, GULPIN Lv40, GULPIN Lv40, GULPIN Lv40
+Set #327 - Mt. Moon Swarms (rate=1) - SLOWKING Lv1, SLOWKING Lv1, ROSERADE Lv1
+Set #328 - Mt. Moon Surfing (rate=15) - GLOOM Lv35, GLOOM Lv30, GLOOM Lv35, GLOOM Lv35, GLOOM Lv35
+Set #329 - Mt. Moon Old Rod (rate=25) - DODRIO Lv10, DODRIO Lv10, DODRIO Lv10, PIDGEY Lv10, DODRIO Lv10
+Set #330 - Mt. Moon Good Rod (rate=50) - HUNTAIL Lv20, HUNTAIL Lv20, HUNTAIL Lv20, GRIMER Lv20, HUNTAIL Lv20
+Set #331 - Mt. Moon Super Rod (rate=75) - MAGBY Lv40, MAGBY Lv40, MAGBY Lv40, QWILFISH Lv40, MAGBY Lv40
+Set #332 - Mt. Moon Swarms (rate=1) - NINJASK Lv1, PLUSLE Lv1, NINJASK Lv1
+Set #333 - Seafoam Islands Grass/Cave (rate=5) - STARLY Lv28, MURKROW Lv32, PICHU Lv28, PICHU Lv29, MURKROW Lv30, ONIX Lv32, STARLY Lv27, STARLY Lv26, PICHU Lv27, PICHU Lv26, PICHU Lv27, PICHU Lv26
+Set #334 - Seafoam Islands Hoenn/Sinnoh Radio (rate=1) - RATTATA Lv1, PACHIRISU Lv1, BELDUM Lv1, SOLROCK Lv1
+Set #335 - Seafoam Islands Swarms (rate=1) - CLEFFA Lv1
+Set #336 - Seafoam Islands Grass/Cave (rate=5) - BULBASAUR Lv32, VIGOROTH Lv34, CHANSEY Lv28, BULBASAUR Lv34, VIGOROTH Lv32, DUSKULL Lv34, VICTREEBEL Lv29, VICTREEBEL Lv28, DUSKULL Lv32, CHANSEY Lv28, CHANSEY Lv27, CHANSEY Lv26
+Set #337 - Seafoam Islands Hoenn/Sinnoh Radio (rate=1) - MAGMORTAR Lv1, PINECO Lv1, LUXIO Lv1, PLUSLE Lv1
+Set #338 - Seafoam Islands Swarms (rate=1) - GASTRODON Lv1
+Set #339 - Seafoam Islands Grass/Cave (rate=5) - QWILFISH Lv33, CROCONAW Lv35, LUCARIO Lv30, QWILFISH Lv35, CROCONAW Lv33, ELECTRODE Lv35, SHIFTRY Lv30, SHIFTRY Lv29, ELECTRODE Lv33, LUCARIO Lv29, LUCARIO Lv28, LUCARIO Lv27
+Set #340 - Seafoam Islands Hoenn/Sinnoh Radio (rate=1) - SHELLDER Lv1, QWILFISH Lv1, NATU Lv1, BURMY Lv1
+Set #341 - Seafoam Islands Swarms (rate=1) - HIPPOPOTAS Lv1
+Set #342 - Seafoam Islands Grass/Cave (rate=10) - SNOVER Lv35, EXEGGUTOR Lv36, VOLTORB Lv32, OMANYTE Lv34, EXEGGUTOR Lv34, RAICHU Lv36, NIDORAN♂ Lv32, NIDORAN♂ Lv31, RAICHU Lv34, SNOVER Lv36, VOLTORB Lv32, VOLTORB Lv31
+Set #343 - Seafoam Islands Hoenn/Sinnoh Radio (rate=1) - HORSEA Lv1, LUMINEON Lv1, HITMONCHAN Lv1, POLIWAG Lv1
+Set #344 - Seafoam Islands Swarms (rate=1) - REMORAID Lv1
+Set #345 - Seafoam Islands Grass/Cave (rate=10) - MASQUERAIN Lv37, WHISCASH Lv40, FROSLASS Lv34, CHARMANDER Lv34, GOLBAT Lv38, CACTURNE Lv38, WHISCASH Lv39, WHISCASH Lv38, CACTURNE Lv37, MASQUERAIN Lv38, GOLBAT Lv40, GOLBAT Lv40
+Set #346 - Seafoam Islands Hoenn/Sinnoh Radio (rate=1) - BIDOOF Lv1, BAGON Lv1, GLALIE Lv1, POLITOED Lv1
+Set #347 - Seafoam Islands Surfing (rate=5) - VOLTORB Lvs 30-40, AIPOM Lvs 30-40, CRAWDAUNT Lvs 35-45, CRAWDAUNT Lv50, CRAWDAUNT Lvs 35-45
+Set #348 - Seafoam Islands Old Rod (rate=25) - DIALGA Lv10, DIALGA Lv10, DIALGA Lv10, CLEFAIRY Lv10, CLEFAIRY Lv10
+Set #349 - Seafoam Islands Good Rod (rate=50) - WORMADAM Lv20, GIRAFARIG Lv20, TRAPINCH Lv20, MISMAGIUS Lv20, TRAPINCH Lv20
+Set #350 - Seafoam Islands Super Rod (rate=75) - EXPLOUD Lv40, ROTOM Lv40, DRIFLOON Lv40, MEWTWO Lv40, MEWTWO Lv40
+Set #351 - Seafoam Islands Swarms (rate=1) - RHYDON Lv1, RHYDON Lv1, HAUNTER Lv1, PUPITAR Lv1
+Set #352 - Mt. Silver Cave Grass/Cave (rate=5) - DELCATTY Lv45, CASTFORM Lv48, DELCATTY Lv45, RAIKOU Lv48, MILOTIC Lv48, MILOTIC Lv47, DELCATTY Lv45, DELCATTY Lv45, DRIFBLIM Lv48, URSARING Lv20, DRIFBLIM Lv48, URSARING Lv15
+Set #353 - Mt. Silver Cave Hoenn/Sinnoh Radio (rate=1) - SKARMORY Lv1, SURSKIT Lv1, BRELOOM Lv1, MEWTWO Lv1
+Set #354 - Mt. Silver Cave Surfing (rate=10) - MAGCARGO Lvs 30-40, MAGCARGO Lvs 35-45, FINNEON Lvs 30-40, FINNEON Lvs 30-40, FINNEON Lvs 30-40
+Set #355 - Mt. Silver Cave Old Rod (rate=25) - CHATOT Lv10, CHATOT Lv10, CHATOT Lv10, VAPOREON Lv10, VAPOREON Lv10
+Set #356 - Mt. Silver Cave Good Rod (rate=50) - CHIMCHAR Lv20, LUVDISC Lv20, LUVDISC Lv20, LUVDISC Lv20, LUVDISC Lv20
+Set #357 - Mt. Silver Cave Super Rod (rate=75) - MIGHTYENA Lv40, MIGHTYENA Lv40, FLOATZEL Lv40, LEAFEON Lv40, FLOATZEL Lv40
+Set #358 - Mt. Silver Cave Swarms (rate=1) - ELEKID Lv1, MANKEY Lv1, SUNKERN Lv1, FLOATZEL Lv1
+Set #359 - Mt. Silver Cave Grass/Cave (rate=10) - RAMPARDOS Lv45, METANG Lv48, PRINPLUP Lv46, JUMPLUFF Lv48, LOTAD Lv48, LOTAD Lv50, RAMPARDOS Lv45, RAMPARDOS Lv45, LAPRAS Lv48, SHUPPET Lv20, LAPRAS Lv48, SHUPPET Lv15
+Set #360 - Mt. Silver Cave Hoenn/Sinnoh Radio (rate=1) - TOGEKISS Lv1, SLAKOTH Lv1, SWAMPERT Lv1, DRAGONAIR Lv1
+Set #361 - Mt. Silver Cave Surfing (rate=10) - DIALGA Lvs 30-40, DIALGA Lvs 35-45, GLIGAR Lvs 30-40, GLIGAR Lvs 30-40, GLIGAR Lvs 30-40
+Set #362 - Mt. Silver Cave Old Rod (rate=25) - XATU Lv10, XATU Lv10, XATU Lv10, GIBLE Lv10, GIBLE Lv10
+Set #363 - Mt. Silver Cave Good Rod (rate=50) - ROSELIA Lv20, NIDORAN♀ Lv20, NIDORAN♀ Lv20, NIDORAN♀ Lv20, NIDORAN♀ Lv20
+Set #364 - Mt. Silver Cave Super Rod (rate=75) - GRIMER Lv40, GRIMER Lv40, RATICATE Lv40, WEEPINBELL Lv40, RATICATE Lv40
+Set #365 - Mt. Silver Cave Swarms (rate=1) - HERACROSS Lv1, SWABLU Lv1, IVYSAUR Lv1, SHROOMISH Lv1
+Set #366 - Mt. Silver Cave Grass/Cave (rate=10) - WEAVILE Lv50, FEEBAS Lv48, SNUBBULL Lv45, FEEBAS Lv48, VULPIX Lv47, VULPIX Lv47, SNUBBULL Lv45, SNUBBULL Lv45, YANMEGA Lv48, BIDOOF Lv20, YANMEGA Lv48, BIDOOF Lv15
+Set #367 - Mt. Silver Cave Hoenn/Sinnoh Radio (rate=1) - CRANIDOS Lv1, NIDORAN♂ Lv1, CACNEA Lv1, LICKITUNG Lv1
+Set #368 - Mt. Silver Cave Surfing (rate=10) - LUNATONE Lvs 30-40, LUNATONE Lvs 35-45, MAGNEZONE Lvs 30-40, MAGNEZONE Lvs 30-40, MAGNEZONE Lvs 30-40
+Set #369 - Mt. Silver Cave Old Rod (rate=25) - CLAYDOL Lv10, CLAYDOL Lv10, CLAYDOL Lv10, HOOTHOOT Lv10, HOOTHOOT Lv10
+Set #370 - Mt. Silver Cave Good Rod (rate=50) - ABSOL Lv20, NINJASK Lv20, NINJASK Lv20, NINJASK Lv20, NINJASK Lv20
+Set #371 - Mt. Silver Cave Super Rod (rate=75) - LEDYBA Lv40, LEDYBA Lv40, MANAPHY Lv40, CACTURNE Lv40, MANAPHY Lv40
+Set #372 - Mt. Silver Cave Swarms (rate=1) - ARTICUNO Lv1, WORMADAM Lv1, TRAPINCH Lv1, BUTTERFREE Lv1
+Set #373 - Cliff Edge Gate Surfing (rate=15) - QUAGSIRE Lvs 20-30, QUAGSIRE Lvs 20-30, MASQUERAIN Lvs 30-40, MASQUERAIN Lvs 30-40, MASQUERAIN Lvs 30-40
+Set #374 - Cliff Edge Gate Old Rod (rate=25) - DODUO Lv10, DODUO Lv10, DODUO Lv10, DODUO Lv10, DODUO Lv10
+Set #375 - Cliff Edge Gate Good Rod (rate=50) - MACHOP Lv20, MACHOP Lv20, MACHOP Lv20, VILEPLUME Lv20, VILEPLUME Lv20
+Set #376 - Cliff Edge Gate Super Rod (rate=75) - VAPOREON Lv40, VAPOREON Lv40, SHELLOS Lv40, SHELLOS Lv40, SHELLOS Lv40
+Set #377 - Cliff Edge Gate Swarms (rate=1) - CACNEA Lv1, FEEBAS Lv1, FEEBAS Lv1
+Set #378 - Cliff Cave Grass/Cave (rate=10) - VOLBEAT Lv22, BALTOY Lv19, DODRIO Lv20, SLAKOTH Lv22, CROCONAW Lv19, INFERNAPE Lv20, SILCOON Lv18, HO-OH Lv20, SUNKERN Lv20, BAYLEEF Lv22, PARASECT Lv23, PARASECT Lv23
+Set #379 - Cliff Cave Hoenn/Sinnoh Radio (rate=1) - MAGCARGO Lv1, ARTICUNO Lv1, ODDISH Lv1, CHIMECHO Lv1
+Set #380 - Cliff Cave Rock Smash (rate=30) - SNORUNT Lvs 20-26, SWABLU Lvs 28-31
+Set #381 - Cliff Cave Swarms (rate=1) - KAKUNA Lv1
+Set #382 - Bell Tower Grass/Cave (rate=5) - ABSOL Lv20, ABSOL Lv21, ABSOL Lv20, ABSOL Lv21, ABSOL Lv22, ABSOL Lv22, ABSOL Lv22, ABSOL Lv22, ABSOL Lv23, ABSOL Lv24, ABSOL Lv23, ABSOL Lv24
+Set #383 - Bell Tower Hoenn/Sinnoh Radio (rate=1) - WEEDLE Lv1, TANGELA Lv1, DODRIO Lv1, SHAYMIN Lv1
+Set #384 - Bell Tower Swarms (rate=1) - DUSCLOPS Lv1
+Set #385 - Mt. Silver Grass/Cave (rate=25) - TORTERRA Lv41, WINGULL Lv42, TORTERRA Lv41, WINGULL Lv42, ESPEON Lv42, ESPEON Lv42, POLIWHIRL Lv44, POLIWHIRL Lv44, BONSLY Lv41, URSARING Lv43, BONSLY Lv41, URSARING Lv43
+Set #386 - Mt. Silver Hoenn/Sinnoh Radio (rate=1) - GOLDEEN Lv1, SHELGON Lv1, CHINCHOU Lv1, DRAGONITE Lv1
+Set #387 - Mt. Silver Surfing (rate=10) - MARSHTOMP Lvs 30-40, MARSHTOMP Lvs 35-45, MARILL Lvs 30-40, MARILL Lvs 30-40, MARSHTOMP Lv48
+Set #388 - Mt. Silver Old Rod (rate=25) - ENTEI Lv10, ENTEI Lv10, ENTEI Lv10, AMBIPOM Lv10, AMBIPOM Lv10
+Set #389 - Mt. Silver Good Rod (rate=50) - SHEDINJA Lv20, MAKUHITA Lv20, MAKUHITA Lv20, MAKUHITA Lv20, MAKUHITA Lv20
+Set #390 - Mt. Silver Super Rod (rate=75) - SALAMENCE Lv40, SALAMENCE Lv40, LUNATONE Lv40, SALAMENCE Lv40, LUNATONE Lv40
+Set #391 - Mt. Silver Swarms (rate=1) - CHERRIM Lv1, FARFETCH’D Lv1, ALTARIA Lv1, TYPHLOSION Lv1
+Set #392 - Mt. Silver Cave Grass/Cave (rate=10) - QUILAVA Lv42, WOBBUFFET Lv44, QUILAVA Lv42, WOBBUFFET Lv44, OMANYTE Lv43, MUNCHLAX Lv43, MUNCHLAX Lv42, MUNCHLAX Lv41, SLOWPOKE Lv45, LEAFEON Lv20, SLOWPOKE Lv45, LEAFEON Lv15
+Set #393 - Mt. Silver Cave Hoenn/Sinnoh Radio (rate=1) - BASTIODON Lv1, CRESSELIA Lv1, WAILORD Lv1, JYNX Lv1
+Set #394 - Mt. Silver Cave Surfing (rate=10) - URSARING Lvs 30-40, URSARING Lvs 35-45, DITTO Lvs 30-40, DITTO Lvs 30-40, URSARING Lv50
+Set #395 - Mt. Silver Cave Old Rod (rate=25) - SENTRET Lv10, SENTRET Lv10, SENTRET Lv10, SWAMPERT Lv10, SWAMPERT Lv10
+Set #396 - Mt. Silver Cave Good Rod (rate=50) - FORRETRESS Lv20, ZIGZAGOON Lv20, LUNATONE Lv20, FORRETRESS Lv20, LUNATONE Lv20
+Set #397 - Mt. Silver Cave Super Rod (rate=75) - ARMALDO Lv40, PELIPPER Lv40, PELIPPER Lv40, ARMALDO Lv40, PELIPPER Lv40
+Set #398 - Mt. Silver Cave Swarms (rate=1) - CHARMANDER Lv1, EXEGGCUTE Lv1, SURSKIT Lv1, DONPHAN Lv1
+Set #399 - Mt. Silver Cave Grass/Cave (rate=20) - SEALEO Lv51, CAMERUPT Lv48, SEALEO Lv51, CAMERUPT Lv48, SEADRA Lv48, SEALEO Lv48, LEDYBA Lv50, LEDYBA Lv50, DELIBIRD Lv51, GOLDUCK Lv20, DELIBIRD Lv51, GOLDUCK Lv15
+Set #400 - Mt. Silver Cave Hoenn/Sinnoh Radio (rate=1) - BELDUM Lv1, GLIGAR Lv1, LAIRON Lv1, WINGULL Lv1
+Set #401 - Mt. Silver Cave Swarms (rate=1) - AGGRON Lv1
+Set #402 - Mt. Silver Cave Grass/Cave (rate=10) - GARCHOMP Lv45, METAPOD Lv48, GARCHOMP Lv45, TEDDIURSA Lv46, JOLTEON Lv48, JOLTEON Lv47, POLITOED Lv45, GARCHOMP Lv45, HOPPIP Lv48, SHIFTRY Lv20, HOPPIP Lv48, SHIFTRY Lv15
+Set #403 - Mt. Silver Cave Hoenn/Sinnoh Radio (rate=1) - CLEFABLE Lv1, HITMONTOP Lv1, PRINPLUP Lv1, NUMEL Lv1
+Set #404 - Mt. Silver Cave Swarms (rate=1) - RELICANTH Lv1
+Set #405 - Mt. Silver Cave Grass/Cave (rate=20) - EMPOLEON Lv45, BEAUTIFLY Lv48, LUMINEON Lv45, BEAUTIFLY Lv48, HOUNDOOM Lv47, HOUNDOOM Lv47, ARCANINE Lv30, LUMINEON Lv45, TYROGUE Lv48, ARCANINE Lv20, TYROGUE Lv48, ARCANINE Lv15
+Set #406 - Mt. Silver Cave Hoenn/Sinnoh Radio (rate=1) - GLAMEOW Lv1, ONIX Lv1, ELEKID Lv1, CHINGLING Lv1
+Set #407 - Mt. Silver Cave Surfing (rate=10) - TURTWIG Lvs 30-40, TURTWIG Lvs 35-45, MUDKIP Lvs 30-40, MUDKIP Lvs 30-40, MUDKIP Lvs 30-40
+Set #408 - Mt. Silver Cave Old Rod (rate=25) - TROPIUS Lv10, TROPIUS Lv10, TROPIUS Lv10, DELCATTY Lv10, DELCATTY Lv10
+Set #409 - Mt. Silver Cave Good Rod (rate=50) - TORKOAL Lv20, SEALEO Lv20, SEALEO Lv20, SEALEO Lv20, SEALEO Lv20
+Set #410 - Mt. Silver Cave Super Rod (rate=75) - NIDOQUEEN Lv40, NIDOQUEEN Lv40, GULPIN Lv40, SHAYMIN Lv40, GULPIN Lv40
+Set #411 - Mt. Silver Cave Swarms (rate=1) - DRAPION Lv1, FROSLASS Lv1, PARASECT Lv1, PINSIR Lv1
+Set #412 - Safari Zone Grass/Cave (rate=20) - MINUN Lv20, MINUN Lv20, MINUN Lv20, MINUN Lv20, MINUN Lv20, MINUN Lv20, MINUN Lv20, MINUN Lv20, MINUN Lv20, MINUN Lv20, MINUN Lv20, MINUN Lv20
+Set #413 - Safari Zone Hoenn/Sinnoh Radio (rate=1) - CAMERUPT Lv1, CAMERUPT Lv1, EMPOLEON Lv1, EMPOLEON Lv1
+Set #414 - Safari Zone Surfing (rate=15) - BUTTERFREE Lvs 10-20, BUTTERFREE Lvs 10-20, BUTTERFREE Lvs 10-20, BUTTERFREE Lvs 10-20, BUTTERFREE Lvs 10-20
+Set #415 - Safari Zone Old Rod (rate=100) - INFERNAPE Lvs 10-20, INFERNAPE Lvs 10-20, INFERNAPE Lvs 10-20, INFERNAPE Lvs 10-20, INFERNAPE Lvs 10-20
+Set #416 - Safari Zone Good Rod (rate=100) - WORMADAM Lvs 10-20, WORMADAM Lvs 10-20, WORMADAM Lvs 10-20, WORMADAM Lvs 10-20, WORMADAM Lvs 10-20
+Set #417 - Safari Zone Super Rod (rate=100) - WURMPLE Lvs 10-20, WURMPLE Lvs 10-20, WURMPLE Lvs 10-20, WURMPLE Lvs 10-20, WURMPLE Lvs 10-20
+Set #418 - Safari Zone Swarms (rate=1) - DRAGONAIR Lv1, BELLSPROUT Lv1, DEWGONG Lv1, DEWGONG Lv1
+Set #419 - Route 12 Surfing (rate=15) - DUSKNOIR Lv25, GARCHOMP Lv25, PORYGON-Z Lv25, PORYGON-Z Lv25, PORYGON-Z Lv25
+Set #420 - Route 12 Old Rod (rate=25) - GROTLE Lv10, GROTLE Lv10, GROTLE Lv10, WYNAUT Lv10, WYNAUT Lv10
+Set #421 - Route 12 Good Rod (rate=50) - DELIBIRD Lv20, BUDEW Lv20, BUDEW Lv20, BUDEW Lv20, BUDEW Lv20
+Set #422 - Route 12 Super Rod (rate=75) - KADABRA Lv40, KADABRA Lv40, TREECKO Lv40, GOLEM Lv40, TREECKO Lv40
+Set #423 - Route 12 Swarms (rate=1) - CELEBI Lv1, CELEBI Lv1, SLAKOTH Lv1
+Set #424 - Route 19 Surfing (rate=10) - ELEKID Lv35, ELEKID Lv30, KRICKETOT Lv35, KRICKETOT Lv35, KRICKETOT Lv35
+Set #425 - Route 19 Rock Smash (rate=30) - MR. MIME Lvs 28-31, HOUNDOOM Lvs 24-27
+Set #426 - Route 19 Old Rod (rate=25) - CHIMCHAR Lv10, CHIMCHAR Lv10, CHIMCHAR Lv10, JOLTEON Lv10, JOLTEON Lv10
+Set #427 - Route 19 Good Rod (rate=50) - SWALOT Lv20, SEEDOT Lv20, SEEDOT Lv20, BRONZONG Lv20, SEEDOT Lv20
+Set #428 - Route 19 Super Rod (rate=75) - SENTRET Lv40, SILCOON Lv40, SENTRET Lv40, MUK Lv40, SENTRET Lv40
+Set #429 - Route 19 Swarms (rate=1) - UNOWN Lv1, BUTTERFREE Lv1, CACNEA Lv1
+Set #430 - Route 20 Surfing (rate=10) - LUGIA Lv35, LUGIA Lv30, MESPRIT Lv35, MESPRIT Lv35, MESPRIT Lv35
+Set #431 - Route 20 Old Rod (rate=25) - SMOOCHUM Lv10, SMOOCHUM Lv10, SMOOCHUM Lv10, MAGNEMITE Lv10, MAGNEMITE Lv10
+Set #432 - Route 20 Good Rod (rate=50) - BRELOOM Lv20, KOFFING Lv20, KYOGRE Lv20, CRANIDOS Lv20, KYOGRE Lv20
+Set #433 - Route 20 Super Rod (rate=75) - KIRLIA Lv40, MISDREAVUS Lv40, TAILLOW Lv40, CHIMECHO Lv40, TAILLOW Lv40
+Set #434 - Route 20 Swarms (rate=1) - CROBAT Lv1, ALAKAZAM Lv1, TAILLOW Lv1
+Set #435 - Pallet Town Surfing (rate=15) - KRABBY Lv35, KRABBY Lv30, YANMA Lv35, YANMA Lv35, YANMA Lv35
+Set #436 - Pallet Town Old Rod (rate=25) - FINNEON Lv10, FINNEON Lv10, FINNEON Lv10, ZAPDOS Lv10, ZAPDOS Lv10
+Set #437 - Pallet Town Good Rod (rate=50) - HITMONTOP Lv20, JIGGLYPUFF Lv20, MAGBY Lv20, DEOXYS Lv20, MAGBY Lv20
+Set #438 - Pallet Town Super Rod (rate=75) - SPINDA Lv40, PURUGLY Lv40, MACHAMP Lv40, WEEPINBELL Lv40, MACHAMP Lv40
+Set #439 - Pallet Town Swarms (rate=1) - VICTREEBEL Lv1, LUMINEON Lv1, BLISSEY Lv1
+Set #440 - Viridian City Surfing (rate=15) - JIGGLYPUFF Lv10, JIGGLYPUFF Lv5, GRAVELER Lv10, GRAVELER Lv10, GRAVELER Lv10
+Set #441 - Viridian City Old Rod (rate=25) - OMASTAR Lv10, OMASTAR Lv10, OMASTAR Lv10, VENONAT Lv10, VENONAT Lv10
+Set #442 - Viridian City Good Rod (rate=50) - BLAZIKEN Lv20, WAILMER Lv20, WAILMER Lv20, WAILMER Lv20, WAILMER Lv20
+Set #443 - Viridian City Super Rod (rate=75) - FLAREON Lv40, FLAREON Lv40, MUDKIP Lv40, FLAREON Lv40, MUDKIP Lv40
+Set #444 - Viridian City Swarms (rate=1) - TYROGUE Lv1, TYROGUE Lv1, ZIGZAGOON Lv1
+Set #445 - Cerulean City Surfing (rate=10) - RHYDON Lv10, RHYDON Lv5, GABITE Lv10, GABITE Lv10, GABITE Lv10
+Set #446 - Cerulean City Old Rod (rate=25) - SWELLOW Lv10, SWELLOW Lv10, SWELLOW Lv10, PHIONE Lv10, PHIONE Lv10
+Set #447 - Cerulean City Good Rod (rate=50) - CASTFORM Lv20, HITMONCHAN Lv20, HITMONCHAN Lv20, HITMONCHAN Lv20, HITMONCHAN Lv20
+Set #448 - Cerulean City Super Rod (rate=75) - MOTHIM Lv40, MOTHIM Lv40, SWAMPERT Lv40, GLALIE Lv40, SWAMPERT Lv40
+Set #449 - Cerulean City Swarms (rate=1) - CRAWDAUNT Lv1, CRAWDAUNT Lv1, TOTODILE Lv1
+Set #450 - Vermilion City Surfing (rate=15) - WAILORD Lv35, WAILORD Lv30, KINGDRA Lv35, KINGDRA Lv35, KINGDRA Lv35
+Set #451 - Vermilion City Rock Smash (rate=40) - FURRET Lvs 24-37, JUMPLUFF Lvs 32-35
+Set #452 - Vermilion City Old Rod (rate=25) - JIRACHI Lv10, JIRACHI Lv10, JIRACHI Lv10, PIDGEY Lv10, PIDGEY Lv10
+Set #453 - Vermilion City Good Rod (rate=50) - JOLTEON Lv20, BELLSPROUT Lv20, GOLDUCK Lv20, GABITE Lv20, GOLDUCK Lv20
+Set #454 - Vermilion City Super Rod (rate=75) - TOGEPI Lv40, MAMOSWINE Lv40, ODDISH Lv40, MOTHIM Lv40, ODDISH Lv40
+Set #455 - Vermilion City Swarms (rate=1) - KAKUNA Lv1, BELLOSSOM Lv1, SKUNTANK Lv1
+Set #456 - Celadon City Surfing (rate=15) - TYROGUE Lv20, TYROGUE Lv15, HEATRAN Lv15, HEATRAN Lv15, HEATRAN Lv15
+Set #457 - Celadon City Swarms (rate=1) - CASCOON Lv1
+Set #458 - Fuchsia City Surfing (rate=15) - HOOTHOOT Lv20, HOOTHOOT Lv15, HOOTHOOT Lv10, HOOTHOOT Lv10, HOOTHOOT Lv10
+Set #459 - Fuchsia City Old Rod (rate=25) - SANDSHREW Lv10, SANDSHREW Lv10, SANDSHREW Lv10, SANDSHREW Lv10, SANDSHREW Lv10
+Set #460 - Fuchsia City Good Rod (rate=50) - SEEDOT Lv20, SEEDOT Lv20, SEEDOT Lv20, IGGLYBUFF Lv20, SEEDOT Lv20
+Set #461 - Fuchsia City Super Rod (rate=75) - CORPHISH Lv40, LUXRAY Lv40, CORPHISH Lv40, CORPHISH Lv40, CORPHISH Lv40
+Set #462 - Fuchsia City Swarms (rate=1) - PALKIA Lv1, CORSOLA Lv1, PALKIA Lv1
+Set #463 - Cinnabar Island Surfing (rate=15) - KRICKETOT Lv35, KRICKETOT Lv30, MAGMORTAR Lv35, MAGMORTAR Lv35, MAGMORTAR Lv35
+Set #464 - Cinnabar Island Old Rod (rate=25) - SPINARAK Lv10, SPINARAK Lv10, SPINARAK Lv10, CHIMECHO Lv10, CHIMECHO Lv10
+Set #465 - Cinnabar Island Good Rod (rate=50) - AIPOM Lv20, BARBOACH Lv20, TANGROWTH Lv20, TORKOAL Lv20, TANGROWTH Lv20
+Set #466 - Cinnabar Island Super Rod (rate=75) - OCTILLERY Lv40, REGIGIGAS Lv40, NIDORINA Lv40, AMPHAROS Lv40, NIDORINA Lv40
+Set #467 - Cinnabar Island Swarms (rate=1) - SUNFLORA Lv1, FLAAFFY Lv1, GASTRODON Lv1
+Set #468 - Route 48 Grass/Cave (rate=25) - LOUDRED Lv25, TOXICROAK Lv20, DRAGONITE Lv20, HONCHKROW Lv21, GLACEON Lv22, GLACEON Lv24, LUVDISC Lv21, QUILAVA Lv20, KABUTO Lv20, LUVDISC Lv22, DRAGONITE Lv22, TOXICROAK Lv24
+Set #469 - Route 48 Hoenn/Sinnoh Radio (rate=1) - SURSKIT Lv1, GLISCOR Lv1, SHINX Lv1, SHINX Lv1
+Set #470 - Route 48 Swarms (rate=1) - ROSELIA Lv1
+Set #471 - Route 26 Grass/Cave (rate=25) - GRUMPIG Lv28, CHIMCHAR Lv28, GRUMPIG Lv28, CHIMCHAR Lv28, DIGLETT Lv32, DIGLETT Lv32, GRUMPIG Lv30, GRUMPIG Lv30, TOGEPI Lv30, RAPIDASH Lv30, TOGEPI Lv30, RAPIDASH Lv30
+Set #472 - Route 26 Hoenn/Sinnoh Radio (rate=1) - AZELF Lv1, LOTAD Lv1, FLYGON Lv1, HORSEA Lv1
+Set #473 - Route 26 Surfing (rate=10) - EXPLOUD Lv30, EXPLOUD Lv25, JIGGLYPUFF Lv30, JIGGLYPUFF Lv30, JIGGLYPUFF Lv30
+Set #474 - Route 26 Old Rod (rate=25) - STARAVIA Lv10, STARAVIA Lv10, STARAVIA Lv10, AZUMARILL Lv10, AZUMARILL Lv10
+Set #475 - Route 26 Good Rod (rate=50) - PORYGON2 Lv20, DUSKNOIR Lv20, OMASTAR Lv20, ENTEI Lv20, OMASTAR Lv20
+Set #476 - Route 26 Super Rod (rate=75) - GRIMER Lv40, DEWGONG Lv40, ARCANINE Lv40, PONYTA Lv40, ARCANINE Lv40
+Set #477 - Route 26 Swarms (rate=1) - NUZLEAF Lv1, GIRATINA Lv1, SHELGON Lv1, DARKRAI Lv1
+Set #478 - Route 27 Grass/Cave (rate=25) - FORRETRESS Lv28, FLYGON Lv28, FORRETRESS Lv28, FLYGON Lv28, FORRETRESS Lv30, FORRETRESS Lv30, FLYGON Lv30, FLYGON Lv30, SWALOT Lv32, LOMBRE Lv30, SWALOT Lv32, LOMBRE Lv30
+Set #479 - Route 27 Hoenn/Sinnoh Radio (rate=1) - GOREBYSS Lv1, ARON Lv1, CHINGLING Lv1, MAKUHITA Lv1
+Set #480 - Route 27 Surfing (rate=10) - NINJASK Lv20, NINJASK Lv15, CHERRIM Lv20, CHERRIM Lv20, CHERRIM Lv20
+Set #481 - Route 27 Old Rod (rate=25) - LINOONE Lv10, LINOONE Lv10, LINOONE Lv10, DRAPION Lv10, DRAPION Lv10
+Set #482 - Route 27 Good Rod (rate=50) - STUNKY Lv20, SWINUB Lv20, BLAZIKEN Lv20, SHELLDER Lv20, BLAZIKEN Lv20
+Set #483 - Route 27 Super Rod (rate=75) - CHIKORITA Lv40, CROCONAW Lv40, SEAKING Lv40, TOTODILE Lv40, SEAKING Lv40
+Set #484 - Route 27 Swarms (rate=1) - MANTINE Lv1, EXPLOUD Lv1, MAGNEMITE Lv1, HUNTAIL Lv1
+Set #485 - Route 28 Grass/Cave (rate=25) - FROSLASS Lv39, SUICUNE Lv40, FROSLASS Lv39, SUICUNE Lv40, CHERUBI Lv40, CHERUBI Lv40, PORYGON2 Lv42, PORYGON2 Lv42, STARMIE Lv41, CHARMELEON Lv43, STARMIE Lv41, CHARMELEON Lv43
+Set #486 - Route 28 Hoenn/Sinnoh Radio (rate=1) - WIGGLYTUFF Lv1, PELIPPER Lv1, FERALIGATR Lv1, NIDORINO Lv1
+Set #487 - Route 28 Surfing (rate=10) - CRANIDOS Lv40, CRANIDOS Lv35, PRINPLUP Lv40, PRINPLUP Lv40, PRINPLUP Lv40
+Set #488 - Route 28 Old Rod (rate=25) - JIGGLYPUFF Lv10, JIGGLYPUFF Lv10, JIGGLYPUFF Lv10, METAPOD Lv10, METAPOD Lv10
+Set #489 - Route 28 Good Rod (rate=50) - BRONZOR Lv20, VENONAT Lv20, VENONAT Lv20, VENONAT Lv20, VENONAT Lv20
+Set #490 - Route 28 Super Rod (rate=75) - POLIWHIRL Lv40, POLIWHIRL Lv40, MEDITITE Lv40, POLIWHIRL Lv40, MEDITITE Lv40
+Set #491 - Route 28 Swarms (rate=1) - REGICE Lv1, SQUIRTLE Lv1, SQUIRTLE Lv1, CRESSELIA Lv1
+Set #492 - Mt. Moon Grass/Cave (rate=15) - ZANGOOSE Lv6, SANDSHREW Lv8, ZANGOOSE Lv6, SANDSHREW Lv8, IVYSAUR Lv8, IVYSAUR Lv8, SEAKING Lv12, SEAKING Lv12, GOLDUCK Lv10, TENTACOOL Lv8, GOLDUCK Lv10, TENTACOOL Lv8
+Set #493 - Mt. Moon Hoenn/Sinnoh Radio (rate=1) - KYOGRE Lv1, CLEFABLE Lv1, BURMY Lv1, DROWZEE Lv1
+Set #494 - Mt. Moon Swarms (rate=1) - LOMBRE Lv1
+Set #495 - Mt. Moon Grass/Cave (rate=15) - SLOWBRO Lv6, TROPIUS Lv8, SLOWBRO Lv6, TROPIUS Lv8, MONFERNO Lv8, MONFERNO Lv8, MACHOKE Lv12, MACHOKE Lv12, TYROGUE Lv10, PHIONE Lv8, TYROGUE Lv10, PHIONE Lv8
+Set #496 - Mt. Moon Hoenn/Sinnoh Radio (rate=1) - CASCOON Lv1, DROWZEE Lv1, MISDREAVUS Lv1, VENOMOTH Lv1
+Set #497 - Mt. Moon Swarms (rate=1) - PALKIA Lv1
+Set #498 - Rock Tunnel Grass/Cave (rate=15) - HYPNO Lv10, TOGEKISS Lv10, HYPNO Lv10, TOGEKISS Lv10, JIRACHI Lv12, JIRACHI Lv12, PIDGEOTTO Lv8, PIDGEOTTO Lv8, SNORUNT Lv14, HYPNO Lv13, SNORUNT Lv14, HYPNO Lv13
+Set #499 - Rock Tunnel Hoenn/Sinnoh Radio (rate=1) - CRADILY Lv1, MURKROW Lv1, SEAKING Lv1, SHIELDON Lv1
+Set #500 - Rock Tunnel Swarms (rate=1) - CHANSEY Lv1
+Set #501 - Rock Tunnel Grass/Cave (rate=15) - GLALIE Lv12, STUNKY Lv12, GLALIE Lv12, STUNKY Lv12, TAUROS Lv16, TAUROS Lv16, HERACROSS Lv10, HERACROSS Lv10, SNORLAX Lv14, HARIYAMA Lv14, SNORLAX Lv14, HARIYAMA Lv14
+Set #502 - Rock Tunnel Hoenn/Sinnoh Radio (rate=1) - SNEASEL Lv1, SANDSHREW Lv1, GARDEVOIR Lv1, COMBUSKEN Lv1
+Set #503 - Rock Tunnel Rock Smash (rate=20) - TORCHIC Lvs 12-16, TORCHIC Lvs 17-21
+Set #504 - Rock Tunnel Swarms (rate=1) - WAILMER Lv1
+Set #505 - Victory Road Grass/Cave (rate=10) - GROUDON Lv32, SLOWPOKE Lv32, GROUDON Lv32, SLOWPOKE Lv32, MEOWTH Lv33, MEOWTH Lv33, LATIOS Lv34, LATIOS Lv34, LATIOS Lv36, MUK Lv35, LATIOS Lv36, MUK Lv35
+Set #506 - Victory Road Hoenn/Sinnoh Radio (rate=1) - SEEL Lv1, ZUBAT Lv1, BUNEARY Lv1, SNOVER Lv1
+Set #507 - Victory Road Swarms (rate=1) - HAPPINY Lv1
+Set #508 - Route 1 Grass/Cave (rate=20) - REGIROCK Lv2, STARYU Lv2, REGIROCK Lv2, STARYU Lv2, SENTRET Lv3, SENTRET Lv3, REGIROCK Lv3, REGIROCK Lv3, VILEPLUME Lv6, REGIROCK Lv4, VILEPLUME Lv6, REGIROCK Lv4
+Set #509 - Route 1 Hoenn/Sinnoh Radio (rate=1) - HAUNTER Lv1, ARIADOS Lv1, GROTLE Lv1, GROTLE Lv1
+Set #510 - Route 1 Swarms (rate=1) - CHERRIM Lv1
+Set #511 - Route 2 Grass/Cave (rate=20) - WURMPLE Lv3, EEVEE Lv3, WURMPLE Lv3, EEVEE Lv3, NIDOQUEEN Lv5, NIDOQUEEN Lv5, EEVEE Lv7, EEVEE Lv8, SKIPLOOM Lv7, SKIPLOOM Lv10, SKIPLOOM Lv7, WURMPLE Lv4
+Set #512 - Route 2 Hoenn/Sinnoh Radio (rate=1) - FERALIGATR Lv1, MOTHIM Lv1, SPHEAL Lv1, SPHEAL Lv1
+Set #513 - Route 2 Swarms (rate=1) - RHYHORN Lv1
+Set #514 - Route 3 Grass/Cave (rate=20) - NINCADA Lv5, SLUGMA Lv5, NINCADA Lv5, SLUGMA Lv5, NINCADA Lv8, NINCADA Lv8, LAIRON Lv6, LAIRON Lv6, SLUGMA Lv10, NINCADA Lv8, SLUGMA Lv10, NINCADA Lv8
+Set #515 - Route 3 Hoenn/Sinnoh Radio (rate=1) - PLUSLE Lv1, ROSELIA Lv1, SPOINK Lv1, SPOINK Lv1
+Set #516 - Route 3 Swarms (rate=1) - CASTFORM Lv1
+Set #517 - Route 4 Grass/Cave (rate=20) - GLIGAR Lv5, BASTIODON Lv5, GLIGAR Lv5, BASTIODON Lv5, GLIGAR Lv8, GLIGAR Lv8, ELECTIVIRE Lv6, ELECTIVIRE Lv6, BASTIODON Lv10, GLIGAR Lv8, BASTIODON Lv10, GLIGAR Lv8
+Set #518 - Route 4 Hoenn/Sinnoh Radio (rate=1) - MIME JR. Lv1, GOLDUCK Lv1, SHUCKLE Lv1, DELCATTY Lv1
+Set #519 - Route 4 Surfing (rate=15) - MANTINE Lv10, MANTINE Lv5, SKORUPI Lv10, SKORUPI Lv10, SKORUPI Lv10
+Set #520 - Route 4 Old Rod (rate=25) - AZELF Lv10, AZELF Lv10, AZELF Lv10, RAPIDASH Lv10, RAPIDASH Lv10
+Set #521 - Route 4 Good Rod (rate=50) - UXIE Lv20, ABRA Lv20, ABRA Lv20, ABRA Lv20, ABRA Lv20
+Set #522 - Route 4 Super Rod (rate=75) - LOTAD Lv40, LOTAD Lv40, ALAKAZAM Lv40, CRESSELIA Lv40, ALAKAZAM Lv40
+Set #523 - Route 4 Swarms (rate=1) - GASTRODON Lv1, BEEDRILL Lv1, BEEDRILL Lv1, GIRATINA Lv1
+Set #524 - Route 5 Grass/Cave (rate=20) - SHELLOS Lv13, VESPIQUEN Lv13, SHELLOS Lv13, VESPIQUEN Lv13, SHELLOS Lv14, SHELLOS Lv14, SHELLOS Lv15, SHELLOS Lv15, TENTACRUEL Lv12, TENTACRUEL Lv14, TENTACRUEL Lv12, TENTACRUEL Lv14
+Set #525 - Route 5 Hoenn/Sinnoh Radio (rate=1) - DRIFLOON Lv1, STARYU Lv1, ARBOK Lv1, ARBOK Lv1
+Set #526 - Route 5 Swarms (rate=1) - LEAFEON Lv1
+Set #527 - Route 6 Grass/Cave (rate=20) - REGISTEEL Lv13, DITTO Lv13, REGISTEEL Lv13, DITTO Lv13, REGISTEEL Lv14, REGISTEEL Lv14, WINGULL Lv15, WINGULL Lv15, CLAYDOL Lv12, CLAYDOL Lv14, CLAYDOL Lv12, CLAYDOL Lv14
+Set #528 - Route 6 Hoenn/Sinnoh Radio (rate=1) - LUNATONE Lv1, DUSKNOIR Lv1, PIDGEOTTO Lv1, SNORUNT Lv1
+Set #529 - Route 6 Surfing (rate=15) - WARTORTLE Lv10, WARTORTLE Lv5, SHROOMISH Lv10, SHROOMISH Lv10, SHROOMISH Lv10
+Set #530 - Route 6 Old Rod (rate=25) - FLOATZEL Lv10, FLOATZEL Lv10, FLOATZEL Lv10, PERSIAN Lv10, PERSIAN Lv10
+Set #531 - Route 6 Good Rod (rate=50) - MAKUHITA Lv20, LUDICOLO Lv20, LUDICOLO Lv20, LUDICOLO Lv20, LUDICOLO Lv20
+Set #532 - Route 6 Super Rod (rate=75) - KANGASKHAN Lv40, KANGASKHAN Lv40, PRIMEAPE Lv40, KANGASKHAN Lv40, PRIMEAPE Lv40
+Set #533 - Route 6 Swarms (rate=1) - AERODACTYL Lv1, SHAYMIN Lv1, AMPHAROS Lv1, GOLDEEN Lv1
+Set #534 - Route 7 Grass/Cave (rate=20) - DRIFBLIM Lv17, MARSHTOMP Lv17, DRIFBLIM Lv17, MARSHTOMP Lv17, TANGROWTH Lv18, TANGROWTH Lv18, DRATINI Lv19, DRATINI Lv19, DRIFBLIM Lv19, TANGROWTH Lv15, DRIFBLIM Lv19, TANGROWTH Lv15
+Set #535 - Route 7 Hoenn/Sinnoh Radio (rate=1) - STARMIE Lv1, METAGROSS Lv1, WEEDLE Lv1, WEEDLE Lv1
+Set #536 - Route 7 Swarms (rate=1) - BUIZEL Lv1
+Set #537 - Route 8 Grass/Cave (rate=20) - MANTYKE Lv17, MANTYKE Lv19, MANTYKE Lv17, MANTYKE Lv19, ARBOK Lv15, ARBOK Lv15, GOLBAT Lv18, GOLBAT Lv18, MANTYKE Lv17, TORTERRA Lv15, MANTYKE Lv17, TORTERRA Lv15
+Set #538 - Route 8 Hoenn/Sinnoh Radio (rate=1) - WAILMER Lv1, WAILORD Lv1, EEVEE Lv1, EEVEE Lv1
+Set #539 - Route 8 Swarms (rate=1) - RAYQUAZA Lv1
+Set #540 - Route 9 Grass/Cave (rate=20) - TOTODILE Lv13, ALTARIA Lv15, TOTODILE Lv13, ALTARIA Lv15, METAPOD Lv13, METAPOD Lv13, GLOOM Lv15, GLOOM Lv15, POLIWHIRL Lv15, SWALOT Lv15, POLIWHIRL Lv15, SWALOT Lv15
+Set #541 - Route 9 Hoenn/Sinnoh Radio (rate=1) - PICHU Lv1, STARMIE Lv1, GASTLY Lv1, LILEEP Lv1
+Set #542 - Route 9 Surfing (rate=15) - MACHOKE Lv15, MACHOKE Lv10, MIGHTYENA Lv15, MIGHTYENA Lv15, MIGHTYENA Lv15
+Set #543 - Route 9 Old Rod (rate=25) - FEAROW Lv10, FEAROW Lv10, FEAROW Lv10, WARTORTLE Lv10, WARTORTLE Lv10
+Set #544 - Route 9 Good Rod (rate=50) - NATU Lv20, UMBREON Lv20, UMBREON Lv20, UMBREON Lv20, UMBREON Lv20
+Set #545 - Route 9 Super Rod (rate=75) - ARCEUS Lv40, ARCEUS Lv40, CYNDAQUIL Lv40, PHANPY Lv40, CYNDAQUIL Lv40
+Set #546 - Route 9 Swarms (rate=1) - MANKEY Lv1, JYNX Lv1, JYNX Lv1, SURSKIT Lv1
+Set #547 - Route 10 Grass/Cave (rate=20) - AIPOM Lv16, CLAYDOL Lv17, AIPOM Lv16, CLAYDOL Lv17, KAKUNA Lv16, KAKUNA Lv16, WORMADAM Lv18, WORMADAM Lv18, RHYHORN Lv18, RHYHORN Lv15, RHYHORN Lv18, RHYHORN Lv15
+Set #548 - Route 10 Hoenn/Sinnoh Radio (rate=1) - PARAS Lv1, MEDICHAM Lv1, DUNSPARCE Lv1, WURMPLE Lv1
+Set #549 - Route 10 Surfing (rate=15) - ABRA Lv15, ABRA Lv10, MEOWTH Lv15, MEOWTH Lv15, MEOWTH Lv15
+Set #550 - Route 10 Old Rod (rate=25) - STEELIX Lv10, STEELIX Lv10, STEELIX Lv10, CLEFAIRY Lv10, CLEFAIRY Lv10
+Set #551 - Route 10 Good Rod (rate=50) - SHUCKLE Lv20, LATIOS Lv20, LATIOS Lv20, LATIOS Lv20, LATIOS Lv20
+Set #552 - Route 10 Super Rod (rate=75) - AGGRON Lv40, AGGRON Lv40, ZAPDOS Lv40, NINETALES Lv40, ZAPDOS Lv40
+Set #553 - Route 10 Swarms (rate=1) - MEWTWO Lv1, BEAUTIFLY Lv1, BEAUTIFLY Lv1, CLOYSTER Lv1
+Set #554 - Route 11 Grass/Cave (rate=20) - BELLOSSOM Lv14, DRIFBLIM Lv15, BELLOSSOM Lv14, DRIFBLIM Lv15, CRANIDOS Lv15, CRANIDOS Lv15, BELLOSSOM Lv16, BELLOSSOM Lv16, SHAYMIN Lv16, SHAYMIN Lv16, SHAYMIN Lv16, SHAYMIN Lv16
+Set #555 - Route 11 Hoenn/Sinnoh Radio (rate=1) - ELECTABUZZ Lv1, PICHU Lv1, RAPIDASH Lv1, RAPIDASH Lv1
+Set #556 - Route 11 Swarms (rate=1) - NIDORINO Lv1
+Set #557 - Route 13 Grass/Cave (rate=20) - SPEAROW Lv23, LEDIAN Lv23, SPEAROW Lv23, LEDIAN Lv23, RHYPERIOR Lv25, RHYPERIOR Lv25, SEEL Lv22, SEEL Lv22, SEEL Lv24, SEEL Lv24, SEEL Lv24, ALTARIA Lv25
+Set #558 - Route 13 Hoenn/Sinnoh Radio (rate=1) - POLITOED Lv1, MONFERNO Lv1, MAREEP Lv1, DUGTRIO Lv1
+Set #559 - Route 13 Surfing (rate=15) - GRAVELER Lv25, CUBONE Lv25, ARBOK Lv25, ARBOK Lv25, ARBOK Lv25
+Set #560 - Route 13 Old Rod (rate=25) - CRESSELIA Lv10, CRESSELIA Lv10, CRESSELIA Lv10, AZURILL Lv10, AZURILL Lv10
+Set #561 - Route 13 Good Rod (rate=50) - LARVITAR Lv20, MAGCARGO Lv20, MAGCARGO Lv20, MAGCARGO Lv20, MAGCARGO Lv20
+Set #562 - Route 13 Super Rod (rate=75) - HAUNTER Lv40, HAUNTER Lv40, GRAVELER Lv40, LUVDISC Lv40, GRAVELER Lv40
+Set #563 - Route 13 Swarms (rate=1) - RAIKOU Lv1, MURKROW Lv1, MURKROW Lv1, WHISCASH Lv1
+Set #564 - Route 14 Grass/Cave (rate=20) - CAMERUPT Lv23, MANTINE Lv23, CAMERUPT Lv23, MANTINE Lv23, LUDICOLO Lv25, LUDICOLO Lv25, SCEPTILE Lv24, SCEPTILE Lv24, EMPOLEON Lv26, EMPOLEON Lv26, EMPOLEON Lv26, KRICKETUNE Lv25
+Set #565 - Route 14 Hoenn/Sinnoh Radio (rate=1) - SUICUNE Lv1, MANTINE Lv1, INFERNAPE Lv1, INFERNAPE Lv1
+Set #566 - Route 14 Swarms (rate=1) - BANETTE Lv1
+Set #567 - Route 15 Grass/Cave (rate=20) - PELIPPER Lv23, TREECKO Lv23, PELIPPER Lv23, TREECKO Lv23, ELECTRIKE Lv25, ELECTRIKE Lv25, TOGETIC Lv22, TOGETIC Lv22, TOGETIC Lv24, TOGETIC Lv24, TOGETIC Lv24, CYNDAQUIL Lv25
+Set #568 - Route 15 Hoenn/Sinnoh Radio (rate=1) - GLOOM Lv1, BUNEARY Lv1, RAMPARDOS Lv1, RAMPARDOS Lv1
+Set #569 - Route 15 Swarms (rate=1) - PURUGLY Lv1
+Set #570 - Route 16 Grass/Cave (rate=20) - AZURILL Lv26, TORTERRA Lv27, AZURILL Lv26, TORTERRA Lv27, AZURILL Lv28, AZURILL Lv28, TORTERRA Lv29, TORTERRA Lv29, LICKITUNG Lv27, CORPHISH Lv30, LICKITUNG Lv27, CORPHISH Lv30
+Set #571 - Route 16 Hoenn/Sinnoh Radio (rate=1) - MIME JR. Lv1, LOPUNNY Lv1, MOLTRES Lv1, MOLTRES Lv1
+Set #572 - Route 16 Swarms (rate=1) - RIOLU Lv1
+Set #573 - Route 17 Grass/Cave (rate=20) - BEEDRILL Lv28, GLOOM Lv27, BEEDRILL Lv28, GLOOM Lv27, MACHAMP Lv29, MACHAMP Lv29, BEEDRILL Lv30, BEEDRILL Lv30, GLOOM Lv29, CATERPIE Lv32, GLOOM Lv29, CATERPIE Lv32
+Set #574 - Route 17 Hoenn/Sinnoh Radio (rate=1) - AMBIPOM Lv1, HITMONLEE Lv1, ELECTRIKE Lv1, ELECTRIKE Lv1
+Set #575 - Route 17 Swarms (rate=1) - STARMIE Lv1
+Set #576 - Route 18 Grass/Cave (rate=20) - QWILFISH Lv26, LUDICOLO Lv27, QWILFISH Lv26, LUDICOLO Lv27, QWILFISH Lv28, QWILFISH Lv28, LUDICOLO Lv29, LUDICOLO Lv29, STEELIX Lv27, SMOOCHUM Lv30, STEELIX Lv27, SMOOCHUM Lv30
+Set #577 - Route 18 Hoenn/Sinnoh Radio (rate=1) - LUDICOLO Lv1, TEDDIURSA Lv1, WHISMUR Lv1, WHISMUR Lv1
+Set #578 - Route 18 Swarms (rate=1) - AZURILL Lv1
+Set #579 - Route 21 Grass/Cave (rate=20) - BELDUM Lv30, BELDUM Lv25, BELDUM Lv30, BELDUM Lv25, BELDUM Lv35, BELDUM Lv35, BELDUM Lv20, BELDUM Lv20, LANTURN Lv30, LANTURN Lv28, LANTURN Lv30, LANTURN Lv28
+Set #580 - Route 21 Hoenn/Sinnoh Radio (rate=1) - MAGNETON Lv1, PILOSWINE Lv1, BUTTERFREE Lv1, CHERUBI Lv1
+Set #581 - Route 21 Surfing (rate=10) - CATERPIE Lv35, CATERPIE Lv30, ROSERADE Lv35, ROSERADE Lv35, ROSERADE Lv35
+Set #582 - Route 21 Old Rod (rate=25) - TANGELA Lv10, TANGELA Lv10, TANGELA Lv10, NOCTOWL Lv10, NOCTOWL Lv10
+Set #583 - Route 21 Good Rod (rate=50) - ANORITH Lv20, EXEGGUTOR Lv20, CHATOT Lv20, LANTURN Lv20, CHATOT Lv20
+Set #584 - Route 21 Super Rod (rate=75) - MILOTIC Lv40, WYNAUT Lv40, GOLBAT Lv40, KABUTOPS Lv40, GOLBAT Lv40
+Set #585 - Route 21 Swarms (rate=1) - GRANBULL Lv1, BEEDRILL Lv1, GLISCOR Lv1, ILLUMISE Lv1
+Set #586 - Route 22 Grass/Cave (rate=20) - SUDOWOODO Lv3, TORKOAL Lv3, SUDOWOODO Lv3, TORKOAL Lv3, TORKOAL Lv5, TORKOAL Lv5, HEATRAN Lv4, HEATRAN Lv4, PIPLUP Lv6, ARIADOS Lv7, PIPLUP Lv6, ARIADOS Lv7
+Set #587 - Route 22 Hoenn/Sinnoh Radio (rate=1) - RHYDON Lv1, MAGCARGO Lv1, MURKROW Lv1, PIDGEOTTO Lv1
+Set #588 - Route 22 Surfing (rate=10) - ABRA Lv10, ABRA Lv5, PUPITAR Lv10, PUPITAR Lv10, PUPITAR Lv10
+Set #589 - Route 22 Old Rod (rate=25) - TAUROS Lv10, TAUROS Lv10, TAUROS Lv10, TRAPINCH Lv10, TRAPINCH Lv10
+Set #590 - Route 22 Good Rod (rate=50) - WIGGLYTUFF Lv20, MAGIKARP Lv20, MAGIKARP Lv20, MAGIKARP Lv20, MAGIKARP Lv20
+Set #591 - Route 22 Super Rod (rate=75) - VIBRAVA Lv40, VIBRAVA Lv40, AZUMARILL Lv40, VIBRAVA Lv40, AZUMARILL Lv40
+Set #592 - Route 22 Swarms (rate=1) - RAICHU Lv1, RIOLU Lv1, RIOLU Lv1, JUMPLUFF Lv1
+Set #593 - Route 24 Grass/Cave (rate=20) - LILEEP Lv8, AERODACTYL Lv10, LILEEP Lv8, AERODACTYL Lv10, ELECTRODE Lv9, ELECTRODE Lv9, AZELF Lv12, AZELF Lv12, LILEEP Lv8, AZELF Lv14, LILEEP Lv8, AZELF Lv14
+Set #594 - Route 24 Hoenn/Sinnoh Radio (rate=1) - GROVYLE Lv1, SHIELDON Lv1, RALTS Lv1, KINGDRA Lv1
+Set #595 - Route 24 Surfing (rate=10) - PINECO Lv10, PINECO Lv5, SNOVER Lv10, SNOVER Lv10, SNOVER Lv10
+Set #596 - Route 24 Old Rod (rate=25) - SEALEO Lv10, SEALEO Lv10, SEALEO Lv10, QUAGSIRE Lv10, QUAGSIRE Lv10
+Set #597 - Route 24 Good Rod (rate=50) - BASTIODON Lv20, ARCANINE Lv20, ARCANINE Lv20, ARCANINE Lv20, ARCANINE Lv20
+Set #598 - Route 24 Super Rod (rate=75) - VOLTORB Lv40, VOLTORB Lv40, BURMY Lv40, KANGASKHAN Lv40, BURMY Lv40
+Set #599 - Route 24 Swarms (rate=1) - SEEDOT Lv1, LUVDISC Lv1, LUVDISC Lv1, DEOXYS Lv1
+Set #600 - Route 25 Grass/Cave (rate=20) - SHUPPET Lv8, SUDOWOODO Lv10, SHUPPET Lv8, SUDOWOODO Lv10, SHUPPET Lv8, SHUPPET Lv8, SCEPTILE Lv9, SCEPTILE Lv9, MANECTRIC Lv10, GRUMPIG Lv14, MANECTRIC Lv10, GRUMPIG Lv14
+Set #601 - Route 25 Hoenn/Sinnoh Radio (rate=1) - LILEEP Lv1, MACHOKE Lv1, SHARPEDO Lv1, REGIROCK Lv1
+Set #602 - Route 25 Surfing (rate=10) - ALAKAZAM Lv10, ALAKAZAM Lv5, SEEL Lv10, SEEL Lv10, SEEL Lv10
+Set #603 - Route 25 Old Rod (rate=25) - NIDOQUEEN Lv10, NIDOQUEEN Lv10, NIDOQUEEN Lv10, SHELGON Lv10, SHELGON Lv10
+Set #604 - Route 25 Good Rod (rate=50) - MR. MIME Lv20, TYRANITAR Lv20, TYRANITAR Lv20, TYRANITAR Lv20, TYRANITAR Lv20
+Set #605 - Route 25 Super Rod (rate=75) - SHEDINJA Lv40, SHEDINJA Lv40, SHIELDON Lv40, MUNCHLAX Lv40, SHIELDON Lv40
+Set #606 - Route 25 Swarms (rate=1) - LATIAS Lv1, MAWILE Lv1, MAWILE Lv1, EKANS Lv1
+Set #607 - Tohjo Falls Grass/Cave (rate=15) - FEAROW Lv22, DEWGONG Lv22, FEAROW Lv22, DEWGONG Lv22, LANTURN Lv22, LANTURN Lv22, HOUNDOUR Lv21, HOUNDOUR Lv21, DODRIO Lv20, HOUNDOUR Lv23, DODRIO Lv20, HOUNDOUR Lv23
+Set #608 - Tohjo Falls Hoenn/Sinnoh Radio (rate=1) - SPIRITOMB Lv1, MAREEP Lv1, CELEBI Lv1, GARDEVOIR Lv1
+Set #609 - Tohjo Falls Surfing (rate=10) - LOTAD Lv20, MONFERNO Lv20, BIBAREL Lv20, BIBAREL Lv20, BIBAREL Lv20
+Set #610 - Tohjo Falls Old Rod (rate=25) - UMBREON Lv10, UMBREON Lv10, UMBREON Lv10, SUICUNE Lv10, SUICUNE Lv10
+Set #611 - Tohjo Falls Good Rod (rate=50) - HITMONCHAN Lv20, LOUDRED Lv20, LOUDRED Lv20, LOUDRED Lv20, LOUDRED Lv20
+Set #612 - Tohjo Falls Super Rod (rate=75) - MUDKIP Lv40, MUDKIP Lv40, ARON Lv40, SPIRITOMB Lv40, ARON Lv40
+Set #613 - Tohjo Falls Swarms (rate=1) - MUNCHLAX Lv1, KINGLER Lv1, KINGLER Lv1, RIOLU Lv1
+Set #614 - DIGLETT’s Cave Grass/Cave (rate=10) - KECLEON Lv15, KECLEON Lv17, KECLEON Lv15, KECLEON Lv17, KECLEON Lv19, KECLEON Lv19, KECLEON Lv13, KECLEON Lv13, RIOLU Lv19, RIOLU Lv24, RIOLU Lv19, RIOLU Lv29
+Set #615 - DIGLETT’s Cave Hoenn/Sinnoh Radio (rate=1) - BARBOACH Lv1, HAPPINY Lv1, ABRA Lv1, ABOMASNOW Lv1
+Set #616 - DIGLETT’s Cave Swarms (rate=1) - BRELOOM Lv1
+Set #617 - Victory Road Grass/Cave (rate=10) - MAGMORTAR Lv32, STARAPTOR Lv32, MAGMORTAR Lv32, STARAPTOR Lv32, RAYQUAZA Lv33, RAYQUAZA Lv33, LATIOS Lv34, LATIOS Lv34, LATIOS Lv36, SANDSLASH Lv35, LATIOS Lv36, SANDSLASH Lv35
+Set #618 - Victory Road Hoenn/Sinnoh Radio (rate=1) - HOPPIP Lv1, VENONAT Lv1, WOOPER Lv1, XATU Lv1
+Set #619 - Victory Road Swarms (rate=1) - PARAS Lv1
+Set #620 - Victory Road Grass/Cave (rate=10) - LARVITAR Lv32, CROCONAW Lv32, LARVITAR Lv32, CROCONAW Lv32, BULBASAUR Lv33, BULBASAUR Lv33, NUMEL Lv34, NUMEL Lv34, NUMEL Lv36, PARASECT Lv35, NUMEL Lv36, PARASECT Lv35
+Set #621 - Victory Road Hoenn/Sinnoh Radio (rate=1) - BIDOOF Lv1, HOOTHOOT Lv1, SPEAROW Lv1, WOOPER Lv1
+Set #622 - Victory Road Rock Smash (rate=40) - GROUDON Lvs 24-32, FLYGON Lvs 30-33
+Set #623 - Victory Road Swarms (rate=1) - STARYU Lv1
+Set #624 - Route 2 Grass/Cave (rate=20) - BELLOSSOM Lv3, SWELLOW Lv3, BELLOSSOM Lv3, SWELLOW Lv3, SWELLOW Lv5, SWELLOW Lv5, MAGNETON Lv7, MAGNETON Lv8, TOGETIC Lv7, TOGETIC Lv10, TOGETIC Lv7, BELLOSSOM Lv4
+Set #625 - Route 2 Hoenn/Sinnoh Radio (rate=1) - NOSEPASS Lv1, ANORITH Lv1, VOLBEAT Lv1, VOLBEAT Lv1
+Set #626 - Route 2 Swarms (rate=1) - BUIZEL Lv1
+Set #627 - Viridian Forest Grass/Cave (rate=15) - TROPIUS Lv3, TROPIUS Lv3, DRAGONITE Lv3, AGGRON Lv3, DRAGONITE Lv5, DRAGONITE Lv5, AGGRON Lv7, KRABBY Lv7, KRABBY Lv7, SHELGON Lv4, SHELGON Lv7, SHELGON Lv4
+Set #628 - Viridian Forest Hoenn/Sinnoh Radio (rate=1) - WEAVILE Lv1, CHERUBI Lv1, MAWILE Lv1, PORYGON2 Lv1
+Set #629 - Viridian Forest Swarms (rate=1) - SLAKOTH Lv1
+Set #630 - Cerulean Cave Grass/Cave (rate=10) - SENTRET Lv39, ARCEUS Lv38, NIDOQUEEN Lv38, SLOWKING Lv38, ALTARIA Lv40, WEAVILE Lv39, DODUO Lv40, PACHIRISU Lv37, SLOWKING Lv39, SENTRET Lv40, ALTARIA Lv39, WEAVILE Lv40
+Set #631 - Cerulean Cave Hoenn/Sinnoh Radio (rate=1) - HYPNO Lv1, SCYTHER Lv1, SOLROCK Lv1, FLAREON Lv1
+Set #632 - Cerulean Cave Surfing (rate=10) - KABUTO Lv40, KABUTO Lv35, NIDOKING Lv40, NIDOKING Lv40, NIDOKING Lv40
+Set #633 - Cerulean Cave Rock Smash (rate=5) - METANG Lvs 22-24, LATIAS Lvs 26-30
+Set #634 - Cerulean Cave Old Rod (rate=25) - GOREBYSS Lv10, GOREBYSS Lv10, GOREBYSS Lv10, GOREBYSS Lv10, GOREBYSS Lv10
+Set #635 - Cerulean Cave Good Rod (rate=50) - PIKACHU Lv20, LUGIA Lv20, NIDORINA Lv20, LUGIA Lv20, PIKACHU Lv20
+Set #636 - Cerulean Cave Super Rod (rate=75) - TENTACRUEL Lv40, WINGULL Lv40, SMOOCHUM Lv40, SMOOCHUM Lv40, SMOOCHUM Lv40
+Set #637 - Cerulean Cave Swarms (rate=1) - PINECO Lv1, EXPLOUD Lv1, EXPLOUD Lv1, PALKIA Lv1
+Set #638 - Cerulean Cave Grass/Cave (rate=10) - GABITE Lv42, CHATOT Lv40, SHARPEDO Lv41, DONPHAN Lv39, VIBRAVA Lv41, GOLEM Lv42, ELECTABUZZ Lv41, WOBBUFFET Lv42, DONPHAN Lv41, DONPHAN Lv42, DONPHAN Lv41, DONPHAN Lv42
+Set #639 - Cerulean Cave Hoenn/Sinnoh Radio (rate=1) - GALLADE Lv1, PLUSLE Lv1, SLOWKING Lv1, ARBOK Lv1
+Set #640 - Cerulean Cave Surfing (rate=10) - SWAMPERT Lv40, SWAMPERT Lv35, FLAAFFY Lv40, FLAAFFY Lv40, FLAAFFY Lv40
+Set #641 - Cerulean Cave Old Rod (rate=25) - SNEASEL Lv10, SNEASEL Lv10, SNEASEL Lv10, SNEASEL Lv10, SNEASEL Lv10
+Set #642 - Cerulean Cave Good Rod (rate=50) - SEADRA Lv20, ELECTABUZZ Lv20, JYNX Lv20, ELECTABUZZ Lv20, SEADRA Lv20
+Set #643 - Cerulean Cave Super Rod (rate=75) - LEAFEON Lv40, CARVANHA Lv40, SKITTY Lv40, SKITTY Lv40, SKITTY Lv40
+Set #644 - Cerulean Cave Swarms (rate=1) - GIRAFARIG Lv1, CASTFORM Lv1, CASTFORM Lv1, GYARADOS Lv1
+Set #645 - Cerulean Cave Grass/Cave (rate=10) - SHINX Lv46, AZUMARILL Lv45, REGISTEEL Lv47, BUDEW Lv45, ILLUMISE Lv45, ARON Lv45, HITMONLEE Lv46, ILLUMISE Lv47, AZUMARILL Lv47, VICTREEBEL Lv49, AZUMARILL Lv47, VICTREEBEL Lv49
+Set #646 - Cerulean Cave Hoenn/Sinnoh Radio (rate=1) - MEDICHAM Lv1, DELCATTY Lv1, GLACEON Lv1, FLAAFFY Lv1
+Set #647 - Cerulean Cave Surfing (rate=10) - VENUSAUR Lv40, VENUSAUR Lv35, MAROWAK Lv40, MAROWAK Lv40, MAROWAK Lv40
+Set #648 - Cerulean Cave Rock Smash (rate=5) - SKARMORY Lvs 22-24, PURUGLY Lvs 26-30
+Set #649 - Cerulean Cave Old Rod (rate=25) - KINGLER Lv10, KINGLER Lv10, KINGLER Lv10, KINGLER Lv10, KINGLER Lv10
+Set #650 - Cerulean Cave Good Rod (rate=50) - CROBAT Lv20, LICKILICKY Lv20, STARAVIA Lv20, LICKILICKY Lv20, CROBAT Lv20
+Set #651 - Cerulean Cave Super Rod (rate=75) - PRIMEAPE Lv40, TORCHIC Lv40, CUBONE Lv40, CUBONE Lv40, CUBONE Lv40
+Set #652 - Cerulean Cave Swarms (rate=1) - SHROOMISH Lv1, RAYQUAZA Lv1, RAYQUAZA Lv1, NATU Lv1
+
+TM Moves: Unchanged.
+
+Move Tutor Moves: Unchanged.
+
+--In-Game Trades--
+Trading BELLSPROUT for Rocky the ONIX has become trading NATU for Callie the BUDEW
+Trading DROWZEE for Muscle the MACHOP has become trading BONSLY for Shadow the SKUNTANK
+Trading KRABBY for Billy the VOLTORB has become trading REGICE for Angry the LEDYBA
+Trading DRAGONAIR for Doris the DODRIO has become trading WEEDLE for Midnight the HIPPOPOTAS
+Trading GLOOM for Sprints the RAPIDASH has become trading NIDORINO for Merlin the SNUBBULL
+Trading STEELIX for Rusty the STEELIX has become trading DRAGONITE for Willow the DRAGONITE
+Trading DUGTRIO for Maggie the MAGNETON has become trading LUDICOLO for Gizmo the CROAGUNK
+Trading HAUNTER for Paul the XATU has become trading WYNAUT for Sylvester the SHINX
+Trading PIKACHU for Volty the PIKACHU has become trading OCTILLERY for Blue the OCTILLERY
+Trading BONSLY for Hornlette the RHYHORN has become trading SUNFLORA for Cookie the RAIKOU
+Trading FORRETRESS for Iron the BELDUM has become trading SANDSHREW for Angel the INFERNAPE
+
+------------------------------------------------------------------
+Randomization of Pokemon HeartGold (U) completed.
+Time elapsed: 7577ms
+RNG Calls: 6643
+------------------------------------------------------------------
